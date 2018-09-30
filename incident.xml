@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE active_incidents [
+<!ELEMENT active_incidents (incident)*>
+<!ATTLIST active_incidents time_stamp CDATA #REQUIRED>
+<!ELEMENT incident EMPTY>
+<!ATTLIST incident name CDATA #REQUIRED>
+<!ATTLIST incident replaces CDATA #IMPLIED>
+<!ATTLIST incident event_type CDATA #REQUIRED>
+<!ATTLIST incident event_date CDATA #REQUIRED>
+<!ATTLIST incident detail CDATA #IMPLIED>
+<!ATTLIST incident lane_type CDATA #REQUIRED>
+<!ATTLIST incident road CDATA #REQUIRED>
+<!ATTLIST incident dir CDATA #REQUIRED>
+<!ATTLIST incident location CDATA #IMPLIED>
+<!ATTLIST incident lon CDATA #REQUIRED>
+<!ATTLIST incident lat CDATA #REQUIRED>
+<!ATTLIST incident camera CDATA #REQUIRED>
+<!ATTLIST incident impact CDATA #REQUIRED>
+<!ATTLIST incident cleared CDATA #REQUIRED>
+]>
+<active_incidents time_stamp='Sun Sep 30 16:38:07 CDT 2018'>
+<incident name='2018092819553371' event_type='INCIDENT_ROADWORK' event_date='Fri Sep 28 19:55:33 CDT 2018' lane_type='Mainline' road='T.H.62' dir='WB' location='@ T.H.100' lon='-93.34791' lat='44.88913' camera='C117' impact='!!!!' cleared='false' confirmed='true'/>
+<incident name='2018092819531862' event_type='INCIDENT_ROADWORK' event_date='Fri Sep 28 19:53:18 CDT 2018' lane_type='Exit' road='U.S.169' dir='SB' location='@ T.H.62 WB' lon='-93.39987' lat='44.89252' camera='C120' impact='!!!' cleared='false' confirmed='true'/>
+<incident name='2018092819533003' event_type='INCIDENT_ROADWORK' event_date='Fri Sep 28 19:53:30 CDT 2018' lane_type='Exit' road='U.S.169' dir='NB' location='@ T.H.62 WB' lon='-93.39957' lat='44.89252' camera='C120' impact='!!!' cleared='false' confirmed='true'/>
+<incident name='2018092819315453' event_type='INCIDENT_ROADWORK' event_date='Fri Sep 28 19:31:54 CDT 2018' lane_type='Exit' road='T.H.100' dir='NB' location='@ T.H.62 WB' lon='-93.34994' lat='44.89076' camera='C117' impact='!!!' cleared='false' confirmed='true'/>
+<incident name='2018092820101610' event_type='INCIDENT_ROADWORK' event_date='Fri Sep 28 20:10:16 CDT 2018' lane_type='Exit' road='I-35W' dir='SB' location='@ Cleveland Ave' lon='-93.1879' lat='45.01534' camera='C635' impact='!!!!' cleared='false' confirmed='true'/>
+<incident name='2018092820040732' event_type='INCIDENT_ROADWORK' event_date='Fri Sep 28 20:04:07 CDT 2018' lane_type='Mainline' road='I-35E' dir='SB' location='S of I-35W' lon='-93.02947' lat='45.21275' camera='C056' impact='!!!!' cleared='false' confirmed='true'/>
+<incident name='2018092820090159' event_type='INCIDENT_ROADWORK' event_date='Fri Sep 28 20:09:01 CDT 2018' lane_type='Exit' road='T.H.36' dir='WB' location='@ Cleveland Ave' lon='-93.18502' lat='45.01033' camera='C001' impact='!!!' cleared='false' confirmed='true'/>
+<incident name='L004_9942237' event_type='INCIDENT_STALL' event_date='Sun Sep 30 16:37:32 CDT 2018' lane_type='Mainline' road='I-494' dir='EB' location='@ E Bush Lake Rd' lon='-93.3624' lat='44.85952' camera='C426' impact='.....' cleared='false' confirmed='false'/>
+<incident name='2018092819042630' event_type='INCIDENT_ROADWORK' event_date='Fri Sep 28 19:04:26 CDT 2018' lane_type='Exit' road='T.H.100' dir='SB' location='@ T.H.62 WB' lon='-93.3502' lat='44.89148' camera='C117' impact='!!!' cleared='false' confirmed='true'/>
+</active_incidents>
