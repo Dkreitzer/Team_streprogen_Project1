@@ -109,17 +109,17 @@ def incidents():
             DF.to_csv(f, header=False)
 
 
-# In[5]:
+# In[11]:
 
 
 def detectors():
-        XMLfile = "det_sample.xml"
-
+        
         sensors = []
         times = []
         flows = []
         occupancies = []
         speeds = []
+        XMLfile = "det_sample.xml"
 
         parsedXML = ET.parse(XMLfile)
         root = parsedXML.getroot()
@@ -128,10 +128,10 @@ def detectors():
                 sensors.append(child.attrib['sensor'])
             except KeyError:
                 sensors.append("NA")
-#             try:
-#                 times.append(str(child.attrib['time_stamp']))
-#             except KeyError:
-#                 times.append("NA")
+            try:
+                times.append(str(root.attrib['time_stamp']))
+            except KeyError:
+                times.append("NA")
             try:
                 flows.append(child.attrib['sample flow'])
             except KeyError:
@@ -148,7 +148,7 @@ def detectors():
 
 
         DF = pd.DataFrame({"Sensor" : sensors,
-#                            "Time" : times,
+                            "Time" : times,
                            "Occupancy": occupancies,
                            "Speed" : speeds,
                            "Flow" : flows})
@@ -180,10 +180,10 @@ def stations():
                 decription.append(child.attrib['description'])
             except KeyError:
                 decription.append("NA")
-#             try:
-#                 times.append(str(child.attrib['tms_config_time_stamp']))
-#             except KeyError:
-#                 times.append("NA")
+            try:
+                times.append(str(root.attrib['tms_config_time_stamp']))
+            except KeyError:
+                times.append("NA")
             try:
                 detectors.append(child.attrib['name'])
             except KeyError:
@@ -201,7 +201,7 @@ def stations():
 
         DF = pd.DataFrame({"Label" : decription,
                            "Sensor" : detectors,
-#                            "Time" : times,
+                           "Time" : times,
                            "Lat": lats,
                            "Lng" : lngs})
         
@@ -231,7 +231,7 @@ except FileNotFoundError:
             stations()
 
 
-# In[8]:
+# In[9]:
 
 
 while True:
