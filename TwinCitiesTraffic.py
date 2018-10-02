@@ -109,17 +109,17 @@ def incidents():
             DF.to_csv(f, header=False)
 
 
-# In[5]:
+# In[11]:
 
 
 def detectors():
-        XMLfile = "det_sample.xml"
-
+        
         sensors = []
         times = []
         flows = []
         occupancies = []
         speeds = []
+        XMLfile = "det_sample.xml"
 
         parsedXML = ET.parse(XMLfile)
         root = parsedXML.getroot()
@@ -231,7 +231,7 @@ except FileNotFoundError:
             stations()
 
 
-# In[8]:
+# In[9]:
 
 
 while True:
