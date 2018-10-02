@@ -201,7 +201,7 @@ def stations():
 
         DF = pd.DataFrame({"Label" : decription,
                            "Sensor" : detectors,
-                           "Time" : times,
+                            "Time" : times,
                            "Lat": lats,
                            "Lng" : lngs})
         
