@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE active_incidents [
+<!ELEMENT active_incidents (incident)*>
+<!ATTLIST active_incidents time_stamp CDATA #REQUIRED>
+<!ELEMENT incident EMPTY>
+<!ATTLIST incident name CDATA #REQUIRED>
+<!ATTLIST incident replaces CDATA #IMPLIED>
+<!ATTLIST incident event_type CDATA #REQUIRED>
+<!ATTLIST incident event_date CDATA #REQUIRED>
+<!ATTLIST incident detail CDATA #IMPLIED>
+<!ATTLIST incident lane_type CDATA #REQUIRED>
+<!ATTLIST incident road CDATA #REQUIRED>
+<!ATTLIST incident dir CDATA #REQUIRED>
+<!ATTLIST incident location CDATA #IMPLIED>
+<!ATTLIST incident lon CDATA #REQUIRED>
+<!ATTLIST incident lat CDATA #REQUIRED>
+<!ATTLIST incident camera CDATA #REQUIRED>
+<!ATTLIST incident impact CDATA #REQUIRED>
+<!ATTLIST incident cleared CDATA #REQUIRED>
+]>
+<active_incidents time_stamp='Thu Oct 04 21:19:07 CDT 2018'>
+<incident name='2018100417282319' event_type='INCIDENT_ROADWORK' event_date='Thu Oct 04 17:28:23 CDT 2018' lane_type='Mainline' road='I-35W' dir='SB' lon='-93.12996' lat='45.17135' camera='C646' impact='!!..' cleared='false' confirmed='true'/>
+<incident name='2018100419235473' event_type='INCIDENT_ROADWORK' event_date='Thu Oct 04 19:23:54 CDT 2018' lane_type='Mainline' road='I-94' dir='EB' location='W of Snelling Ave' lon='-93.17941' lat='44.95207' camera='C843' impact='!!!...' cleared='false' confirmed='true'/>
+<incident name='L004_9950380' event_type='INCIDENT_HAZARD' event_date='Thu Oct 04 21:04:02 CDT 2018' lane_type='Mainline' road='T.H.36' dir='WB' location='@ Rice St' lon='-93.10586' lat='45.0077' camera='C005' impact='....' cleared='false' confirmed='false'/>
+<incident name='L004_9950386' event_type='INCIDENT_HAZARD' event_date='Thu Oct 04 21:08:42 CDT 2018' lane_type='Mainline' road='T.H.52' dir='NB' lon='-93.04469' lat='44.8158' camera='C30055' impact='....' cleared='false' confirmed='false'/>
+<incident name='2018100420102849' event_type='INCIDENT_ROADWORK' event_date='Thu Oct 04 20:10:28 CDT 2018' lane_type='Mainline' road='I-35W' dir='NB' location='@ T.H.36 EB' lon='-93.19805' lat='45.01006' camera='C634' impact='!!.....' cleared='false' confirmed='true'/>
+<incident name='2018100420164065' event_type='INCIDENT_ROADWORK' event_date='Thu Oct 04 20:16:40 CDT 2018' lane_type='Mainline' road='I-35W' dir='SB' location='@ 110th St' lon='-93.29076' lat='44.80453' camera='C610' impact='....!!' cleared='false' confirmed='true'/>
+<incident name='2018100420165042' event_type='INCIDENT_ROADWORK' event_date='Thu Oct 04 20:16:50 CDT 2018' lane_type='Mainline' road='I-35W' dir='NB' location='@ T.H.13 WB' lon='-93.28829' lat='44.77806' camera='C608' impact='!!...' cleared='false' confirmed='true'/>
+<incident name='2018100418240629' event_type='INCIDENT_ROADWORK' event_date='Thu Oct 04 18:24:06 CDT 2018' lane_type='Mainline' road='I-35W' dir='NB' location='@ Co Rd J' lon='-93.18832' lat='45.1264' camera='C642' impact='!!..' cleared='false' confirmed='true'/>
+<incident name='2018100418582099' event_type='INCIDENT_ROADWORK' event_date='Thu Oct 04 18:58:20 CDT 2018' lane_type='Mainline' road='I-35W' dir='SB' location='@ Co Rd E2' lon='-93.18787' lat='45.05614' camera='C637' impact='!!!..' cleared='false' confirmed='true'/>
+<incident name='2018100420121040' event_type='INCIDENT_ROADWORK' event_date='Thu Oct 04 20:12:10 CDT 2018' lane_type='Mainline' road='I-35W' dir='NB' location='@ University Ave' lon='-93.2434' lat='44.98192' camera='C629' impact='....!!' cleared='false' confirmed='true'/>
+</active_incidents>
