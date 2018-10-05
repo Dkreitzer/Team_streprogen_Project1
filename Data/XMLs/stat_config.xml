@@ -63,7 +63,7 @@
 <!ATTLIST dms width_pixels CDATA #IMPLIED>
 <!ATTLIST dms height_pixels CDATA #IMPLIED>
 ]>
-<tms_config time_stamp='Thu Oct 04 20:00:05 CDT 2018'>
+<tms_config time_stamp='Tue Oct 02 20:00:05 CDT 2018'>
 <corridor route='12th St SW' dir='SB'>
   <r_node name='rnd_4291' lon='-92.48221' lat='44.00701' lanes='3' shift='7' s_limit='60'/>
 </corridor>
@@ -1773,8 +1773,8 @@
   <r_node name='rnd1_409' lon='-92.3206' lat='46.70032' lanes='2' shift='6' active='f'/>
   <r_node name='rnd_8623' lon='-92.99587' lat='45.3664' lanes='2' shift='6' active='f' s_limit='70'/>
   <r_node name='rnd_4578' label='280th St' lon='-92.99884' lat='45.35489' lanes='2' shift='6' s_limit='70'>
-    <detector name='T3554' label='35/280StS1' lane='1' controller='ctl_602'/>
-    <detector name='T3555' label='35/280StS2' lane='2' controller='ctl_602'/>
+    <detector name='T3554' label='35/280StS1' lane='1'/>
+    <detector name='T3555' label='35/280StS2' lane='2'/>
   </r_node>
   <r_node name='rnd_4572' lon='-92.99999' lat='45.34981' lanes='2' shift='6' s_limit='70'/>
   <r_node name='rnd_8604' label='274th St' lon='-93.00211' lat='45.34587' lanes='2' shift='6' s_limit='70'>
@@ -3932,8 +3932,8 @@
     <detector name='386' label='35W/CR42NP' category='P' field='9.0' controller='ctl_100000'/>
     <detector name='3497' label='35W/CR42NQ' category='Q' controller='ctl_100000'/>
     <detector name='4744' label='35W/CR42NG' category='G'/>
-    <detector name='7065' label='35W/CR42NQ1' category='Q' lane='1' controller='ctl_100000'/>
-    <detector name='7066' label='35W/CR42NQ1' category='Q' lane='1' controller='ctl_100000'/>
+    <detector name='7065' label='35W/CR42N' controller='ctl_100000'/>
+    <detector name='7066' label='35W/CR42N' controller='ctl_100000'/>
     <meter name='M35WN14' lon='-93.28257' lat='44.74695' storage='455'/>
   </r_node>
   <r_node name='rnd_95752' station_id='S1600' label='McAndrews Rd' lon='-93.28623' lat='44.75288' lanes='3' shift='4' s_limit='65'>
@@ -4761,7 +4761,7 @@
   <r_node name='rnd_87501' n_type='Entrance' transition='Leg' label='Co Rd 10 WB' lon='-93.18798' lat='45.09306' lanes='1' shift='8' s_limit='65'>
     <detector name='2744' label='35W/WBCR10NP' category='P' controller='ctl_1910'/>
     <detector name='4776' label='35W/WBCR10NG' category='G'/>
-    <detector name='7812' label='35W/WBCR10NM' category='M' controller='ctl_1910'/>
+    <detector name='7812' label='35W/WBCR10N' controller='ctl_1910'/>
     <meter name='M35WN67' storage='1'/>
   </r_node>
   <r_node name='rnd_87503' pickable='t' station_id='S667' label='Co Rd H' lon='-93.188' lat='45.09649' lanes='4' shift='8' s_limit='65'>
@@ -14218,8 +14218,8 @@
     <detector name='4872' label='94/VandlaWG' category='G'/>
     <detector name='7061' label='94/VandlaW-ABND' abandoned='t' controller='ctl_vandalia1'/>
     <detector name='7062' label='94/VandlaW-ABND' abandoned='t' controller='ctl_vandalia1'/>
-    <detector name='7063' label='94/VandlaWQ' category='Q' controller='ctl_1802'/>
-    <detector name='7064' label='94/VandlaWQ' category='Q' controller='ctl_1802'/>
+    <detector name='7063' label='94/VandlaW' controller='ctl_1802'/>
+    <detector name='7064' label='94/VandlaW' controller='ctl_1802'/>
     <detector name='3527' label='94/VandlaWQ1' category='Q' lane='1' controller='ctl_1802'/>
     <detector name='3528' label='94/VandlaWQ2' category='Q' lane='2' controller='ctl_1802'/>
     <meter name='M94W47' lon='-93.19514' lat='44.9575' storage='500'/>
@@ -21874,7 +21874,7 @@
     <detector name='7803' label='TH610/WElmCkBW2' lane='2' controller='ctl_718'/>
   </r_node>
   <r_node name='rnd_1841' n_type='Entrance' transition='Leg' label='C.S.A.H.81' lon='-93.45506' lat='45.13714' lanes='1' shift='5' s_limit='65'>
-    <detector name='7730' label='TH610/CSAH81WM' category='M' controller='ctl_717'/>
+    <detector name='7730' label='TH610/CSAH81W' controller='ctl_717'/>
   </r_node>
   <r_node name='rnd_1842' lon='-93.45901' lat='45.13795' lanes='2' shift='5' s_limit='65'/>
   <r_node name='rnd_1897' station_id='S1959' label='Fernbrook Ln' lon='-93.4617' lat='45.13795' lanes='2' shift='5' s_limit='65'>
@@ -25550,8 +25550,8 @@
 <camera name='C723' description='I-694 SB @ Stillwater Blvd' lon='-92.96102' lat='44.98724'/>
 <camera name='C1539' description='T.H.55 EB @ South Shore Dr' lon='-93.41971' lat='44.98771'/>
 <camera name='C30036' description='I-94 EB (Elm Creek Rest Area)' lon='-93.47285' lat='45.11107'/>
-<camera name='C722' description='I-694 NB @ Co Rd 14' lon='-92.95894' lat='44.998'/>
 <camera name='C1538' description='T.H.55 EB @ Co Rd 6' lon='-93.44238' lat='44.99901'/>
+<camera name='C722' description='I-694 NB @ Co Rd 14' lon='-92.95894' lat='44.998'/>
 <camera name='C30035' description='I-94 EB (Enfield Rest Area)' lon='-93.90567' lat='45.34982'/>
 <camera name='C30038' description='I-94 EB @ St. Croix RA' lon='-92.82248' lat='44.95091'/>
 <camera name='C721' description='I-694 NB @ 40th St' lon='-92.9574' lat='45.00674'/>
@@ -25597,7 +25597,7 @@
 <camera name='C1514' description='T.H.25 @ Co Rd 75' lon='-93.79384' lat='45.30559'/>
 <camera name='C9001' description='@ Larpenteur Ave' lon='-93.08098' lat='44.99752'/>
 <camera name='C9004' description='I-35 SB @ Co Rd 61' lon='-93.00305' lat='45.34635'/>
-<camera name='C9002' description='I-35 SB @ 280th St' lon='-93.00511' lat='45.35189'/>
+<camera name='C9002' description='I-394 WB E of Theodore Wirth Pkwy' lon='-93.31895' lat='44.97053'/>
 <camera name='C9003' description='I-394 WB @ Penn Ave' lon='-93.30779' lat='44.97021'/>
 <camera name='C194-211' description='T.H.194 WB @ 2nd Ave W' lon='-92.10668' lat='46.78886'/>
 <camera name='C1529' description='T.H.55 EB @ Arrowhead Dr' lon='-93.56366' lat='45.0513'/>
@@ -25626,8 +25626,8 @@
 <camera name='C9466' description='I-94 EB W of T.H.27' lon='-95.46114' lat='45.872'/>
 <camera name='C1500' description='T.H.65 NB @ Crosstown Blvd' lon='-93.23381' lat='45.28819'/>
 <camera name='C7049' description='T.H.7 EB @ 12th Ave' lon='-93.41469' lat='44.93321'/>
-<camera name='C778' description='I-94 EB E of Co Rd 8 1 Mile' lon='-93.95153' lat='45.36185'/>
 <camera name='C1506' description='T.H.23 EB @ 5th Ave' lon='-94.1563' lat='45.55921'/>
+<camera name='C778' description='I-94 EB E of Co Rd 8 1 Mile' lon='-93.95153' lat='45.36185'/>
 <camera name='C1505' description='T.H.15 N of 3rd St' lon='-94.20531' lat='45.56211'/>
 <camera name='C777' description='I-94 EB @ Co Rd 8' lon='-93.97376' lat='45.36756'/>
 <camera name='C1504' description='T.H.15 NB @ 2nd St' lon='-94.20556' lat='45.54993'/>
@@ -25674,14 +25674,14 @@
 <camera name='C319' description='U.S.169 NB @ Pioneer Trail' lon='-93.39781' lat='44.819'/>
 <camera name='C1728' description='T.H.61 NB @ 7th St' lon='-93.00768' lat='45.08854'/>
 <camera name='C318' description='U.S.169 NB @ Old Shakopee Rd' lon='-93.39792' lat='44.80776'/>
-<camera name='C1727' description='T.H.61 SB @ 4th St' lon='-93.00985' lat='45.08534'/>
 <camera name='C559' description='T.H.52 SB @ Concord St' lon='-93.07051' lat='44.92809'/>
+<camera name='C1727' description='T.H.61 SB @ 4th St' lon='-93.00985' lat='45.08534'/>
 <camera name='C317' description='U.S.169 NB @ T.H.101' lon='-93.40539' lat='44.78952'/>
 <camera name='C316' description='Co Rd 101 EB E of U.S.169' lon='-93.40216' lat='44.78544'/>
 <camera name='C558' description='T.H.52 NB N of Butler Ave' lon='-93.06342' lat='44.91728'/>
 <camera name='C1726' description='T.H.61 NB @ 2nd St' lon='-93.01156' lat='45.08322'/>
-<camera name='C1725' description='T.H.61 SB @ Co Rd 96' lon='-93.01579' lat='45.07913'/>
 <camera name='C799' description='I-94 WB @ T.H.241' lon='-93.59507' lat='45.21831'/>
+<camera name='C1725' description='T.H.61 SB @ Co Rd 96' lon='-93.01579' lat='45.07913'/>
 <camera name='C557' description='T.H.52 NB @ Butler Ave' lon='-93.06394' lat='44.91216'/>
 <camera name='C315' description='U.S.169 NB @ Co Rd 21' lon='-93.41416' lat='44.78563'/>
 <camera name='C556' description='T.H.52 NB @ Thompson Ave' lon='-93.06529' lat='44.90138'/>
@@ -25696,19 +25696,19 @@
 <camera name='C312' description='U.S.169 NB @ Canterbury Rd' lon='-93.46778' lat='44.78191'/>
 <camera name='C796' description='I-94 EB @ Co Rd 37' lon='-93.64949' lat='45.23784'/>
 <camera name='C554' description='T.H.52 NB @ I-494' lon='-93.06034' lat='44.87418'/>
-<camera name='C795' description='I-94 EB @ Co Rd 19' lon='-93.6624' lat='45.2406'/>
 <camera name='C553' description='T.H.52 NB @ Upper 55th St' lon='-93.05919' lat='44.86536'/>
+<camera name='C795' description='I-94 EB @ Co Rd 19' lon='-93.6624' lat='45.2406'/>
 <camera name='C1721' description='T.H.61 NB @ Co Rd E' lon='-93.03581' lat='45.04988'/>
 <camera name='C794' description='I-94 WB (E Jct MnROAD)' lon='-93.68803' lat='45.25168'/>
 <camera name='C552' description='T.H.52 NB @ 70th St' lon='-93.05893' lat='44.84801'/>
 <camera name='C793' description='I-94 WB (MnROAD)' lon='-93.70024' lat='45.25886'/>
 <camera name='C551' description='T.H.52 SB @ 80th St' lon='-93.06035' lat='44.83358'/>
-<camera name='C792' description='I-94 WB (W Jct MnROAD)' lon='-93.71294' lat='45.26586'/>
 <camera name='C550' description='T.H.52 SB @ T.H.55' lon='-93.05883' lat='44.8244'/>
+<camera name='C792' description='I-94 WB (W Jct MnROAD)' lon='-93.71294' lat='45.26586'/>
 <camera name='C2-215' description='T.H.2 WB (Bong Bridge)' lon='-92.13402' lat='46.72782'/>
-<camera name='C2-216' description='T.H.2' lon='-92.11861' lat='46.72091'/>
 <camera name='C9450' description='I-94 EB W of T.H.79' lon='-95.75511' lat='46.00765'/>
 <camera name='C791' description='I-94 WB E of Co Rd 18 3 Miles' lon='-93.7307' lat='45.27403'/>
+<camera name='C2-216' description='T.H.2' lon='-92.11861' lat='46.72091'/>
 <camera name='C8361' description='I-94 EB @ Riverside Ave' lon='-93.23331' lat='44.96389'/>
 <camera name='C790' description='I-94 WB E of Co Rd 18 2 Miles' lon='-93.75415' lat='45.28762'/>
 <camera name='C1729' description='T.H.61 NB @ T.H.96' lon='-93.006' lat='45.09345'/>
@@ -25953,8 +25953,8 @@
 <camera name='C3614' description='T.H.36 WB @ Hadley Ave N' lon='-92.97187' lat='45.02776'/>
 <camera name='C2521' description='T.H.252 SB @ 66th Ave' lon='-93.28678' lat='45.07439'/>
 <camera name='C4704' description='T.H.47 @ 49th Ave' lon='-93.26343' lat='45.05711'/>
-<camera name='C4946' description='T.H.149 SB @ Yankee Doodle Rd' lon='-93.11665' lat='44.83327'/>
 <camera name='C3615' description='T.H.36 WB @ Hilton Tr' lon='-92.95056' lat='45.03683'/>
+<camera name='C4946' description='T.H.149 SB @ Yankee Doodle Rd' lon='-93.11665' lat='44.83327'/>
 <camera name='C1674' description='T.H.61 NB S of 80th St' lon='-92.94948' lat='44.82442'/>
 <camera name='C1673' description='T.H.61 NB @ Jamaica Avenue' lon='-92.93444' lat='44.81583'/>
 <camera name='C3616' description='T.H.36 WB E of Demontreville Tr' lon='-92.92711' lat='45.03627'/>
@@ -25963,12 +25963,12 @@
 <camera name='C3617' description='T.H.36 WB W of Keats Ave' lon='-92.91326' lat='45.0361'/>
 <camera name='C4706' description='T.H.47 S of I-694 EB' lon='-93.26357' lat='45.06782'/>
 <camera name='C828' description='I-94 EB @ Tunnel East #3' lon='-93.28815' lat='44.9655'/>
+<camera name='C4707' description='T.H.47 N of I-694' lon='-93.26368' lat='45.06969'/>
 <camera name='C827' description='I-94 EB @ Tunnel East #2' lon='-93.28821' lat='44.96769'/>
 <camera name='C4949' description='T.H.149 SB S Jct T.H.55' lon='-93.12458' lat='44.84582'/>
-<camera name='C4707' description='T.H.47 N of I-694' lon='-93.26368' lat='45.06969'/>
-<camera name='C1670' description='T.H.61 NB S of Innovation Rd' lon='-92.90064' lat='44.79935'/>
-<camera name='C4708' description='T.H.47 @ 57th Ave' lon='-93.2637' lat='45.07158'/>
 <camera name='C826' description='I-94 EB @ Tunnel East #1' lon='-93.28796' lat='44.96913'/>
+<camera name='C4708' description='T.H.47 @ 57th Ave' lon='-93.2637' lat='45.07158'/>
+<camera name='C1670' description='T.H.61 NB S of Innovation Rd' lon='-92.90064' lat='44.79935'/>
 <camera name='C3619' description='T.H.36 WB E of Keats Ave' lon='-92.894' lat='45.0364'/>
 <camera name='C4709' description='T.H.47 @ 61st Ave' lon='-93.26374' lat='45.07883'/>
 <camera name='C825' description='I-94 SB @ 7th St' lon='-93.28916' lat='44.98838'/>
@@ -26003,9 +26003,9 @@
 <camera name='C4716' description='T.H.47 @ University Ave' lon='-93.26709' lat='45.12854'/>
 <camera name='C1683' description='T.H.61 NB @ Highwood Ave' lon='-93.01492' lat='44.91626'/>
 <camera name='C839' description='I-94 EB @ Franklin Ave' lon='-93.21613' lat='44.9645'/>
-<camera name='C838' description='I-94 WB @ Huron St' lon='-93.22152' lat='44.96791'/>
 <camera name='C1682' description='T.H.61 NB @ Carver Ave' lon='-93.00997' lat='44.90171'/>
 <camera name='C3629' description='T.H.36 EB @ T.H.95' lon='-92.79079' lat='45.03517'/>
+<camera name='C838' description='I-94 WB @ Huron St' lon='-93.22152' lat='44.96791'/>
 <camera name='C1681' description='T.H.61 NB @ Bailey Rd' lon='-93.00633' lat='44.89141'/>
 <camera name='C837' description='I-94 EB @ Riverside Ave' lon='-93.23007' lat='44.96412'/>
 <camera name='C836' description='I-94 EB @ Cedar Ave' lon='-93.24408' lat='44.96436'/>
@@ -26133,8 +26133,8 @@
 <camera name='C404' description='I-494 WB @ T.H.61' lon='-93.00393' lat='44.88624'/>
 <camera name='C8005' description='(WE First Floor N Stair)'/>
 <camera name='C646' description='I-35W NB S of Co Rd 23' lon='-93.12428' lat='45.17254'/>
-<camera name='C645' description='I-35W NB @ Sunset Rd' lon='-93.14278' lat='45.16791'/>
 <camera name='C403' description='I-494 WB @ Bailey Rd' lon='-93.0023' lat='44.8886'/>
+<camera name='C645' description='I-35W NB @ Sunset Rd' lon='-93.14278' lat='45.16791'/>
 <camera name='C8006' description='(RTMC Front Entrance)'/>
 <camera name='C644' description='I-35W SB @ Lexington Ave' lon='-93.16362' lat='45.15957'/>
 <camera name='C402' description='I-494 WB @ Carver Ave' lon='-92.99535' lat='44.90208'/>
@@ -26196,8 +26196,8 @@
 <camera name='C666' description='T.H.10 EB @ Hanson Blvd' lon='-93.31586' lat='45.18176'/>
 <camera name='C665' description='T.H.10 EB W of Hanson Blvd' lon='-93.32783' lat='45.18694'/>
 <camera name='C423' description='I-494 EB @ France Ave' lon='-93.32846' lat='44.85864'/>
-<camera name='C664' description='T.H.10 EB @ Co Rd 14' lon='-93.34102' lat='45.19735'/>
 <camera name='C422' description='I-494 WB @ Penn Ave' lon='-93.30883' lat='44.8623'/>
+<camera name='C664' description='T.H.10 EB @ Co Rd 14' lon='-93.34102' lat='45.19735'/>
 <camera name='C663' description='T.H.10 EB @ Round Lake Blvd' lon='-93.35756' lat='45.20387'/>
 <camera name='C421' description='I-494 EB @ I-35W SB' lon='-93.29993' lat='44.8616'/>
 <camera name='C420' description='I-494 WB @ Lyndale Ave' lon='-93.28847' lat='44.86239'/>
@@ -26319,8 +26319,8 @@
 <camera name='C024' description='I-35E SB N of T.H.62' lon='-93.13226' lat='44.88874'/>
 <camera name='C023' description='I-35E SB @ T.H.62' lon='-93.1394' lat='44.88356'/>
 <camera name='C022' description='I-35E SB @ Wagon Wheel Tr' lon='-93.14385' lat='44.8748'/>
-<camera name='C4271' description='I-494 WB @ Washington Ave' lon='-93.39893' lat='44.85969'/>
 <camera name='C021' description='I-35E SB @ I-494 WB' lon='-93.14606' lat='44.86307'/>
+<camera name='C4271' description='I-494 WB @ Washington Ave' lon='-93.39893' lat='44.85969'/>
 <camera name='C020' description='I-35E SB @ Lone Oak Rd' lon='-93.15402' lat='44.84812'/>
 <camera name='C6211' description='I-35W NS @ 38th St' lon='-93.27477' lat='44.93554'/>
 <camera name='C039' description='I-35E SB @ Roselawn Ave' lon='-93.08988' lat='45.005'/>
@@ -27004,10 +27004,8 @@
 <commlink name='L2089' description='NID, 35E NB @ Arlington, SB NID' protocol='SmartSensor 125 HD'/>
 <commlink name='L802' description='PTZ for C1500' protocol='Infinova D PTZ'/>
 <commlink name='L801' description='PTZ for C1499' protocol='Infinova D PTZ'/>
-<commlink name='L6440' description='C055 PTZ' protocol='Cohu PTZ'/>
 <commlink name='L2087' description='Pelco Keyboard (Tim Johnson)' protocol='Pelco P'/>
 <commlink name='L800' description='PTZ for C1498' protocol='Cohu PTZ'/>
-<commlink name='L6441' description='C060 PTZ' protocol='Cohu PTZ'/>
 <commlink name='L807' description='Henn. Cty RavenX CSAH 9' protocol='NTCIP Class A'/>
 <commlink name='L806' description='Henn. Cty RavenX CSAH 6' protocol='NTCIP Class A'/>
 <commlink name='L805' description='Henn. Cty RavenX CSAH 6' protocol='NTCIP Class A'/>
@@ -28274,7 +28272,6 @@
 <commlink name='L2075' description='Beacon, US71 NB Jackson' protocol='CBW'/>
 <commlink name='L2076' description='Beacon, US71 SB Sanborn' protocol='CBW'/>
 <commlink name='L6430' description='C8361 PTZ' protocol='Cohu PTZ'/>
-<commlink name='L6439' description='C056 PTZ' protocol='Cohu PTZ'/>
 <commlink name='L1192' description='PTZ C75-05' protocol='Infinova D PTZ'/>
 <commlink name='L2040' description='road closed beacon test' protocol='CBW'/>
 <commlink name='L1191' description='PTZ C75-04' protocol='Infinova D PTZ'/>
@@ -28889,17 +28886,17 @@
 <commlink name='L10043' description='KBD 43 - Open' protocol='Pelco P'/>
 <commlink name='L10046' description='KBD 46 - Open' protocol='Pelco P'/>
 <commlink name='L10045' description='KBD 45 - Open' protocol='Pelco P'/>
-<commlink name='L2392' description='PTZ for C9507' protocol='Cohu PTZ'/>
 <commlink name='L1060' description='PTZ for C1503' protocol='Infinova D PTZ'/>
 <commlink name='L296' description='170, 169SB @ BETTY CROCKER BLVD' protocol='MnDOT 170 (5-bit)'/>
-<commlink name='L2393' description='PTZ for C9508' protocol='Cohu PTZ'/>
+<commlink name='L2392' description='PTZ for C9507' protocol='Cohu PTZ'/>
 <commlink name='L295' description='PTZ, 169NB @ 55' protocol='Cohu PTZ'/>
+<commlink name='L2393' description='PTZ for C9508' protocol='Cohu PTZ'/>
 <commlink name='L2390' description='NID:D1: 53NB SO SIDE BRIDGE' protocol='SmartSensor 125 HD'/>
 <commlink name='L294' description='NID, 169SB @ 55' protocol='SmartSensor 125 HD'/>
 <commlink name='L1062' description='Detection TH10WB S of TH96' protocol='SmartSensor 125 HD'/>
-<commlink name='L2391' description='PTZ for C9506' protocol='Cohu PTZ'/>
 <commlink name='L293' description='170, 169NB @ 55 SW QUAD' protocol='MnDOT 170 (5-bit)'/>
 <commlink name='L1061' description='Detection 694WB @ Snelling' protocol='MnDOT 170 (5-bit)'/>
+<commlink name='L2391' description='PTZ for C9506' protocol='Cohu PTZ'/>
 <commlink name='L299' description='NID, 169SB @ 394' protocol='SmartSensor 125 HD'/>
 <commlink name='L298' description='170, 169SB @ 394' protocol='MnDOT 170 (5-bit)'/>
 <commlink name='L297' description='170, 169SB @ 394' protocol='MnDOT 170 (5-bit)'/>
@@ -29049,11 +29046,11 @@
 <controller name='694-45.46' condition='ACTIVE' drop='1' commlink='L2248' location='I-694 EB @ Rice St' cabinet='694-45.46'/>
 <controller name='ctl_75' condition='ACTIVE' drop='6094' commlink='L1361' location='I-494 SB @ Cheshire Ln' cabinet='ctl_75'/>
 <controller name='ctl_76' condition='ACTIVE' drop='7167' commlink='L1362' location='I-494 NB N of Carlson Pkwy' cabinet='ctl_76'/>
-<controller name='ctl_764' condition='ACTIVE' drop='1' commlink='VDU5' location='RTMC (KBEM wall)' cabinet='ctl_764'/>
 <controller name='ctl_94076' condition='ACTIVE' drop='23' commlink='L1266' location='T.H.10 WB @ 7th Ave' cabinet='cab_94076'/>
+<controller name='ctl_764' condition='ACTIVE' drop='1' commlink='VDU5' location='RTMC (KBEM wall)' cabinet='ctl_764'/>
 <controller name='ctl_763' condition='ACTIVE' drop='1' commlink='VDU4' location='RTMC (KBEM wall)' cabinet='ctl_763'/>
-<controller name='ctl_94078' condition='ACTIVE' drop='22' commlink='L1266' location='T.H.10 EB @ Round Lake Blvd' cabinet='cab_94078'/>
 <controller name='ctl_766' condition='ACTIVE' drop='1' commlink='VDU7' location='RTMC (TRAFFIC wall)' cabinet='ctl_766'/>
+<controller name='ctl_94078' condition='ACTIVE' drop='22' commlink='L1266' location='T.H.10 EB @ Round Lake Blvd' cabinet='cab_94078'/>
 <controller name='ctl_765' condition='ACTIVE' drop='1' commlink='VDU6' location='RTMC (KBEM wall)' cabinet='ctl_765'/>
 <controller name='ctl_768' condition='ACTIVE' drop='1' commlink='VDU9' location='RTMC (TRAFFIC wall)' cabinet='ctl_768'/>
 <controller name='ctl_767' condition='ACTIVE' drop='1' commlink='VDU8' location='RTMC (TRAFFIC wall)' cabinet='ctl_767'/>
@@ -29234,8 +29231,8 @@
 <controller name='ctl_C1500' condition='ACTIVE' drop='47' commlink='L802' location='T.H.65 NB @ Crosstown Blvd' cabinet='ctl_C1500'/>
 <controller name='ctl_12' condition='ACTIVE' drop='1' commlink='L1293' location='T.H.149 @ Northwest Pkwy' cabinet='ctl_12'/>
 <controller name='ctl_705' condition='ACTIVE' drop='5183' commlink='L1768' location='I-694 WB @ Dupont Ave' cabinet='ctl_705'/>
-<controller name='ctl_13' condition='ACTIVE' drop='1' commlink='L1292' location='T.H.149 @ Lone Oak Pkwy' cabinet='ctl_13'/>
 <controller name='ctl_708' condition='ACTIVE' drop='1' commlink='L6255' location='Unknown location' cabinet='ctl_708'/>
+<controller name='ctl_13' condition='ACTIVE' drop='1' commlink='L1292' location='T.H.149 @ Lone Oak Pkwy' cabinet='ctl_13'/>
 <controller name='ctl_14' condition='ACTIVE' drop='1' commlink='L1291' location='T.H.149 @ Yankee Doodle Rd' cabinet='ctl_14'/>
 <controller name='ctl_707' condition='ACTIVE' drop='1' commlink='L6256' location='Unknown location' cabinet='ctl_707'/>
 <controller name='ctl_709' condition='ACTIVE' drop='1' commlink='L1773' location='I-694 EB @ Shingle Creek Pkwy' cabinet='ctl_709'/>
@@ -29254,8 +29251,8 @@
 <controller name='ctl_704' condition='ACTIVE' drop='1' commlink='L1856' location='T.H.610 WB @ I-94' cabinet='ctl_704'/>
 <controller name='ctl_18' condition='ACTIVE' drop='1' commlink='L1302' location='T.H.13 @ Pilot Knob Rd' cabinet='ctl_18'/>
 <controller name='ctl_703' condition='ACTIVE' drop='1' commlink='L4017' location='I-94 EB W of T.H.27' cabinet='ctl_703'/>
-<controller name='ctl_22' condition='CONSTRUCTION' drop='19217' commlink='L1306' location='Unknown location' cabinet='ctl_22'/>
 <controller name='ctl_717' condition='ACTIVE' drop='1' commlink='L1861' location='T.H.610 WB W of Elm Creek Blvd' cabinet='ctl_717'/>
+<controller name='ctl_22' condition='CONSTRUCTION' drop='19217' commlink='L1306' location='Unknown location' cabinet='ctl_22'/>
 <controller name='ctl_716' condition='ACTIVE' drop='1' commlink='L1866' location='T.H.610 WB E of Fernbrook Ln' cabinet='ctl_716' notes='Switch in cabinet'/>
 <controller name='ctl_23' condition='CONSTRUCTION' drop='3915' commlink='L1307' location='Unknown location' cabinet='ctl_23'/>
 <controller name='ctl_719' condition='ACTIVE' drop='1' commlink='L1863' location='T.H.610 WB @ Revere Ln' cabinet='ctl_719'/>
@@ -29703,8 +29700,8 @@
 <controller name='ctl_r35wn56' condition='ACTIVE' drop='1' commlink='L1226' location='I-35W NB @ 82nd St' cabinet='ctl_r35wn56'/>
 <controller name='ctl_94730' condition='ACTIVE' drop='163' commlink='L198' location='T.H.77 NB @ 66th St' cabinet='cab_94730'/>
 <controller name='ctl_VT371N01' condition='ACTIVE' drop='1' commlink='L078' location='T.H.371 @ 250th St' cabinet='ctl_VT371N01'/>
-<controller name='ctl_2002' condition='ACTIVE' drop='1' commlink='L1428' location='T.H.13 @ Silver Bell Rd' cabinet='ctl_2002'/>
 <controller name='ctl_94722' condition='ACTIVE' drop='191' commlink='L198' location='I-494 WB @ T.H.77' cabinet='cab_94722'/>
+<controller name='ctl_2002' condition='ACTIVE' drop='1' commlink='L1428' location='T.H.13 @ Silver Bell Rd' cabinet='ctl_2002'/>
 <controller name='ctl_2003' condition='ACTIVE' drop='1' commlink='L1427' location='T.H.13 @ Diffley Rd' cabinet='ctl_2003'/>
 <controller name='ctl_94724' condition='ACTIVE' drop='1' commlink='L1288' location='T.H.77 SB @ Old Shakopee Rd' cabinet='cab_94724' notes='ss21   77 / 494'/>
 <controller name='ctl_2004' condition='ACTIVE' drop='1' commlink='L1426' location='T.H.13 @ River Hills Dr' cabinet='ctl_2004'/>
@@ -29943,22 +29940,22 @@
 <controller name='694-47.54' condition='ACTIVE' drop='1' commlink='L1808' location='I-694 WB @ Edgerton St' cabinet='694-47.54'/>
 <controller name='ctl_l35wn26_2' condition='CONSTRUCTION' drop='1' commlink='L329' location='I-35W NB @ Black Dog Rd' cabinet='ctl_l35wn26_2'/>
 <controller name='ctl_l35wn26_3' condition='CONSTRUCTION' drop='1' commlink='L330' location='I-35W NB @ Black Dog Rd' cabinet='ctl_l35wn26_3'/>
-<controller name='ctl_1760' condition='ACTIVE' drop='1' commlink='L292' location='U.S.169 NB @ T.H.55' cabinet='cab_1760' notes='NE Quad'/>
 <controller name='ctl_926' condition='ACTIVE' drop='1' commlink='VDU101' location='Unknown location' cabinet='ctl_926'/>
+<controller name='ctl_1760' condition='ACTIVE' drop='1' commlink='L292' location='U.S.169 NB @ T.H.55' cabinet='cab_1760' notes='NE Quad'/>
 <controller name='ctl_925' condition='ACTIVE' drop='1' commlink='L1899' location='Unknown location' cabinet='ctl_925'/>
 <controller name='ctl_1761' condition='ACTIVE' drop='1' commlink='L999' location='U.S.169 @ 22nd St' cabinet='cab_1761'/>
 <controller name='ctl_928' condition='ACTIVE' drop='1' commlink='L115' location='I-94 EW S of I-694' cabinet='ctl_928'/>
 <controller name='ctl_1762' condition='ACTIVE' drop='1' commlink='L1001' location='U.S.169 @ Cedar Lake Rd' cabinet='cab_1762'/>
-<controller name='ctl_1763' condition='ACTIVE' drop='1' commlink='L1002' location='U.S.169 @ Minnetonka Blvd' cabinet='cab_1763'/>
 <controller name='ctl_927' condition='ACTIVE' drop='1' commlink='VDU102' location='Unknown location' cabinet='ctl_927'/>
+<controller name='ctl_1763' condition='ACTIVE' drop='1' commlink='L1002' location='U.S.169 @ Minnetonka Blvd' cabinet='cab_1763'/>
 <controller name='ctl_929' condition='ACTIVE' drop='1' commlink='L1874' location='T.H.77 NB @ T.H.13' cabinet='ctl_929'/>
 <controller name='ctl_1768' condition='ACTIVE' drop='1' commlink='L1009' location='U.S.169 @ Lincoln Dr' cabinet='cab_1768'/>
 <controller name='ctl_1769' condition='ACTIVE' drop='13' commlink='L021' location='I-394 @ U.S.169' cabinet='cab_1769' notes='Rack #1'/>
 <controller name='ctl_920' condition='ACTIVE' drop='1' commlink='VDU88' location='RTMC (LL Maintenance)' cabinet='ctl_920'/>
-<controller name='ctl_1764' condition='ACTIVE' drop='1' commlink='L1003' location='U.S.169 @ 36th St' cabinet='cab_1764'/>
 <controller name='ctl_922' condition='ACTIVE' drop='1' commlink='VDU91' location='(WE)' cabinet='ctl_922'/>
-<controller name='ctl_1765' condition='ACTIVE' drop='1' commlink='L1005' location='U.S.169 NB @ T.H.7' cabinet='cab_1765'/>
+<controller name='ctl_1764' condition='ACTIVE' drop='1' commlink='L1003' location='U.S.169 @ 36th St' cabinet='cab_1764'/>
 <controller name='ctl_921' condition='ACTIVE' drop='1' commlink='VDU90' location='RTMC (Tour Room)' cabinet='ctl_921'/>
+<controller name='ctl_1765' condition='ACTIVE' drop='1' commlink='L1005' location='U.S.169 NB @ T.H.7' cabinet='cab_1765'/>
 <controller name='ctl_924' condition='ACTIVE' drop='1' commlink='VDU93' location='RTMC (Computer Room)' cabinet='ctl_924'/>
 <controller name='ctl_1766' condition='ACTIVE' drop='1' commlink='L1006' location='U.S.169 NB @ T.H.7' cabinet='cab_1766'/>
 <controller name='ctl_1767' condition='ACTIVE' drop='1' commlink='L1007' location='U.S.169 @ Excelsior Blvd' cabinet='cab_1767'/>
@@ -30004,14 +30001,14 @@ Vasa, MN'/>
 <controller name='ctl_943' condition='PLANNED' drop='1' commlink='L3028' lon='-95.31584' lat='45.93317' location='T.H.29 @ Co Rd 120' cabinet='ctl_943' notes='MN 29 &amp; CSAH 120
 Alexandria, MN'/>
 <controller name='ctl_1787' condition='ACTIVE' drop='6' commlink='L1790' location='U.S.12 EB @ I-494 SB' cabinet='cab_1787'/>
-<controller name='ctl_946' condition='ACTIVE' drop='1' commlink='L10063' location='(St. Cloud -Arnie)' cabinet='ctl_946'/>
 <controller name='ctl_1788' condition='ACTIVE' drop='1' commlink='L1342' location='I-394 EB @ Plymouth Rd' cabinet='cab_1788'/>
-<controller name='ctl_1789' condition='ACTIVE' drop='1' commlink='L1344' location='I-394 EB @ Ridgedale Dr' cabinet='cab_1789'/>
+<controller name='ctl_946' condition='ACTIVE' drop='1' commlink='L10063' location='(St. Cloud -Arnie)' cabinet='ctl_946'/>
 <controller name='ctl_945' condition='ACTIVE' drop='1' commlink='L10062' location='(St. Cloud Traffic)' cabinet='ctl_945'/>
+<controller name='ctl_1789' condition='ACTIVE' drop='1' commlink='L1344' location='I-394 EB @ Ridgedale Dr' cabinet='cab_1789'/>
 <controller name='694-47.85' condition='ACTIVE' drop='7' commlink='L083' location='I-694 EB @ Labore Rd' cabinet='694-47.85'/>
 <controller name='ctl_126_15' condition='ACTIVE' drop='1' commlink='L2239' location='I-694 EB @ Victoria St' cabinet='ctl_126_15'/>
-<controller name='ctl_959' condition='ACTIVE' drop='1' commlink='L3500' location='Unknown location' cabinet='ctl_959'/>
 <controller name='ctl_1793' condition='ACTIVE' drop='1' commlink='L1325' location='I-394 EB @ General Mills Blvd' cabinet='cab_1793'/>
+<controller name='ctl_959' condition='ACTIVE' drop='1' commlink='L3500' location='Unknown location' cabinet='ctl_959'/>
 <controller name='ctl_958' condition='ACTIVE' drop='1' commlink='L2225' location='Robert Tr @ Annapolis St' cabinet='ctl_958'/>
 <controller name='ctl_1795' condition='ACTIVE' drop='1' commlink='L565' location='I-94 EB @ Cedar Ave' cabinet='cab_1795'/>
 <controller name='ctl_1790' condition='ACTIVE' drop='1' commlink='L1347' location='I-394 EB @ Co Rd 73' cabinet='cab_1790'/>
@@ -30300,8 +30297,8 @@ Clara City, MN'/>
 <controller name='ctl_206' condition='ACTIVE' drop='2140' commlink='L1502' location='I-35E NB @ Maryland Ave' cabinet='ctl_206'/>
 <controller name='ctl_1842' condition='ACTIVE' drop='6' commlink='L028' location='T.H.36 @ Soo Line Rd' cabinet='cab_1842'/>
 <controller name='ctl_207' condition='ACTIVE' drop='2132' commlink='L1499' location='I-35E NB @ Arlington Ave' cabinet='ctl_207'/>
-<controller name='ctl_1843' condition='ACTIVE' drop='7' commlink='L028' location='T.H.36 WB @ I-35E' cabinet='cab_1843' notes='NW Quad; Rack #1'/>
 <controller name='ctl_208' condition='ACTIVE' drop='2157' commlink='L1497' location='I-35E NB @ Larpenteur Ave' cabinet='ctl_208'/>
+<controller name='ctl_1843' condition='ACTIVE' drop='7' commlink='L028' location='T.H.36 WB @ I-35E' cabinet='cab_1843' notes='NW Quad; Rack #1'/>
 <controller name='ctl_1844' condition='ACTIVE' drop='1' commlink='L1395' location='T.H.36 EB @ I-35E' cabinet='cab_1844' notes='SW Quad '/>
 <controller name='ctl_209' condition='ACTIVE' drop='5062' commlink='L1513' location='I-35W SB @ Co Rd J' cabinet='ctl_209'/>
 <controller name='ctl_1849' condition='ACTIVE' drop='1' commlink='L1104' location='T.H.36 WB @ T.H.61' cabinet='cab_1849'/>
@@ -30438,8 +30435,8 @@ Clara City, MN'/>
 <controller name='ctl_23322' condition='CONSTRUCTION' drop='11524' commlink='L551' location='I-94 EW @ Park Ave' cabinet='ctl_23322'/>
 <controller name='ctl_L94E76_1' condition='CONSTRUCTION' drop='1' commlink='L670' location='I-94 EB @ Lexington Ave' cabinet='ctl_L94E76_1'/>
 <controller name='ctl_L94E76_5' condition='CONSTRUCTION' drop='1' commlink='L674' location='I-94 EB @ Lexington Ave' cabinet='ctl_L94E76_5'/>
-<controller name='ctl_c1511' condition='ACTIVE' drop='1' commlink='L1196' location='T.H.15 @ Co Rd 120' cabinet='ctl_c1511'/>
 <controller name='ctl_L94E76_4' condition='CONSTRUCTION' drop='1' commlink='L673' location='I-94 EB @ Lexington Ave' cabinet='ctl_L94E76_4'/>
+<controller name='ctl_c1511' condition='ACTIVE' drop='1' commlink='L1196' location='T.H.15 @ Co Rd 120' cabinet='ctl_c1511'/>
 <controller name='ctl_v394e17' condition='ACTIVE' drop='1' commlink='L442' location='I-394 Rev EB' cabinet='ctl_v394e17'/>
 <controller name='ctl_L94E76_3' condition='CONSTRUCTION' drop='1' commlink='L672' location='I-94 EB @ Lexington Ave' cabinet='ctl_L94E76_3'/>
 <controller name='ctl_v394e16' condition='ACTIVE' drop='1' commlink='L441' location='I-394 EB' cabinet='ctl_v394e16'/>
@@ -30815,7 +30812,7 @@ Clara City, MN'/>
 <controller name='ctl_1064' condition='REMOVED' drop='266' commlink='L165' location='Bass Lake Rd EB @ Sycamore Ln' cabinet='ctl_1064'/>
 <controller name='ctl_c1676' condition='ACTIVE' drop='1' commlink='L1122' location='T.H.61 NB S of 70th St' cabinet='ctl_c1676'/>
 <controller name='ctl_c1673' condition='ACTIVE' drop='1' commlink='L1132' location='T.H.61 NB @ Jamaica Avenue' cabinet='ctl_c1673'/>
-<controller name='ctl_1065' condition='ACTIVE' drop='1' commlink='L6441' location='I-35 NB @ U.S.8' cabinet='ctl_1065'/>
+<controller name='ctl_1065' condition='ACTIVE' drop='220' commlink='L192' location='I-35 NB @ U.S.8' cabinet='ctl_1065'/>
 <controller name='ctl_c1674' condition='ACTIVE' drop='1' commlink='L1129' location='T.H.61 NB @ Point Douglas Ct' cabinet='ctl_c1674'/>
 <controller name='ctl_1066' condition='ACTIVE' drop='235' commlink='L192' location='I-35 NB N of U.S.8' cabinet='ctl_1066'/>
 <controller name='ctl_93969' condition='ACTIVE' drop='122' commlink='L184' location='I-35E NB @ Little Canada Rd' cabinet='cab_93969'/>
@@ -30827,8 +30824,8 @@ Clara City, MN'/>
 <controller name='ctl_1070' condition='ACTIVE' drop='218' commlink='L192' location='I-35 NB N of Lake Dr' cabinet='ctl_1070'/>
 <controller name='ctl_c1683' condition='ACTIVE' drop='1' commlink='L1165' location='T.H.61 NB @ Highwood Ave' cabinet='ctl_c1683'/>
 <controller name='ctl_1071' condition='ACTIVE' drop='217' commlink='L192' location='I-35 SB @ Lake Dr' cabinet='ctl_1071'/>
-<controller name='ctl_1072' condition='ACTIVE' drop='1' commlink='L6439' location='I-35 SB N of I-35W' cabinet='ctl_1072'/>
-<controller name='ctl_1073' condition='ACTIVE' drop='1' commlink='L6440' location='I-35E @ I-35W' cabinet='ctl_1073'/>
+<controller name='ctl_1072' condition='ACTIVE' drop='216' commlink='L192' location='I-35 SB N of I-35W' cabinet='ctl_1072'/>
+<controller name='ctl_1073' condition='ACTIVE' drop='234' commlink='L192' location='I-35E @ I-35W' cabinet='ctl_1073'/>
 <controller name='ctl_1078' condition='ACTIVE' drop='1' commlink='L6317' location='T.H.63 SB @ 48th St' cabinet='ctl_1078'/>
 <controller name='ctl_1079' condition='ACTIVE' drop='1' commlink='L6316' location='T.H.63 NB @ 40th St' cabinet='ctl_1079'/>
 <controller name='ctl_c1686' condition='ACTIVE' drop='1' commlink='L1156' location='T.H.61 SB @ Warner Rd' cabinet='ctl_c1686'/>
@@ -30979,8 +30976,8 @@ Clara City, MN'/>
 <controller name='ctl_l35ws67_2' condition='ACTIVE' drop='1' commlink='L378' location='I-35W SB @ 88th St' cabinet='ctl_l35ws67_2'/>
 <controller name='ctl_100041' condition='ACTIVE' drop='3064' commlink='L252' location='I-35W SB @ 86th St' cabinet='ctl_100041'/>
 <controller name='ctl_1919' condition='ACTIVE' drop='1' commlink='L2000' location='I-494 SB @ Olson Hwy' cabinet='cab_1919' notes='SW Quad'/>
-<controller name='ctl_l35ws67_3' condition='ACTIVE' drop='1' commlink='L379' location='I-35W SB @ 88th St' cabinet='ctl_l35ws67_3'/>
 <controller name='ctl_G909' condition='ACTIVE' drop='1' commlink='L1053' location='T.H.100 NB S of I-394' cabinet='ctl_G909'/>
+<controller name='ctl_l35ws67_3' condition='ACTIVE' drop='1' commlink='L379' location='I-35W SB @ 88th St' cabinet='ctl_l35ws67_3'/>
 <controller name='ctl_100042' condition='ACTIVE' drop='3007' commlink='L257' location='I-35W NB N of 76th St' cabinet='ctl_100042' notes='In median'/>
 <controller name='ctl_G906' condition='ACTIVE' drop='5' commlink='L1044' location='I-394 EB E of Xenia Ave' cabinet='ctl_G906'/>
 <controller name='ctl_100043' condition='ACTIVE' drop='3006' commlink='L258' location='I-35W SB N of 76th St' cabinet='ctl_100043' notes='In median'/>
@@ -31254,8 +31251,8 @@ Clara City, MN'/>
 <controller name='ctl_93887' condition='ACTIVE' drop='1' commlink='L659' location='I-694 EB @ Silver Lake Rd' cabinet='cab_93887'/>
 <controller name='ctl_1150' condition='ACTIVE' drop='5' commlink='L060' lon='-93.27447' lat='44.93904' location='I-35W NB @ 35th St' cabinet='ctl_1150' notes='Speedinfo DVSS-101 Doppler Vehicle Speed Sensor'/>
 <controller name='ctl_1155' condition='ACTIVE' drop='12' commlink='L060' lon='-93.27507' lat='44.94624' location='I-35W SB @ 31st St' cabinet='ctl_1155' notes='Speedinfo DVSS-101 Doppler Vehicle Speed Sensor'/>
-<controller name='ctl_93873' condition='ACTIVE' drop='1' commlink='L6406' location='I-94 WB @ Xerxes Ave' cabinet='cab_93873'/>
 <controller name='ctl_1156' condition='ACTIVE' drop='18' commlink='L060' lon='-93.27013' lat='44.95938' location='T.H.65 SB @ I-35W' cabinet='ctl_1156' notes='Speedinfo DVSS-101 Doppler Vehicle Speed Sensor'/>
+<controller name='ctl_93873' condition='ACTIVE' drop='1' commlink='L6406' location='I-94 WB @ Xerxes Ave' cabinet='cab_93873'/>
 <controller name='ctl_1157' condition='ACTIVE' drop='14' commlink='L060' lon='-93.27139' lat='44.95474' location='I-35W SB @ 26th St' cabinet='ctl_1157' notes='Speedinfo DVSS-101 Doppler Vehicle Speed Sensor'/>
 <controller name='ctl_93871' condition='ACTIVE' drop='1' commlink='L6407' location='I-94 EB @ Humboldt Ave' cabinet='cab_93871'/>
 <controller name='ctl_1158' condition='ACTIVE' drop='13' commlink='L060' lon='-93.27428' lat='44.95125' location='I-35W SB @ 28th St' cabinet='ctl_1158' notes='Speedinfo DVSS-101 Doppler Vehicle Speed Sensor'/>
@@ -31297,8 +31294,8 @@ Clara City, MN'/>
 <controller name='ctl_1173' condition='ACTIVE' drop='1' commlink='VDU905' location='Unknown location' cabinet='ctl_1173'/>
 <controller name='ctl_1' condition='ACTIVE' drop='1' commlink='L1255' location='T.H.75 NB' cabinet='ctl_1'/>
 <controller name='ctl_1174' condition='ACTIVE' drop='1' commlink='VDU906' location='Unknown location' cabinet='ctl_1174'/>
-<controller name='ctl_3' condition='ACTIVE' drop='1' commlink='L1263' location='U.S.169 SB @ I-494 WB' cabinet='ctl_3'/>
 <controller name='ctl_1175' condition='ACTIVE' drop='1' commlink='VDU108' location='Unknown location' cabinet='ctl_1175'/>
+<controller name='ctl_3' condition='ACTIVE' drop='1' commlink='L1263' location='U.S.169 SB @ I-494 WB' cabinet='ctl_3'/>
 <controller name='ctl_1176' condition='ACTIVE' drop='1' commlink='VDU109' location='Unknown location' cabinet='ctl_1176'/>
 <controller name='ctl_2' condition='ACTIVE' drop='1' commlink='L1253' location='U.S.2 EB' cabinet='ctl_2'/>
 <controller name='ctl_93859' condition='ACTIVE' drop='118' commlink='L164' location='I-394 WB @ Plymouth Rd' cabinet='cab_93859'/>
@@ -31685,8 +31682,8 @@ Replaced w/Ledstar 2014.12.15'/>
 <controller name='ctl_91123' condition='ACTIVE' drop='1' commlink='L1123' location='T.H.61 NB S of 70th St' cabinet='ctl_91123'/>
 <controller name='ctl_1243' condition='ACTIVE' drop='19221' commlink='L6154' location='Unknown location' cabinet='ctl_1243' notes='NID trlr #31'/>
 <controller name='ctl_93785' condition='ACTIVE' drop='1' commlink='L1099' location='I-94 WB @ Tunnel West #1' cabinet='cab_93785' notes='SS49   94/TUNNEL'/>
-<controller name='ctl_91124' condition='ACTIVE' drop='2143' commlink='L1124' location='T.H.61 NB @ 80th St' cabinet='ctl_91124'/>
 <controller name='ctl_1244' condition='ACTIVE' drop='2636' commlink='L6155' location='Unknown location' cabinet='ctl_1244' notes='NID trlr #32'/>
+<controller name='ctl_91124' condition='ACTIVE' drop='2143' commlink='L1124' location='T.H.61 NB @ 80th St' cabinet='ctl_91124'/>
 <controller name='ctl_91121' condition='ACTIVE' drop='2131' commlink='L1121' location='T.H.61 SB S of 70th St' cabinet='ctl_91121'/>
 <controller name='ctl_1245' condition='ACTIVE' drop='1' commlink='L2357' location='T.H.47 @ 37th Ave' cabinet='ctl_1245'/>
 <controller name='ctl_1246' condition='ACTIVE' drop='1' commlink='L2352' lon='-95.4501' lat='45.86784' location='I-94' cabinet='ctl_1246'/>
@@ -31767,7 +31764,7 @@ Replaced w/Ledstar 2014.12.15'/>
 <controller name='ctl_l35ws69_3' condition='ACTIVE' drop='1' commlink='L366' location='I-35W SB S of 94th St' cabinet='ctl_l35ws69_3'/>
 <controller name='ctl_1280' condition='ACTIVE' drop='1' commlink='L107' location='Unknown location' cabinet='ctl_1280'/>
 <controller name='ctl_1281' condition='ACTIVE' drop='1' commlink='L2113' lon='-93.34181' lat='44.97256' location='T.H.100 SB @ I-394' cabinet='ctl_1281'/>
-<controller name='ctl_1282' condition='ACTIVE' drop='1' commlink='L2114' location='I-394 EB @ T.H.100' cabinet='ctl_1282'/>
+<controller name='ctl_1282' condition='ACTIVE' drop='1' commlink='L2114' lon='-93.34164' lat='44.97061' location='I-394 EB @ T.H.100' cabinet='ctl_1282'/>
 <controller name='ctl_47895' condition='ACTIVE' drop='1' commlink='L077' location='T.H.5 WB @ T.H.55' cabinet='cab_47895'/>
 <controller name='ctl_1287' condition='ACTIVE' drop='1' commlink='L2119' location='I-394 EB @ Wayzata Blvd' cabinet='ctl_1287'/>
 <controller name='ctl_1288' condition='ACTIVE' drop='13602' commlink='L2297' location='T.H.169 NB @ I-94' cabinet='ctl_1288'/>
@@ -31775,7 +31772,7 @@ Replaced w/Ledstar 2014.12.15'/>
 <controller name='ctl_93741' condition='ACTIVE' drop='1' commlink='L2268' location='I-35W NB @ Co Rd 14' cabinet='cab_93741'/>
 <controller name='ctl_c3636' condition='CONSTRUCTION' drop='1' commlink='L1097' location='Unknown location' cabinet='ctl_c3636'/>
 <controller name='ctl_1289' condition='ACTIVE' drop='13577' commlink='L2310' location='T.H.169 SB @ 49th Ave' cabinet='ctl_1289'/>
-<controller name='ctl_1283' condition='ACTIVE' drop='1' commlink='L2115' location='T.H.100 NB @ I-394' cabinet='ctl_1283'/>
+<controller name='ctl_1283' condition='ACTIVE' drop='1' commlink='L2115' lon='-93.34245' lat='44.96642' location='T.H.100 NB @ I-394' cabinet='ctl_1283'/>
 <controller name='ctl_1284' condition='ACTIVE' drop='1' commlink='L2116' location='I-94 WB @ I-394' cabinet='ctl_1284'/>
 <controller name='ctl_1285' condition='ACTIVE' drop='1' commlink='L2117' location='I-394 WB @ I-94' cabinet='ctl_1285'/>
 <controller name='ctl_1286' condition='ACTIVE' drop='1' commlink='L2118' location='I-394 EB @ Wayzata Blvd' cabinet='ctl_1286'/>
@@ -32081,7 +32078,7 @@ Replaced w/Ledstar 2014.12.15'/>
 <controller name='ctl_91968' condition='CONSTRUCTION' drop='1961' commlink='L291' location='T.H.10 WB @ Main St' cabinet='cab_91968'/>
 <controller name='ctl_600' condition='ACTIVE' drop='129' commlink='L6332' location='U.S.14 WB E of C.S.A.H.22' cabinet='ctl_600'/>
 <controller name='ctl_601' condition='ACTIVE' drop='128' commlink='L6332' location='U.S.14 EB E of C.S.A.H.22' cabinet='ctl_601'/>
-<controller name='ctl_602' condition='ACTIVE' drop='11501' commlink='L6104' location='I-35 SB @ 280th St' cabinet='ctl_602'/>
+<controller name='ctl_602' condition='CONSTRUCTION' drop='11501' commlink='L6104' location='I-394 WB E of Theodore Wirth Pkwy' cabinet='ctl_602'/>
 <controller name='ctl_603' condition='ACTIVE' drop='7134' commlink='L6105' location='I-394 WB W of Dunwoody Blvd' cabinet='ctl_603'/>
 <controller name='ctl_604' condition='ACTIVE' drop='4810' commlink='L6106' location='I-35 @ 270th St' cabinet='ctl_604'/>
 <controller name='ctl_605' condition='ACTIVE' drop='1' commlink='L6107' location='Unknown location' cabinet='ctl_605'/>
@@ -32452,8 +32449,8 @@ Replaced w/Ledstar 2014.12.15'/>
 <dms name='V61N040' description='T.H.61 NB @ Silver Cliff Tunnel' lon='-91.65108' lat='47.03354' width_pixels='160' height_pixels='54'/>
 <dms name='V494E14' description='I-494 EB N of Lake Rd' lon='-92.97643' lat='44.91834' width_pixels='125' height_pixels='21'/>
 <dms name='L35WN40_1' description='I-35W NB @ 66th St' lon='-93.29591' lat='44.88653' width_pixels='80' height_pixels='64'/>
-<dms name='L35WN40_2' description='I-35W NB @ 66th St' lon='-93.29595' lat='44.88653' width_pixels='80' height_pixels='64'/>
 <dms name='V494E10' description='I-494 EB @ Dodd Rd' lon='-93.12984' lat='44.86246' width_pixels='125' height_pixels='21'/>
+<dms name='L35WN40_2' description='I-35W NB @ 66th St' lon='-93.29595' lat='44.88653' width_pixels='80' height_pixels='64'/>
 <dms name='L35WN40_3' description='I-35W NB @ 66th St' lon='-93.29598' lat='44.88653' width_pixels='80' height_pixels='64'/>
 <dms name='V94W05T' description='I-94 WB @ T.H.61' width_pixels='40' height_pixels='21'/>
 <dms name='VT55W68' description='Unknown location'/>
@@ -32743,8 +32740,8 @@ Replaced w/Ledstar 2014.12.15'/>
 <dms name='V35N30T1' description='I-35 NB N of C.S.A.H.12' lon='-93.27696' lat='44.22568' width_pixels='48' height_pixels='30'/>
 <dms name='V35N30T2' description='I-35 NB S of T.H.60' lon='-93.28657' lat='44.25372' width_pixels='40' height_pixels='21'/>
 <dms name='V35EN01' description='I-35E NB S of T.H.77' lon='-93.23681' lat='44.76588' width_pixels='270' height_pixels='56'/>
-<dms name='V394W00C' description='I-394 Rev WB @ Linden Ave' lon='-93.2946' lat='44.97319' width_pixels='70' height_pixels='36'/>
 <dms name='L35WS67_3' description='I-35W SB @ 88th St' lon='-93.29843' lat='44.84367' width_pixels='80' height_pixels='64'/>
+<dms name='V394W00C' description='I-394 Rev WB @ Linden Ave' lon='-93.2946' lat='44.97319' width_pixels='70' height_pixels='36'/>
 <dms name='L35WS67_2' description='I-35W SB @ 88th St' lon='-93.29848' lat='44.84367' width_pixels='80' height_pixels='64'/>
 <dms name='V394W00D' description='I-394 Rev WB @ Dunwoody Blvd' lon='-93.29391' lat='44.97225' width_pixels='70' height_pixels='36'/>
 <dms name='L35WS67_1' description='I-35W SB @ 88th St' lon='-93.29852' lat='44.84367' width_pixels='80' height_pixels='64'/>
@@ -32754,8 +32751,8 @@ Replaced w/Ledstar 2014.12.15'/>
 <dms name='V394W00A' description='I-394 WB @ 16th St' lon='-93.2853' lat='44.97529' width_pixels='150' height_pixels='56'/>
 <dms name='L35WN19_3' description='I-35W NB N of Co Rd 42' width_pixels='80' height_pixels='64'/>
 <dms name='L35WN19_2' description='I-35W NB N of Co Rd 42' width_pixels='80' height_pixels='64'/>
-<dms name='V35EN04' description='I-35E NB S of Lone Oak Rd' lon='-93.15762' lat='44.84136' width_pixels='270' height_pixels='56'/>
 <dms name='V394W00B' description='I-394 CD2 WB @ I-94' lon='-93.28703' lat='44.97474' width_pixels='150' height_pixels='56'/>
+<dms name='V35EN04' description='I-35E NB S of Lone Oak Rd' lon='-93.15762' lat='44.84136' width_pixels='270' height_pixels='56'/>
 <dms name='V35WS04T' description='I-35W SB @ Hennepin Ave' lon='-93.23666' lat='44.9908' width_pixels='18' height_pixels='9'/>
 <dms name='V5E05' description='T.H.5 EB @ Airport Rd' lon='-93.19235' lat='44.87785' width_pixels='150' height_pixels='56'/>
 <dms name='VDL10W10' description='T.H.10 WB @ T.H.59 (MP 44.080)' lon='-95.86215' lat='46.82671' width_pixels='60' height_pixels='21'/>
