@@ -1,0 +1,85 @@
+﻿1,Label,Type,Order
+S664,NB 35W North of 694,Flow,1
+800,ENT from WB 694,On,2
+861,EXIT to WB 694,Exit,3
+975,ENT from EB 694,On,4
+866,EXIT to EB 694,Exit,5
+S659,NB 35W South of 694,Flow,6
+2729,ENT from 5th Ave,On,7
+S685,NB 35W,Flow,8
+2725,EXIT to 5th Ave,Exit,9
+S657,NB 35W North of HWY 88,Flow,10
+2721,ENT from HWY 88,On,11
+S656,NB 35W South of HYW 88,Flow,12
+2717,ENT from Cty Rd D,On,13
+2713,EXIT to Cty Rd D,Exit,14
+S654,NB 35W,Flow,15
+2709,ENT from Cty Rd C,On,16
+S653,NB 35W at Cty Rd C,Flow,17
+2705,EXIT to Cty Rd C,Exit,18
+S652,NB 35W North of HWY 36,Flow,19
+5327,ENT from Cleveland Ave,On,20
+5326,ENT from HWY 36,On,21
+S575,NB 35W at HWY 36,Flow,22
+S574,ENT from HWY 280,On,23
+S577,NB 35W at HWY 36 Exit,Flow,24
+S587,EXIT to HWY 36,Exit,25
+S573,NB 35W / Industrial Blvd,Flow,26
+2177,ENT from Industrial Blvd,On,27
+2172,EXIT to Industrial Blvd,Exit,28
+S572,NB 35W Flow / Stinson,Flow,29
+2171,ENT from Stinson,On,30
+S571,NB 35W Flow / New Brighton Blvd,Flow,31
+2163,EXIT to Quarry,Exit,32
+S570,NB 35W / Broadway,Flow,33
+S569,NB 35W Flow / Hennepin,Flow,34
+S568,NB 35W Flow / 4th St,Flow,35
+2152,ENT from 4th St,On,36
+6573,ENT from 4th St(2),On,37
+2145,EXIT to 4th St,Exit,38
+2146,Exit to 4th St(2),Exit,39
+S256,NB 35W / Washington,Flow,40
+2144,ENT from Washington,On,41
+2137,Exit to Washington,Exit,42
+2138,Exit to Washington(2),Exit,43
+S566,NW 35W Flow / Dwtn Mpls,Flow,44
+2134,EXIT to CDN1,Exit,45
+2133,EXIT to CDN2,Exit,46
+S557,EXIT to HWY 94 EB,Exit,47
+S565,NB 35W / Shared with EB 94,Flow,48
+S556,NB 35W / Shared with EB 94(2),Flow,49
+S1812,ENT from EB 94,On,50
+S63,NB 35W before HWY 94,Flow,51
+S64,EXIT to WB 94 and MPLS,Exit,52
+S62,NB 35W before HWY 94 and MPLS Exits,Flow,53
+S61,NB 35W / East 29th,Flow,54
+S60,NB 35W / Lake Street,Flow,55
+171,EXIT to Lake Street,Exit,56
+141,ENT from 36th St,On,57
+S59,NW 35W / 36th St,Flow,58
+170,EXIT to 36th St,Exit,59
+S58,NB 35W / south of 36th St,Flow,60
+S57,NB 35W / 42nd St,Flow,61
+129,ENT from 46th St,On,62
+S56,NB 35W / 46th St,Flow,63
+169,EXIT to 46th St,Exit,64
+S54,NB 35W / north of Diamond Lk Rd,Flow,65
+146,Ent from Diamond Lk Rd,On,66
+S53,NB 35W north of DL Exit,Flow,67
+168,Exit to Diamond Lk Rd,Exit,68
+S52,NB 35W After 62 Ent,Flow,69
+S51,NB 35W after 62 EB Exit,Flow,70
+S328,EXIT to EB HWY 62,Exit,71
+S50,NB 35W / Merged with EB 62,Flow,72
+S49,NB 35W after WB 62 Exit,Flow,73
+123,ENT from West 66th St,On,74
+S48,NB 35W / West 66th St,Flow,75
+163,EXIT to West 66th,Exit,76
+S47,NB 35W / 70th St,Flow,77
+S46,NB 35W / 73rd St,Flow,78
+S45,NB 35W / 76th St,Flow,79
+121,ENT from WB 494,On,80
+162,EXIT to WB 494,Exit,81
+120,ENT from EB 494,On,82
+863,EXIT to EB 494,Exit,83
+S43,NB 35W South of 494,Flow,84
