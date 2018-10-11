@@ -8,16 +8,22 @@ from email import encoders
 # in the config.py file, we put the senders's gmail accountand&password in the following form:
 #EMAIL_ADDRESS=" " 
 #PASSWORD=" "  
-import config  
-
-subject = "sending email with attachments"
-body = 'Hi there, we are sending this email from Python!'
-
+#from config  import EMAIL_ADDRESS,PASSWORD
+import os 
+EMAIL_ADDRESS= os.environ.get("EMAIL_ADDRESS")
+PASSWORD= os.environ.get("PASSWORD")
+# subject = "sending email with attachments"
+# body = 'Hi there, we are sending this email from Python!'
 ### Function to send the email ###
-def send_an_email():
+def send_an_email(file_name,subject="sending email with attachments",\
+            body='from Python!'):
+    #global subject,body
     ##add xander and jeff's emails here:
-    toaddr_s = ['yjjiangphysics@gmail.com','Kreitzer.gr@gmail.com'] 
-    me =  config.EMAIL_ADDRESS
+
+    #toaddr_s = ['yjjiangphysics@gmail.com','Kreitzer.gr@gmail.com','xanendorf@gmail.com']
+    toaddr_s = ['yjjiangphysics@gmail.com']
+    #,'Kreitzer.gr@gmail.com'] 
+    me =  EMAIL_ADDRESS
     msg = MIMEMultipart()
     msg['Subject'] = subject
     msg['From'] = me
@@ -30,9 +36,9 @@ def send_an_email():
     #put the attachments in the following, once in the open(?),
     #once in the filename=?. The second ? is only to ensure the 
     #right file format:
-    part.set_payload(open("try.html", "rb").read())
+    part.set_payload(open(file_name, "rb").read())
     encoders.encode_base64(part)
-    part.add_header('Content-Disposition', 'attachment; filename="try.html"')
+    part.add_header(f'Content-Disposition', f'attachment; filename={file_name}')
     msg.attach(part)
 
     try:
@@ -40,13 +46,20 @@ def send_an_email():
        s.ehlo()
        s.starttls()
        s.ehlo()
-       s.login(config.EMAIL_ADDRESS, config.PASSWORD)
+       s.login(EMAIL_ADDRESS, PASSWORD)
        #s.send_message(msg)
        aa=[s.sendmail(me, toaddr, msg.as_string()) for toaddr in toaddr_s]
        s.quit()
+    
     #except:
     #   print ("Error: unable to send email")
-    except SMTPException as error:
-          print ("Error")
+#https://stackoverflow.com/questions/13957829/how-to-use-raise-keyword-in-python
+#https://www.youtube.com/watch?v=b0PAVVchc7c
+    except Exception as e:
+          print (e)
+    finally:
+        pass
+          
 
-send_an_email()
+# file="..//try.html"
+# send_an_email(file)
