@@ -9,986 +9,986 @@
 <!ATTLIST sample speed CDATA 'UNKNOWN'>
 <!ATTLIST sample occ CDATA 'UNKNOWN'>
 ]>
-<traffic_sample time_stamp='Sun Oct 07 21:22:59 CDT 2018' period='30'>
-	<sample sensor='S779'/>
-	<sample sensor='S777' flow='240' speed='72' occ='1.69'/>
-	<sample sensor='S778' flow='390' speed='55' occ='3.43'/>
-	<sample sensor='S775' flow='660' speed='67' occ='4.92'/>
-	<sample sensor='S776' flow='560' speed='62' occ='3.7'/>
-	<sample sensor='S780' flow='480' speed='55' occ='4.22'/>
-	<sample sensor='S781' flow='450' speed='57' occ='3.39'/>
-	<sample sensor='S768' flow='600' speed='61' occ='4.31'/>
-	<sample sensor='S769' flow='480' speed='62' occ='3.72'/>
-	<sample sensor='S766' flow='240' speed='64' occ='1.42'/>
-	<sample sensor='S767' flow='900' speed='61' occ='6.86'/>
-	<sample sensor='S764'/>
-	<sample sensor='35S470'/>
-	<sample sensor='S765' flow='120' speed='64' occ='0.75'/>
-	<sample sensor='S762' flow='360' speed='66' occ='2.22'/>
-	<sample sensor='S763' flow='360' speed='64' occ='2.31'/>
-	<sample sensor='35S464' flow='120' speed='69' occ='0.72'/>
-	<sample sensor='S770' flow='600' speed='56' occ='6.47'/>
-	<sample sensor='S317' flow='300' speed='56' occ='2.11'/>
-	<sample sensor='S318' flow='540' speed='89' occ='3.22'/>
-	<sample sensor='S315' flow='480' speed='60' occ='3.69'/>
-	<sample sensor='S799' flow='200' speed='86' occ='0.98'/>
-	<sample sensor='S316' flow='660' speed='64' occ='4.47'/>
-	<sample sensor='S313'/>
-	<sample sensor='S797' flow='360' speed='67' occ='2.31'/>
-	<sample sensor='S314'/>
-	<sample sensor='S798' flow='440' speed='65' occ='2.7'/>
-	<sample sensor='35S482' flow='300' speed='69' occ='1.75'/>
-	<sample sensor='S311'/>
-	<sample sensor='S312'/>
-	<sample sensor='S796' flow='540' speed='67' occ='3.47'/>
-	<sample sensor='S319' flow='360' speed='66' occ='2.83'/>
-	<sample sensor='S320' flow='360' speed='75' occ='2.61'/>
-	<sample sensor='S321' flow='480' speed='68' occ='2.89'/>
-	<sample sensor='S306' flow='60' speed='75' occ='0.39'/>
-	<sample sensor='S307' flow='120' speed='68' occ='0.81'/>
-	<sample sensor='35S490' flow='300' speed='70' occ='1.83'/>
-	<sample sensor='S788' flow='480' speed='73' occ='3.43'/>
-	<sample sensor='S304' flow='60' speed='54' occ='0.42'/>
-	<sample sensor='S789' flow='810' speed='69' occ='6.07'/>
-	<sample sensor='S305' flow='360' speed='66' occ='2.5'/>
-	<sample sensor='S786' flow='560' speed='63' occ='5.04'/>
-	<sample sensor='S302'/>
-	<sample sensor='S787' flow='640' speed='77' occ='4.85'/>
-	<sample sensor='S303' flow='120' speed='56' occ='0.94'/>
+<traffic_sample time_stamp='Thu Oct 11 14:39:29 CDT 2018' period='30'>
+	<sample sensor='S779' flow='1200' speed='53' occ='9.98'/>
+	<sample sensor='S777' flow='1080' speed='66' occ='8.47'/>
+	<sample sensor='S778' flow='2190' speed='53' occ='19.88'/>
+	<sample sensor='S775' flow='1110' speed='64' occ='8.71'/>
+	<sample sensor='S776' flow='2320' speed='57' occ='15.98'/>
+	<sample sensor='S780' flow='1380' speed='59' occ='10.99'/>
+	<sample sensor='S781' flow='1410' speed='62' occ='10.93'/>
+	<sample sensor='S768' flow='1680' speed='63' occ='11.72'/>
+	<sample sensor='S769' flow='1860' speed='61' occ='13.78'/>
+	<sample sensor='S766' flow='1440' speed='64' occ='11.14'/>
+	<sample sensor='S767' flow='1500' speed='66' occ='11.17'/>
+	<sample sensor='S764' flow='2160' speed='58' occ='16.97'/>
+	<sample sensor='35S470' flow='660' speed='75' occ='5.89'/>
+	<sample sensor='S765' flow='1380' speed='61' occ='10.67'/>
+	<sample sensor='S762' flow='1560' speed='63' occ='11.75'/>
+	<sample sensor='S763' flow='1980' speed='58' occ='16.83'/>
+	<sample sensor='35S464' flow='660' speed='72' occ='4.17'/>
+	<sample sensor='S770' flow='1740' speed='59' occ='14.11'/>
+	<sample sensor='S317' flow='1680' speed='51' occ='12.39'/>
+	<sample sensor='S318' flow='2520' speed='91' occ='15.06'/>
+	<sample sensor='S315' flow='2220' speed='55' occ='18.5'/>
+	<sample sensor='S799' flow='1120' speed='68' occ='6.89'/>
+	<sample sensor='S316' flow='2400' speed='64' occ='17.94'/>
+	<sample sensor='S313' flow='1500' speed='54' occ='12.81'/>
+	<sample sensor='S797' flow='780' speed='70' occ='5.17'/>
+	<sample sensor='S314' flow='1740' speed='60' occ='12.28'/>
+	<sample sensor='S798' flow='600' speed='73' occ='3.33'/>
+	<sample sensor='35S482' flow='240' speed='77' occ='1.33'/>
+	<sample sensor='S311' flow='840' speed='61' occ='5.61'/>
+	<sample sensor='S312' flow='600' speed='69' occ='4.44'/>
+	<sample sensor='S796' flow='600' speed='63' occ='4.67'/>
+	<sample sensor='S319' flow='1800' speed='74' occ='12.53'/>
+	<sample sensor='S320' flow='2040' speed='71' occ='15.81'/>
+	<sample sensor='S321' flow='1860' speed='64' occ='13.19'/>
+	<sample sensor='S306' flow='900' speed='73' occ='5.78'/>
+	<sample sensor='S307' flow='1320' speed='66' occ='9.03'/>
+	<sample sensor='35S490' flow='480' speed='72' occ='4.39'/>
+	<sample sensor='S788' flow='1560' speed='75' occ='10.94'/>
+	<sample sensor='S304' flow='420' speed='56' occ='2.75'/>
+	<sample sensor='S789' flow='990' speed='60' occ='8.72'/>
+	<sample sensor='S305' flow='1500' speed='68' occ='10.69'/>
+	<sample sensor='S786' flow='1440' speed='61' occ='12.15'/>
+	<sample sensor='S302' flow='120' speed='61' occ='0.97'/>
+	<sample sensor='S787' flow='1400' speed='69' occ='11.48'/>
+	<sample sensor='S303' flow='480' speed='69' occ='3.89'/>
 	<sample sensor='S301'/>
-	<sample sensor='S785' flow='570' speed='62' occ='4.29'/>
-	<sample sensor='S308' flow='360' speed='57' occ='3.03'/>
-	<sample sensor='S310' flow='60' speed='61' occ='0.33'/>
-	<sample sensor='S791' flow='280' speed='53' occ='2'/>
-	<sample sensor='S792' flow='400' speed='65' occ='2.93'/>
-	<sample sensor='S790'/>
-	<sample sensor='S339' flow='240' speed='66' occ='1.36'/>
-	<sample sensor='S337' flow='360' speed='59' occ='2.36'/>
-	<sample sensor='S338' flow='600' speed='62' occ='4.06'/>
-	<sample sensor='S335' flow='420' speed='63' occ='3.25'/>
-	<sample sensor='S336' flow='780' speed='59' occ='5.17'/>
-	<sample sensor='S333' flow='540' speed='73' occ='3.81'/>
-	<sample sensor='S334' flow='1200' speed='66' occ='10.22'/>
-	<sample sensor='S342' flow='540' speed='62' occ='3.61'/>
-	<sample sensor='S343' flow='540' speed='64' occ='3.64'/>
-	<sample sensor='S340' flow='240' speed='64' occ='1.72'/>
-	<sample sensor='S341' flow='480' speed='63' occ='3.14'/>
-	<sample sensor='S328' flow='720' speed='59' occ='5.22'/>
-	<sample sensor='S329' flow='600' speed='54' occ='3.64'/>
-	<sample sensor='S1190' flow='320' speed='77' occ='2.39'/>
-	<sample sensor='S326' flow='360' speed='58' occ='2.17'/>
-	<sample sensor='S1191' flow='280' speed='93' occ='2'/>
-	<sample sensor='S327' flow='420' speed='51' occ='3.14'/>
-	<sample sensor='S1192' flow='240' speed='73' occ='1.87'/>
-	<sample sensor='S324' flow='420' speed='60' occ='3.06'/>
-	<sample sensor='S1193' flow='280' speed='85' occ='1.93'/>
-	<sample sensor='S325' flow='540' speed='49' occ='3.78'/>
-	<sample sensor='S322' flow='300' speed='64' occ='2.03'/>
-	<sample sensor='S323' flow='660' speed='70' occ='4.97'/>
-	<sample sensor='52N52' flow='120' speed='56' occ='0.89'/>
-	<sample sensor='52N53' flow='120' speed='64' occ='0.78'/>
+	<sample sensor='S785' flow='1320' speed='63' occ='10'/>
+	<sample sensor='S308' flow='780' speed='64' occ='6.58'/>
+	<sample sensor='S310' flow='960' speed='58' occ='7.06'/>
+	<sample sensor='S791' flow='1120' speed='54' occ='10.31'/>
+	<sample sensor='S792' flow='1480' speed='62' occ='13.85'/>
+	<sample sensor='S790' flow='640' speed='58' occ='4.94'/>
+	<sample sensor='S339' flow='780' speed='61' occ='5.92'/>
+	<sample sensor='S337' flow='1440' speed='61' occ='11.58'/>
+	<sample sensor='S338' flow='1500' speed='64' occ='10.47'/>
+	<sample sensor='S335' flow='1500' speed='65' occ='11.36'/>
+	<sample sensor='S336' flow='1980' speed='59' occ='14.42'/>
+	<sample sensor='S333' flow='1800' speed='40' occ='22.39'/>
+	<sample sensor='S334' flow='2040' speed='46' occ='24.78'/>
+	<sample sensor='S342' flow='1320' speed='59' occ='9.72'/>
+	<sample sensor='S343' flow='1860' speed='57' occ='15.69'/>
+	<sample sensor='S340' flow='1380' speed='64' occ='9.92'/>
+	<sample sensor='S341' flow='1260' speed='61' occ='9.28'/>
+	<sample sensor='S328' flow='1920' speed='20' occ='39.94'/>
+	<sample sensor='S329' flow='600' speed='71' occ='2.83'/>
+	<sample sensor='S1190' flow='1520' speed='65' occ='13.56'/>
+	<sample sensor='S326' flow='840' speed='53' occ='5.56'/>
+	<sample sensor='S1191' flow='1080' speed='81' occ='8.31'/>
+	<sample sensor='S327' flow='1020' speed='47' occ='8.14'/>
+	<sample sensor='S1192' flow='1040' speed='73' occ='8.41'/>
+	<sample sensor='S324' flow='900' speed='54' occ='7.5'/>
+	<sample sensor='S1193' flow='640' speed='79' occ='5.09'/>
+	<sample sensor='S325' flow='1320' speed='55' occ='8.19'/>
+	<sample sensor='S322' flow='1260' speed='54' occ='11.03'/>
+	<sample sensor='S323' flow='1740' speed='60' occ='14.75'/>
+	<sample sensor='52N52' flow='720' speed='62' occ='4.83'/>
+	<sample sensor='52N53' flow='1200' speed='43' occ='11.67'/>
 	<sample sensor='52N51'/>
 	<sample sensor='52N56'/>
-	<sample sensor='S1196' flow='440' speed='69' occ='3.5'/>
-	<sample sensor='S331' flow='780' speed='59' occ='6.31'/>
-	<sample sensor='S1197' flow='90' speed='73' occ='0.74'/>
-	<sample sensor='S332' flow='780' speed='56' occ='5.33'/>
-	<sample sensor='S1198' flow='120' speed='96' occ='0.8'/>
-	<sample sensor='S1199' flow='240' speed='79' occ='1.85'/>
-	<sample sensor='S330' flow='420' speed='61' occ='2.92'/>
-	<sample sensor='S359' flow='120' speed='46' occ='0.86'/>
-	<sample sensor='S357'/>
-	<sample sensor='S358'/>
-	<sample sensor='S355'/>
-	<sample sensor='S356'/>
-	<sample sensor='S364' flow='80' speed='75' occ='0.46'/>
-	<sample sensor='S365' flow='180' speed='57' occ='1.31'/>
-	<sample sensor='S362' flow='120' speed='76' occ='0.78'/>
+	<sample sensor='S1196' flow='1960' speed='76' occ='14.8'/>
+	<sample sensor='S331' flow='1320' speed='53' occ='11.92'/>
+	<sample sensor='S1197' flow='1050' speed='86' occ='7.01'/>
+	<sample sensor='S332' flow='1980' speed='52' occ='14.5'/>
+	<sample sensor='S1198' flow='1480' speed='75' occ='11.41'/>
+	<sample sensor='S1199' flow='1880' speed='77' occ='13.94'/>
+	<sample sensor='S330' flow='1680' speed='50' occ='14.03'/>
+	<sample sensor='S359' flow='480' speed='56' occ='5.69'/>
+	<sample sensor='S357' flow='720' speed='60' occ='4.81'/>
+	<sample sensor='S358' flow='480' speed='65' occ='5.42'/>
+	<sample sensor='S355' flow='1440' speed='64' occ='9.53'/>
+	<sample sensor='S356' flow='840' speed='58' occ='6.72'/>
+	<sample sensor='S364' flow='640' speed='69' occ='6.5'/>
+	<sample sensor='S365' flow='1020' speed='56' occ='7.36'/>
+	<sample sensor='S362' flow='1980' speed='63' occ='15.33'/>
 	<sample sensor='S360'/>
-	<sample sensor='S361' flow='360' speed='64' occ='2.39'/>
-	<sample sensor='S348' flow='80' speed='65' occ='0.65'/>
-	<sample sensor='S349' flow='0' occ='0'/>
-	<sample sensor='S346' flow='480' speed='68' occ='3.42'/>
-	<sample sensor='S347' flow='80' speed='58' occ='0.61'/>
-	<sample sensor='S344' flow='120' speed='69' occ='0.69'/>
-	<sample sensor='S345' flow='420' speed='65' occ='2.5'/>
-	<sample sensor='S353' flow='0' occ='0'/>
-	<sample sensor='S354' flow='840' speed='53' occ='6.44'/>
-	<sample sensor='S351' flow='360' speed='43' occ='2.28'/>
-	<sample sensor='S352' flow='360' speed='61' occ='1.25'/>
-	<sample sensor='S350' flow='540' speed='56' occ='4.25'/>
-	<sample sensor='S379' flow='600' speed='71' occ='3.7'/>
-	<sample sensor='S377' flow='280' speed='63' occ='1.94'/>
-	<sample sensor='S378' flow='240' speed='73' occ='1.22'/>
-	<sample sensor='S1600' flow='240' speed='85' occ='1.64'/>
-	<sample sensor='S1601' flow='540' speed='97' occ='3.22'/>
-	<sample sensor='S1602' flow='1020' speed='85' occ='7.5'/>
-	<sample sensor='S1603' flow='720' speed='85' occ='4.81'/>
-	<sample sensor='S1606' flow='360' speed='80' occ='2.47'/>
-	<sample sensor='S1607'/>
-	<sample sensor='S386' flow='720' speed='65' occ='4.93'/>
+	<sample sensor='S361' flow='780' speed='67' occ='5.11'/>
+	<sample sensor='S348' flow='1360' speed='72' occ='9.91'/>
+	<sample sensor='S349' flow='560' speed='74' occ='3.94'/>
+	<sample sensor='S346' flow='540' speed='66' occ='3.94'/>
+	<sample sensor='S347' flow='840' speed='62' occ='6.09'/>
+	<sample sensor='S344' flow='900' speed='65' occ='6'/>
+	<sample sensor='S345' flow='660' speed='64' occ='4.64'/>
+	<sample sensor='S353' flow='1800' speed='65' occ='14'/>
+	<sample sensor='S354' flow='840' speed='57' occ='5.94'/>
+	<sample sensor='S351' flow='1980' speed='33' occ='16.58'/>
+	<sample sensor='S352' flow='960' speed='50' occ='4'/>
+	<sample sensor='S350' flow='2040' speed='41' occ='21.25'/>
+	<sample sensor='S379' flow='1720' speed='66' occ='12.02'/>
+	<sample sensor='S377' flow='1040' speed='61' occ='7.35'/>
+	<sample sensor='S378' flow='880' speed='58' occ='5.65'/>
+	<sample sensor='S1600' flow='1080' speed='69' occ='9.25'/>
+	<sample sensor='S1601' flow='1200' speed='87' occ='8.22'/>
+	<sample sensor='S1602' flow='1080' speed='76' occ='9.08'/>
+	<sample sensor='S1603' flow='1980' speed='64' occ='17.94'/>
+	<sample sensor='S1606' flow='1560' speed='76' occ='11.5'/>
+	<sample sensor='S1607' flow='0' occ='0'/>
+	<sample sensor='S386' flow='1600' speed='61' occ='11.83'/>
 	<sample sensor='35N605'/>
-	<sample sensor='S384' flow='360' speed='75' occ='2'/>
-	<sample sensor='S382' flow='480' speed='64' occ='2.72'/>
+	<sample sensor='S384' flow='1040' speed='63' occ='6.87'/>
+	<sample sensor='S382' flow='2460' speed='62' occ='14.17'/>
 	<sample sensor='35N600'/>
-	<sample sensor='S383' flow='240' speed='75' occ='1.08'/>
-	<sample sensor='S380' flow='520' speed='64' occ='3.94'/>
-	<sample sensor='S381' flow='720' speed='70' occ='4.22'/>
-	<sample sensor='S368'/>
+	<sample sensor='S383' flow='1200' speed='67' occ='6.08'/>
+	<sample sensor='S380' flow='2120' speed='59' occ='16.98'/>
+	<sample sensor='S381' flow='1320' speed='63' occ='8.58'/>
+	<sample sensor='S368' flow='600' speed='17' occ='39.39'/>
 	<sample sensor='S369'/>
-	<sample sensor='S366' flow='60' speed='56' occ='0.53'/>
-	<sample sensor='S367' flow='240' speed='59' occ='2.28'/>
-	<sample sensor='S375' flow='120' speed='61' occ='1'/>
+	<sample sensor='S366' flow='540' speed='63' occ='4.31'/>
+	<sample sensor='S367' flow='1020' speed='62' occ='7.39'/>
+	<sample sensor='S375' flow='920' speed='63' occ='7.46'/>
 	<sample sensor='35N615'/>
-	<sample sensor='S376' flow='240' speed='62' occ='1.98'/>
+	<sample sensor='S376' flow='920' speed='59' occ='7.93'/>
 	<sample sensor='S371'/>
 	<sample sensor='35N611'/>
-	<sample sensor='S370' flow='600' speed='62' occ='7.11'/>
+	<sample sensor='S370' flow='1680' speed='65' occ='19.11'/>
 	<sample sensor='S1619'/>
-	<sample sensor='S1622' flow='240' speed='73' occ='1.39'/>
+	<sample sensor='S1622' flow='420' speed='69' occ='2.72'/>
 	<sample sensor='S1623'/>
 	<sample sensor='S1624'/>
 	<sample sensor='S1625'/>
-	<sample sensor='S1626' flow='240' speed='71' occ='1.83'/>
-	<sample sensor='S1627' flow='360' speed='56' occ='3.28'/>
-	<sample sensor='35N625'/>
+	<sample sensor='S1626' flow='1260' speed='68' occ='9.31'/>
+	<sample sensor='S1627' flow='1860' speed='63' occ='14.94'/>
+	<sample sensor='35N625' flow='840' speed='58' occ='6.33'/>
 	<sample sensor='S1620'/>
 	<sample sensor='35N620'/>
-	<sample sensor='S1621' flow='240' speed='70' occ='1.56'/>
-	<sample sensor='S388' flow='320' speed='67' occ='2.48'/>
-	<sample sensor='S389' flow='480' speed='58' occ='4.24'/>
-	<sample sensor='S1608' flow='360' speed='80' occ='3.06'/>
-	<sample sensor='S1609' flow='400' speed='69' occ='3.09'/>
-	<sample sensor='S1611' flow='600' speed='65' occ='4.89'/>
-	<sample sensor='35N630' flow='480' speed='64' occ='5.89'/>
-	<sample sensor='S1613' flow='480' speed='53' occ='4.39'/>
-	<sample sensor='S1614' flow='720' speed='69' occ='5.28'/>
-	<sample sensor='S1615' flow='600' speed='68' occ='4.64'/>
-	<sample sensor='S1616' flow='660' speed='69' occ='5.14'/>
-	<sample sensor='S1617' flow='600' speed='65' occ='4.5'/>
+	<sample sensor='S1621' flow='720' speed='67' occ='5.33'/>
+	<sample sensor='S388' flow='1800' speed='60' occ='15.83'/>
+	<sample sensor='S389' flow='1720' speed='66' occ='13.24'/>
+	<sample sensor='S1608' flow='1320' speed='80' occ='11.67'/>
+	<sample sensor='S1609' flow='1080' speed='66' occ='9.06'/>
+	<sample sensor='S1611' flow='1740' speed='71' occ='13.97'/>
+	<sample sensor='35N630' flow='1200' speed='61' occ='14.17'/>
+	<sample sensor='S1613' flow='1620' speed='57' occ='14.17'/>
+	<sample sensor='S1614' flow='1620' speed='65' occ='12.42'/>
+	<sample sensor='S1615' flow='1200' speed='64' occ='9.44'/>
+	<sample sensor='S1616' flow='1680' speed='54' occ='15.03'/>
+	<sample sensor='S1617' flow='540' speed='70' occ='5.19'/>
 	<sample sensor='S1618'/>
-	<sample sensor='S397' flow='480' speed='78' occ='3.46'/>
-	<sample sensor='35N637' flow='120' speed='45' occ='1.11'/>
-	<sample sensor='S398' flow='360' speed='65' occ='2.63'/>
-	<sample sensor='S395' flow='280' speed='68' occ='1.41'/>
-	<sample sensor='S393' flow='360' speed='70' occ='2.56'/>
-	<sample sensor='S394' flow='520' speed='68' occ='5.44'/>
-	<sample sensor='S391' flow='480' speed='63' occ='3.63'/>
-	<sample sensor='S392' flow='480' speed='72' occ='2.65'/>
-	<sample sensor='S1610' flow='300' speed='73' occ='2.25'/>
-	<sample sensor='35N642' flow='0' occ='0'/>
-	<sample sensor='35N651' flow='180' speed='80' occ='1.11'/>
-	<sample sensor='35N655' flow='600' speed='73' occ='5.28'/>
-	<sample sensor='35N660' flow='300' speed='74' occ='2.78'/>
-	<sample sensor='35N665' flow='480' speed='77' occ='3.89'/>
-	<sample sensor='35N671' flow='240' speed='75' occ='2.5'/>
-	<sample sensor='35N675' flow='60' speed='59' occ='1.58'/>
-	<sample sensor='S1204' flow='540' speed='79' occ='3.97'/>
-	<sample sensor='S1205' flow='1040' speed='74' occ='9.2'/>
-	<sample sensor='S1206' flow='240' speed='55' occ='2.89'/>
-	<sample sensor='S1207' flow='200' speed='66' occ='2.09'/>
-	<sample sensor='S1208' flow='400' speed='71' occ='3.78'/>
-	<sample sensor='S1200' flow='280' speed='69' occ='2.85'/>
-	<sample sensor='S1201' flow='360' speed='69' occ='2.96'/>
-	<sample sensor='S1202' flow='480' speed='83' occ='3.56'/>
-	<sample sensor='35N565' flow='420' speed='71' occ='5.33'/>
-	<sample sensor='S1203' flow='600' speed='88' occ='4.67'/>
+	<sample sensor='S397' flow='1320' speed='65' occ='10.89'/>
+	<sample sensor='35N637' flow='1440' speed='55' occ='18.5'/>
+	<sample sensor='S398' flow='1040' speed='70' occ='7.13'/>
+	<sample sensor='S395' flow='1480' speed='76' occ='7.15'/>
+	<sample sensor='S393' flow='1400' speed='72' occ='9.28'/>
+	<sample sensor='S394' flow='1480' speed='66' occ='16.37'/>
+	<sample sensor='S391' flow='1480' speed='62' occ='11.28'/>
+	<sample sensor='S392' flow='1520' speed='73' occ='8'/>
+	<sample sensor='S1610' flow='1380' speed='67' occ='11.28'/>
+	<sample sensor='35N642' flow='540' speed='69' occ='6.47'/>
+	<sample sensor='35N651' flow='60' speed='66' occ='1.25'/>
+	<sample sensor='35N655'/>
+	<sample sensor='35N660' flow='480' speed='76' occ='2.92'/>
+	<sample sensor='35N665' flow='480' speed='73' occ='2.36'/>
+	<sample sensor='35N671' flow='600' speed='72' occ='5.28'/>
+	<sample sensor='35N675' flow='960' speed='71' occ='7.56'/>
+	<sample sensor='S1204' flow='1740' speed='68' occ='14.42'/>
+	<sample sensor='S1205' flow='1440' speed='59' occ='17.13'/>
+	<sample sensor='S1206' flow='880' speed='71' occ='7.26'/>
+	<sample sensor='S1207' flow='840' speed='78' occ='6.93'/>
+	<sample sensor='S1208' flow='1160' speed='80' occ='8.93'/>
+	<sample sensor='S1200' flow='1040' speed='66' occ='9.31'/>
+	<sample sensor='S1201' flow='2040' speed='63' occ='17.93'/>
+	<sample sensor='S1202' flow='1840' speed='78' occ='14.24'/>
+	<sample sensor='35N565' flow='420' speed='78' occ='2.81'/>
+	<sample sensor='S1203' flow='960' speed='64' occ='9.28'/>
 	<sample sensor='35N574' flow='0' occ='0'/>
-	<sample sensor='35N571' flow='240' speed='85' occ='1.72'/>
+	<sample sensor='35N571' flow='0' occ='0'/>
 	<sample sensor='35N585'/>
-	<sample sensor='S1229' flow='240' speed='80' occ='2.92'/>
-	<sample sensor='S1220' flow='240' speed='73' occ='1.47'/>
-	<sample sensor='S1221' flow='1080' speed='85' occ='10.06'/>
-	<sample sensor='S1222' flow='300' speed='72' occ='1.81'/>
-	<sample sensor='S1223' flow='0' occ='0'/>
-	<sample sensor='35N587' flow='600' speed='66' occ='3.11'/>
+	<sample sensor='S1229' flow='720' speed='82' occ='6.06'/>
+	<sample sensor='S1220' flow='1500' speed='72' occ='14.39'/>
+	<sample sensor='S1221' flow='1440' speed='80' occ='18.08'/>
+	<sample sensor='S1222' flow='900' speed='72' occ='6.94'/>
+	<sample sensor='S1223' flow='300' speed='52' occ='3.31'/>
+	<sample sensor='35N587' flow='1080' speed='63' occ='12.61'/>
 	<sample sensor='S1215'/>
 	<sample sensor='35N595'/>
-	<sample sensor='S1210' flow='60' speed='71' occ='0.14'/>
-	<sample sensor='S1211' flow='360' speed='67' occ='0.78'/>
+	<sample sensor='S1210' flow='360' speed='71' occ='2.75'/>
+	<sample sensor='S1211' flow='720' speed='74' occ='3.5'/>
 	<sample sensor='S1212'/>
 	<sample sensor='S1213'/>
 	<sample sensor='S1214'/>
-	<sample sensor='S812' flow='360' speed='69' occ='2.33'/>
-	<sample sensor='S813' flow='240' speed='70' occ='1.48'/>
-	<sample sensor='S810' flow='640' speed='72' occ='3.5'/>
-	<sample sensor='S811' flow='400' speed='59' occ='2.56'/>
-	<sample sensor='S818' flow='60' speed='58' occ='0.67'/>
-	<sample sensor='S819' flow='240' speed='52' occ='4.03'/>
-	<sample sensor='S814' flow='40' speed='63' occ='0.26'/>
-	<sample sensor='S801' flow='160' speed='65' occ='0.83'/>
-	<sample sensor='S802' flow='240' speed='67' occ='1.54'/>
-	<sample sensor='S800' flow='680' speed='70' occ='3.8'/>
-	<sample sensor='S809' flow='640' speed='57' occ='3.33'/>
+	<sample sensor='S812' flow='920' speed='62' occ='6.46'/>
+	<sample sensor='S813' flow='800' speed='67' occ='5.07'/>
+	<sample sensor='S810' flow='2000' speed='69' occ='11.46'/>
+	<sample sensor='S811' flow='1360' speed='66' occ='8.43'/>
+	<sample sensor='S818' flow='840' speed='62' occ='8.83'/>
+	<sample sensor='S819' flow='1200' speed='56' occ='19.22'/>
+	<sample sensor='S814' flow='680' speed='65' occ='4.13'/>
+	<sample sensor='S801' flow='1260' speed='73' occ='5.56'/>
+	<sample sensor='S802' flow='840' speed='72' occ='4.85'/>
+	<sample sensor='S800' flow='920' speed='73' occ='4.91'/>
+	<sample sensor='S809' flow='920' speed='73' occ='4.06'/>
 	<sample sensor='ST431'/>
-	<sample sensor='S807' flow='240' speed='67' occ='1.44'/>
-	<sample sensor='S808' flow='840' speed='74' occ='4.46'/>
-	<sample sensor='S803' flow='160' speed='61' occ='1.09'/>
-	<sample sensor='S834' flow='540' speed='58' occ='4.33'/>
-	<sample sensor='S835' flow='960' speed='54' occ='7.78'/>
-	<sample sensor='S832' flow='1260' speed='62' occ='10.42'/>
-	<sample sensor='S833' flow='780' speed='63' occ='5.47'/>
-	<sample sensor='S830' flow='540' speed='61' occ='3.22'/>
-	<sample sensor='S831' flow='420' speed='68' occ='3.56'/>
-	<sample sensor='S838' flow='720' speed='51' occ='8.44'/>
-	<sample sensor='S839' flow='360' speed='53' occ='3.22'/>
-	<sample sensor='S836' flow='120' speed='48' occ='1'/>
-	<sample sensor='S837' flow='540' speed='49' occ='5.25'/>
-	<sample sensor='ST460' flow='120' speed='39' occ='1.78'/>
-	<sample sensor='ST461' flow='120' speed='46' occ='1.28'/>
-	<sample sensor='S823' flow='300' speed='69' occ='2.31'/>
-	<sample sensor='S824' flow='300' speed='62' occ='2.58'/>
-	<sample sensor='S821' flow='360' speed='75' occ='2.47'/>
-	<sample sensor='S822' flow='0' occ='0'/>
-	<sample sensor='S820' flow='300' speed='76' occ='1.89'/>
-	<sample sensor='ST454' flow='320' speed='63' occ='2.76'/>
-	<sample sensor='S829' flow='240' speed='62' occ='1.42'/>
-	<sample sensor='ST455' flow='360' speed='69' occ='3.03'/>
-	<sample sensor='ST456' flow='120' speed='65' occ='0.61'/>
-	<sample sensor='S827' flow='600' speed='80' occ='5.76'/>
-	<sample sensor='S828' flow='120' speed='85' occ='0.72'/>
-	<sample sensor='ST458' flow='660' speed='64' occ='6'/>
-	<sample sensor='S825' flow='200' speed='80' occ='1.26'/>
-	<sample sensor='ST459' flow='30' speed='64' occ='0.24'/>
-	<sample sensor='S826' flow='120' speed='73' occ='0.96'/>
-	<sample sensor='ST450' flow='360' speed='62' occ='2.76'/>
-	<sample sensor='ST451' flow='240' speed='50' occ='3.06'/>
-	<sample sensor='S856' flow='360' speed='66' occ='2.36'/>
-	<sample sensor='S857' flow='240' speed='61' occ='2.15'/>
-	<sample sensor='S854' flow='240' speed='56' occ='2.56'/>
-	<sample sensor='S855' flow='480' speed='70' occ='3.81'/>
-	<sample sensor='S852' flow='660' speed='49' occ='6.89'/>
-	<sample sensor='S853' flow='540' speed='68' occ='4.36'/>
-	<sample sensor='S850' flow='480' speed='53' occ='5.69'/>
-	<sample sensor='S851' flow='540' speed='56' occ='6.17'/>
-	<sample sensor='S858' flow='120' speed='79' occ='0.85'/>
-	<sample sensor='S859' flow='240' speed='67' occ='1.8'/>
-	<sample sensor='S860' flow='240' speed='79' occ='1.75'/>
-	<sample sensor='S845' flow='720' speed='54' occ='7.03'/>
-	<sample sensor='S846' flow='240' speed='55' occ='3.08'/>
-	<sample sensor='S843' flow='120' speed='80' occ='0.83'/>
-	<sample sensor='S841' flow='420' speed='77' occ='2.78'/>
-	<sample sensor='S842' flow='420' speed='76' occ='3.08'/>
-	<sample sensor='S840' flow='180' speed='72' occ='1.31'/>
-	<sample sensor='S849' flow='660' speed='47' occ='6.14'/>
-	<sample sensor='S847' flow='600' speed='57' occ='6.22'/>
-	<sample sensor='S848' flow='420' speed='70' occ='3.36'/>
+	<sample sensor='S807' flow='1480' speed='70' occ='8.54'/>
+	<sample sensor='S808' flow='2940' speed='68' occ='17.56'/>
+	<sample sensor='S803' flow='680' speed='68' occ='4.19'/>
+	<sample sensor='S834'/>
+	<sample sensor='S835'/>
+	<sample sensor='S832'/>
+	<sample sensor='S833'/>
+	<sample sensor='S830'/>
+	<sample sensor='S831'/>
+	<sample sensor='S838'/>
+	<sample sensor='S839' flow='1740' speed='58' occ='13.97'/>
+	<sample sensor='S836'/>
+	<sample sensor='S837'/>
+	<sample sensor='ST460'/>
+	<sample sensor='ST461'/>
+	<sample sensor='S823' flow='1680' speed='73' occ='12.14'/>
+	<sample sensor='S824' flow='1740' speed='66' occ='13.22'/>
+	<sample sensor='S821' flow='1020' speed='79' occ='6.58'/>
+	<sample sensor='S822' flow='900' speed='73' occ='6.53'/>
+	<sample sensor='S820' flow='1140' speed='72' occ='7.61'/>
+	<sample sensor='ST454'/>
+	<sample sensor='S829'/>
+	<sample sensor='ST455'/>
+	<sample sensor='ST456'/>
+	<sample sensor='S827'/>
+	<sample sensor='S828'/>
+	<sample sensor='ST458' flow='1020' speed='69' occ='7.31'/>
+	<sample sensor='S825'/>
+	<sample sensor='ST459' flow='1590' speed='66' occ='15.21'/>
+	<sample sensor='S826'/>
+	<sample sensor='ST450' flow='520' speed='68' occ='4'/>
+	<sample sensor='ST451' flow='1560' speed='55' occ='16.28'/>
+	<sample sensor='S856'/>
+	<sample sensor='S857'/>
+	<sample sensor='S854'/>
+	<sample sensor='S855'/>
+	<sample sensor='S852'/>
+	<sample sensor='S853'/>
+	<sample sensor='S850'/>
+	<sample sensor='S851'/>
+	<sample sensor='S858'/>
+	<sample sensor='S859'/>
+	<sample sensor='S860' flow='540' speed='66' occ='5.58'/>
+	<sample sensor='S845' flow='1260' speed='56' occ='11.89'/>
+	<sample sensor='S846'/>
+	<sample sensor='S843' flow='600' speed='74' occ='5.28'/>
+	<sample sensor='S841' flow='780' speed='75' occ='5.33'/>
+	<sample sensor='S842' flow='1080' speed='78' occ='7.61'/>
+	<sample sensor='S840' flow='960' speed='73' occ='6.83'/>
+	<sample sensor='S849'/>
+	<sample sensor='S847'/>
+	<sample sensor='S848'/>
 	<sample sensor='S1238'/>
 	<sample sensor='S1239'/>
 	<sample sensor='S1232'/>
 	<sample sensor='S1233'/>
 	<sample sensor='S1234'/>
 	<sample sensor='S1235'/>
-	<sample sensor='S878' flow='180' speed='63' occ='1.39'/>
-	<sample sensor='S879' flow='120' speed='80' occ='0.78'/>
-	<sample sensor='S876' flow='300' speed='86' occ='1.72'/>
-	<sample sensor='S877' flow='660' speed='70' occ='3.94'/>
-	<sample sensor='S874' flow='420' speed='80' occ='2.58'/>
-	<sample sensor='S875' flow='300' speed='70' occ='1.81'/>
-	<sample sensor='S872' flow='480' speed='77' occ='3.14'/>
-	<sample sensor='S873' flow='120' speed='98' occ='0.67'/>
-	<sample sensor='S881' flow='120' speed='59' occ='1.07'/>
+	<sample sensor='S878'/>
+	<sample sensor='S879'/>
+	<sample sensor='S876' flow='180' speed='81' occ='1.17'/>
+	<sample sensor='S877'/>
+	<sample sensor='S874'/>
+	<sample sensor='S875'/>
+	<sample sensor='S872'/>
+	<sample sensor='S873'/>
+	<sample sensor='S881'/>
 	<sample sensor='S1262'/>
-	<sample sensor='S882' flow='120' speed='72' occ='0.76'/>
+	<sample sensor='S882'/>
 	<sample sensor='S1263'/>
-	<sample sensor='S880' flow='200' speed='74' occ='1.28'/>
-	<sample sensor='S863' flow='280' speed='85' occ='1.8'/>
-	<sample sensor='S864' flow='160' speed='88' occ='1'/>
-	<sample sensor='S861' flow='780' speed='74' occ='5.86'/>
-	<sample sensor='S862' flow='280' speed='82' occ='1.76'/>
-	<sample sensor='S869' flow='240' speed='49' occ='2.06'/>
-	<sample sensor='S870' flow='240' speed='49' occ='3.56'/>
-	<sample sensor='S871' flow='180' speed='98' occ='1.11'/>
-	<sample sensor='S416' flow='600' speed='61' occ='4.52'/>
-	<sample sensor='S417' flow='280' speed='58' occ='2.15'/>
-	<sample sensor='S898' flow='180' speed='86' occ='1.06'/>
+	<sample sensor='S880'/>
+	<sample sensor='S863'/>
+	<sample sensor='S864'/>
+	<sample sensor='S861' flow='1260' speed='72' occ='9.64'/>
+	<sample sensor='S862' flow='1320' speed='82' occ='8.39'/>
+	<sample sensor='S869' flow='240' speed='45' occ='2.22'/>
+	<sample sensor='S870' flow='840' speed='81' occ='5.06'/>
+	<sample sensor='S871'/>
+	<sample sensor='S416' flow='1160' speed='66' occ='8.37'/>
+	<sample sensor='S417' flow='1520' speed='64' occ='11.15'/>
+	<sample sensor='S898'/>
 	<sample sensor='S414'/>
-	<sample sensor='S899' flow='240' speed='47' occ='2.72'/>
-	<sample sensor='S415' flow='480' speed='58' occ='3.13'/>
-	<sample sensor='S896' flow='200' speed='77' occ='1.13'/>
-	<sample sensor='S412' flow='300' speed='78' occ='1.92'/>
-	<sample sensor='S897' flow='240' speed='81' occ='1.39'/>
-	<sample sensor='S413' flow='280' speed='69' occ='1.83'/>
-	<sample sensor='S894' flow='120' speed='69' occ='0.74'/>
-	<sample sensor='S895' flow='760' speed='74' occ='4.83'/>
-	<sample sensor='S418' flow='360' speed='61' occ='2.22'/>
-	<sample sensor='S419' flow='400' speed='66' occ='2.5'/>
-	<sample sensor='S420' flow='120' speed='87' occ='0.67'/>
-	<sample sensor='35S574' flow='60' speed='66' occ='0.33'/>
-	<sample sensor='S889' flow='480' speed='64' occ='3.76'/>
-	<sample sensor='S405' flow='320' speed='55' occ='2.83'/>
-	<sample sensor='S406' flow='320' speed='74' occ='1.67'/>
-	<sample sensor='S887' flow='240' speed='67' occ='1.41'/>
-	<sample sensor='S403' flow='320' speed='63' occ='2.57'/>
-	<sample sensor='S888' flow='300' speed='72' occ='1.92'/>
-	<sample sensor='S404' flow='560' speed='65' occ='3.87'/>
-	<sample sensor='S885' flow='240' speed='85' occ='1.5'/>
-	<sample sensor='S401' flow='60' speed='64' occ='0.56'/>
-	<sample sensor='S886' flow='480' speed='85' occ='2.96'/>
-	<sample sensor='S402' flow='320' speed='52' occ='2.52'/>
-	<sample sensor='S883' flow='200' speed='71' occ='1.19'/>
-	<sample sensor='S884' flow='280' speed='72' occ='1.61'/>
-	<sample sensor='S407' flow='440' speed='57' occ='3.31'/>
-	<sample sensor='S408' flow='600' speed='63' occ='5.22'/>
-	<sample sensor='S892' flow='320' speed='54' occ='2.7'/>
-	<sample sensor='S893' flow='320' speed='63' occ='2.3'/>
+	<sample sensor='S899' flow='600' speed='80' occ='3.67'/>
+	<sample sensor='S415' flow='1440' speed='67' occ='7.98'/>
+	<sample sensor='S896'/>
+	<sample sensor='S412' flow='1560' speed='67' occ='11.25'/>
+	<sample sensor='S897'/>
+	<sample sensor='S413' flow='1480' speed='70' occ='9.37'/>
+	<sample sensor='S894'/>
+	<sample sensor='S895'/>
+	<sample sensor='S418' flow='1320' speed='71' occ='7.5'/>
+	<sample sensor='S419' flow='1040' speed='67' occ='6.63'/>
+	<sample sensor='S420' flow='600' speed='73' occ='3.56'/>
+	<sample sensor='35S574' flow='660' speed='72' occ='7.44'/>
+	<sample sensor='S889'/>
+	<sample sensor='S405' flow='1680' speed='57' occ='14.44'/>
+	<sample sensor='S406' flow='1600' speed='71' occ='9.48'/>
+	<sample sensor='S887'/>
+	<sample sensor='S403' flow='1080' speed='70' occ='7.76'/>
+	<sample sensor='S888'/>
+	<sample sensor='S404' flow='1080' speed='68' occ='7'/>
+	<sample sensor='S885'/>
+	<sample sensor='S401' flow='540' speed='57' occ='6.06'/>
+	<sample sensor='S886'/>
+	<sample sensor='S402' flow='1240' speed='63' occ='8.24'/>
+	<sample sensor='S883'/>
+	<sample sensor='S884'/>
+	<sample sensor='S407' flow='1200' speed='62' occ='7.98'/>
+	<sample sensor='S408' flow='1600' speed='67' occ='12.5'/>
+	<sample sensor='S892'/>
+	<sample sensor='S893'/>
 	<sample sensor='35S585' flow='0' occ='0'/>
-	<sample sensor='S890' flow='360' speed='66' occ='2.54'/>
-	<sample sensor='S891' flow='640' speed='69' occ='4'/>
-	<sample sensor='35S587' flow='360' speed='75' occ='2.56'/>
-	<sample sensor='35S588' flow='60' speed='62' occ='0.39'/>
-	<sample sensor='S438' flow='720' speed='80' occ='3.86'/>
-	<sample sensor='S439' flow='660' speed='72' occ='4.92'/>
-	<sample sensor='S437' flow='300' speed='77' occ='2.03'/>
-	<sample sensor='S434' flow='540' speed='70' occ='4.28'/>
-	<sample sensor='S435' flow='360' speed='75' occ='2.33'/>
-	<sample sensor='S432' flow='360' speed='59' occ='3.22'/>
-	<sample sensor='S433' flow='360' speed='77' occ='2.56'/>
-	<sample sensor='S1900' flow='180' speed='65' occ='1.11'/>
-	<sample sensor='S1901' flow='120' speed='65' occ='0.83'/>
-	<sample sensor='S1902' flow='120' speed='67' occ='0.75'/>
-	<sample sensor='S1903' flow='120' speed='61' occ='0.69'/>
-	<sample sensor='S1904' flow='120' speed='67' occ='0.78'/>
-	<sample sensor='S441' flow='300' speed='60' occ='2.06'/>
+	<sample sensor='S890'/>
+	<sample sensor='S891'/>
+	<sample sensor='35S587' flow='540' speed='76' occ='4.58'/>
+	<sample sensor='35S588' flow='660' speed='67' occ='9.94'/>
+	<sample sensor='S438' flow='2220' speed='62' occ='15.33'/>
+	<sample sensor='S439' flow='1860' speed='58' occ='18.14'/>
+	<sample sensor='S437' flow='1920' speed='48' occ='20.11'/>
+	<sample sensor='S434' flow='1320' speed='58' occ='12.58'/>
+	<sample sensor='S435' flow='2640' speed='66' occ='19.33'/>
+	<sample sensor='S432' flow='1500' speed='64' occ='12.47'/>
+	<sample sensor='S433' flow='1500' speed='73' occ='11.31'/>
+	<sample sensor='S1900' flow='780' speed='75' occ='4.69'/>
+	<sample sensor='S1901' flow='720' speed='75' occ='4.36'/>
+	<sample sensor='S1902' flow='720' speed='75' occ='4.5'/>
+	<sample sensor='S1903' flow='360' speed='71' occ='2'/>
+	<sample sensor='S1904' flow='540' speed='77' occ='3.75'/>
+	<sample sensor='S441' flow='1320' speed='60' occ='10.42'/>
 	<sample sensor='35S595'/>
-	<sample sensor='S442' flow='540' speed='57' occ='3.78'/>
-	<sample sensor='S440' flow='180' speed='62' occ='1.39'/>
-	<sample sensor='S427' flow='120' speed='67' occ='0.94'/>
-	<sample sensor='S428' flow='180' speed='82' occ='0.92'/>
-	<sample sensor='S425' flow='480' speed='66' occ='3.44'/>
-	<sample sensor='S423' flow='280' speed='79' occ='1.87'/>
-	<sample sensor='S424' flow='400' speed='78' occ='2.46'/>
-	<sample sensor='S421' flow='120' speed='83' occ='0.78'/>
-	<sample sensor='S429' flow='240' speed='80' occ='1.03'/>
-	<sample sensor='S430' flow='600' speed='67' occ='3.58'/>
-	<sample sensor='S431' flow='240' speed='64' occ='1.69'/>
-	<sample sensor='S1080' flow='120' speed='75' occ='0.69'/>
-	<sample sensor='S458' flow='360' speed='58' occ='2.17'/>
-	<sample sensor='S459' flow='300' speed='60' occ='1.89'/>
-	<sample sensor='S456' flow='660' speed='71' occ='4.36'/>
-	<sample sensor='S1083' flow='360' speed='67' occ='2.24'/>
-	<sample sensor='S457' flow='720' speed='63' occ='5.56'/>
-	<sample sensor='S1084' flow='560' speed='62' occ='4.11'/>
-	<sample sensor='S1085' flow='440' speed='66' occ='2.56'/>
-	<sample sensor='S455' flow='540' speed='84' occ='3.31'/>
-	<sample sensor='S1086' flow='600' speed='67' occ='4.57'/>
-	<sample sensor='S1088' flow='600' speed='75' occ='3.06'/>
-	<sample sensor='S461' flow='540' speed='84' occ='2.86'/>
-	<sample sensor='S1089' flow='300' speed='59' occ='2'/>
-	<sample sensor='S462' flow='540' speed='73' occ='4.08'/>
-	<sample sensor='S460' flow='420' speed='57' occ='2.64'/>
-	<sample sensor='S449' flow='440' speed='75' occ='2.81'/>
-	<sample sensor='S447' flow='480' speed='62' occ='3.28'/>
-	<sample sensor='S1070' flow='264' speed='64' occ='1.89'/>
-	<sample sensor='S448' flow='420' speed='59' occ='2.67'/>
-	<sample sensor='S445' flow='320' speed='77' occ='2'/>
-	<sample sensor='S1074' flow='480' speed='62' occ='4.44'/>
-	<sample sensor='S444' flow='400' speed='67' occ='2.87'/>
-	<sample sensor='S1075' flow='660' speed='60' occ='4.58'/>
-	<sample sensor='S452' flow='120' speed='82' occ='0.67'/>
+	<sample sensor='S442' flow='1800' speed='55' occ='17.11'/>
+	<sample sensor='S440' flow='1440' speed='58' occ='12.47'/>
+	<sample sensor='S427' flow='540' speed='69' occ='4.08'/>
+	<sample sensor='S428' flow='840' speed='72' occ='5.03'/>
+	<sample sensor='S425' flow='840' speed='73' occ='5.67'/>
+	<sample sensor='S423' flow='840' speed='77' occ='5.65'/>
+	<sample sensor='S424' flow='840' speed='64' occ='6.41'/>
+	<sample sensor='S421' flow='1080' speed='77' occ='8'/>
+	<sample sensor='S429' flow='600' speed='71' occ='3.53'/>
+	<sample sensor='S430' flow='1560' speed='66' occ='10.53'/>
+	<sample sensor='S431' flow='1620' speed='63' occ='11.56'/>
+	<sample sensor='S1080' flow='1560' speed='69' occ='14.89'/>
+	<sample sensor='S458' flow='2040' speed='63' occ='15.72'/>
+	<sample sensor='S459' flow='1620' speed='63' occ='13.47'/>
+	<sample sensor='S456' flow='1620' speed='59' occ='12.81'/>
+	<sample sensor='S1083' flow='1320' speed='63' occ='9.48'/>
+	<sample sensor='S457' flow='1200' speed='59' occ='10.06'/>
+	<sample sensor='S1084' flow='1360' speed='67' occ='9.43'/>
+	<sample sensor='S1085' flow='1480' speed='67' occ='10.2'/>
+	<sample sensor='S455' flow='1380' speed='76' occ='9.83'/>
+	<sample sensor='S1086' flow='1280' speed='69' occ='10.57'/>
+	<sample sensor='S1088' flow='1560' speed='61' occ='10.75'/>
+	<sample sensor='S461' flow='840' speed='64' occ='5.53'/>
+	<sample sensor='S1089' flow='1920' speed='43' occ='17.25'/>
+	<sample sensor='S462' flow='840' speed='75' occ='6.14'/>
+	<sample sensor='S460' flow='1200' speed='78' occ='4.47'/>
+	<sample sensor='S449' flow='1160' speed='78' occ='7.39'/>
+	<sample sensor='S447' flow='960' speed='66' occ='6.31'/>
+	<sample sensor='S1070' flow='1296' speed='61' occ='10.1'/>
+	<sample sensor='S448' flow='1620' speed='54' occ='14.03'/>
+	<sample sensor='S445' flow='600' speed='71' occ='3.85'/>
+	<sample sensor='S1074' flow='2460' speed='66' occ='19.28'/>
+	<sample sensor='S444' flow='1440' speed='57' occ='12.57'/>
+	<sample sensor='S1075' flow='2100' speed='71' occ='10.56'/>
+	<sample sensor='S452' flow='1800' speed='70' occ='10.75'/>
 	<sample sensor='S1076'/>
-	<sample sensor='S453' flow='360' speed='71' occ='2.44'/>
-	<sample sensor='S1077' flow='480' speed='66' occ='3.74'/>
-	<sample sensor='S450' flow='360' speed='60' occ='3.08'/>
-	<sample sensor='S1078' flow='400' speed='63' occ='2.54'/>
-	<sample sensor='S451' flow='480' speed='69' occ='3.5'/>
-	<sample sensor='S1079' flow='240' speed='70' occ='1.54'/>
-	<sample sensor='S478' flow='800' speed='70' occ='6.46'/>
-	<sample sensor='S479' flow='360' speed='61' occ='2.72'/>
-	<sample sensor='35N705' flow='360' speed='73' occ='2.83'/>
-	<sample sensor='S477' flow='270' speed='74' occ='1.54'/>
-	<sample sensor='S485' flow='400' speed='79' occ='2.61'/>
-	<sample sensor='S486' flow='360' speed='77' occ='2.11'/>
-	<sample sensor='S483' flow='200' speed='60' occ='2.17'/>
-	<sample sensor='S484' flow='240' speed='72' occ='1.65'/>
-	<sample sensor='S481' flow='570' speed='73' occ='4.18'/>
-	<sample sensor='S482' flow='510' speed='76' occ='3.79'/>
-	<sample sensor='S480' flow='270' speed='79' occ='1.82'/>
-	<sample sensor='S469' flow='570' speed='61' occ='4.01'/>
-	<sample sensor='S467' flow='480' speed='68' occ='3.57'/>
-	<sample sensor='35N718' flow='120' speed='85' occ='0.61'/>
-	<sample sensor='S468' flow='420' speed='61' occ='3.56'/>
+	<sample sensor='S453' flow='1740' speed='64' occ='12.81'/>
+	<sample sensor='S1077' flow='1400' speed='65' occ='12.44'/>
+	<sample sensor='S450' flow='1500' speed='57' occ='14.03'/>
+	<sample sensor='S1078' flow='2160' speed='64' occ='15.87'/>
+	<sample sensor='S451' flow='1260' speed='62' occ='10.72'/>
+	<sample sensor='S1079' flow='1880' speed='63' occ='15.41'/>
+	<sample sensor='S478' flow='1720' speed='72' occ='13.2'/>
+	<sample sensor='S479' flow='1960' speed='57' occ='15.44'/>
+	<sample sensor='35N705' flow='660' speed='73' occ='7.11'/>
+	<sample sensor='S477' flow='960' speed='68' occ='6.4'/>
+	<sample sensor='S485' flow='1000' speed='66' occ='8.33'/>
+	<sample sensor='S486' flow='840' speed='71' occ='5.67'/>
+	<sample sensor='S483' flow='1440' speed='63' occ='12.02'/>
+	<sample sensor='S484' flow='920' speed='66' occ='7.59'/>
+	<sample sensor='S481' flow='1560' speed='63' occ='13.46'/>
+	<sample sensor='S482' flow='1530' speed='74' occ='11.44'/>
+	<sample sensor='S480' flow='1560' speed='70' occ='11.78'/>
+	<sample sensor='S469' flow='1920' speed='58' occ='13.72'/>
+	<sample sensor='S467' flow='1440' speed='68' occ='10.62'/>
+	<sample sensor='35N718' flow='0' occ='0'/>
+	<sample sensor='S468' flow='2220' speed='55' occ='21.08'/>
 	<sample sensor='S1094'/>
-	<sample sensor='S465' flow='720' speed='55' occ='5.96'/>
-	<sample sensor='S1095' flow='420' speed='92' occ='2.44'/>
-	<sample sensor='S466' flow='510' speed='65' occ='4.47'/>
-	<sample sensor='S1096' flow='240' speed='106' occ='1.19'/>
-	<sample sensor='S474' flow='120' speed='41' occ='1.63'/>
-	<sample sensor='S1097' flow='600' speed='89' occ='4.11'/>
-	<sample sensor='S475' flow='320' speed='72' occ='2.33'/>
-	<sample sensor='S472' flow='440' speed='71' occ='3.41'/>
-	<sample sensor='S473' flow='320' speed='62' occ='2.78'/>
-	<sample sensor='S470' flow='240' speed='80' occ='1.61'/>
-	<sample sensor='S471' flow='320' speed='79' occ='2.15'/>
-	<sample sensor='S498' flow='300' speed='60' occ='1.81'/>
-	<sample sensor='S499' flow='480' speed='65' occ='4.67'/>
-	<sample sensor='35N728' flow='360' speed='78' occ='1.94'/>
-	<sample sensor='S1963' flow='570' speed='68' occ='3.88'/>
-	<sample sensor='S1964' flow='360' speed='62' occ='2.64'/>
-	<sample sensor='S1965' flow='420' speed='68' occ='2.56'/>
-	<sample sensor='S1960' flow='180' speed='71' occ='1.28'/>
-	<sample sensor='S1961' flow='360' speed='71' occ='2'/>
-	<sample sensor='S1962' flow='440' speed='63' occ='2.67'/>
-	<sample sensor='S489' flow='390' speed='64' occ='2.71'/>
-	<sample sensor='S487' flow='160' speed='76' occ='1.06'/>
-	<sample sensor='S488' flow='560' speed='71' occ='4.13'/>
-	<sample sensor='S1949' flow='120' speed='52' occ='0.96'/>
-	<sample sensor='S1952' flow='640' speed='64' occ='4.93'/>
-	<sample sensor='S1953' flow='640' speed='64' occ='4.83'/>
-	<sample sensor='S1954' flow='180' speed='58' occ='1.22'/>
-	<sample sensor='S1955' flow='0' occ='0'/>
-	<sample sensor='S1956' flow='0' occ='0'/>
-	<sample sensor='S1957' flow='60' speed='71' occ='0.33'/>
-	<sample sensor='S1958' flow='180' speed='70' occ='1.03'/>
-	<sample sensor='S1959' flow='0' occ='0'/>
-	<sample sensor='S496' flow='240' speed='63' occ='1.58'/>
-	<sample sensor='S497' flow='300' speed='53' occ='2.17'/>
-	<sample sensor='35N737' flow='240' speed='65' occ='1.44'/>
-	<sample sensor='S494' flow='400' speed='79' occ='2.54'/>
-	<sample sensor='S495' flow='420' speed='54' occ='1.72'/>
-	<sample sensor='S492' flow='600' speed='87' occ='3.19'/>
-	<sample sensor='S493' flow='240' speed='81' occ='1.46'/>
-	<sample sensor='S1950' flow='640' speed='61' occ='4.52'/>
-	<sample sensor='S490' flow='480' speed='67' occ='3.52'/>
-	<sample sensor='S1951' flow='320' speed='66' occ='1.98'/>
-	<sample sensor='S491' flow='680' speed='64' occ='4.94'/>
+	<sample sensor='S465' flow='1880' speed='49' occ='16.94'/>
+	<sample sensor='S1095' flow='540' speed='81' occ='3.92'/>
+	<sample sensor='S466' flow='1350' speed='68' occ='10.76'/>
+	<sample sensor='S1096' flow='720' speed='109' occ='3.7'/>
+	<sample sensor='S474' flow='640' speed='70' occ='4.85'/>
+	<sample sensor='S1097' flow='1320' speed='79' occ='9.92'/>
+	<sample sensor='S475' flow='1280' speed='70' occ='9.98'/>
+	<sample sensor='S472' flow='1160' speed='72' occ='8.43'/>
+	<sample sensor='S473' flow='920' speed='90' occ='5.78'/>
+	<sample sensor='S470' flow='1200' speed='61' occ='11.04'/>
+	<sample sensor='S471' flow='840' speed='70' occ='6.87'/>
+	<sample sensor='S498' flow='420' speed='13' occ='16.25'/>
+	<sample sensor='S499' flow='2120' speed='62' occ='21.52'/>
+	<sample sensor='35N728' flow='780' speed='66' occ='7.81'/>
+	<sample sensor='S1963' flow='1200' speed='66' occ='9.81'/>
+	<sample sensor='S1964' flow='1320' speed='61' occ='9.78'/>
+	<sample sensor='S1965' flow='840' speed='68' occ='6.17'/>
+	<sample sensor='S1960' flow='300' speed='73' occ='1.69'/>
+	<sample sensor='S1961' flow='360' speed='71' occ='2.89'/>
+	<sample sensor='S1962' flow='1600' speed='63' occ='14.04'/>
+	<sample sensor='S489' flow='1710' speed='61' occ='12.29'/>
+	<sample sensor='S487' flow='1200' speed='71' occ='8.78'/>
+	<sample sensor='S488' flow='1640' speed='75' occ='10.85'/>
+	<sample sensor='S1949' flow='900' speed='63' occ='6'/>
+	<sample sensor='S1952' flow='1720' speed='67' occ='11.74'/>
+	<sample sensor='S1953' flow='1360' speed='63' occ='13.28'/>
+	<sample sensor='S1954' flow='180' speed='69' occ='1'/>
+	<sample sensor='S1955' flow='360' speed='67' occ='2.64'/>
+	<sample sensor='S1956' flow='420' speed='65' occ='2.5'/>
+	<sample sensor='S1957' flow='300' speed='77' occ='1.75'/>
+	<sample sensor='S1958' flow='600' speed='71' occ='3.75'/>
+	<sample sensor='S1959' flow='480' speed='69' occ='3.06'/>
+	<sample sensor='S496' flow='540' speed='57' occ='4'/>
+	<sample sensor='S497' flow='660' speed='52' occ='4.97'/>
+	<sample sensor='35N737' flow='420' speed='74' occ='4.42'/>
+	<sample sensor='S494' flow='1000' speed='77' occ='6.63'/>
+	<sample sensor='S495' flow='540' speed='70' occ='1.75'/>
+	<sample sensor='S492' flow='1640' speed='62' occ='11.31'/>
+	<sample sensor='S493' flow='1680' speed='68' occ='12.39'/>
+	<sample sensor='S1950' flow='1800' speed='68' occ='13.96'/>
+	<sample sensor='S490' flow='1680' speed='60' occ='14.76'/>
+	<sample sensor='S1951' flow='1880' speed='65' occ='14.81'/>
+	<sample sensor='S491' flow='1720' speed='73' occ='10.83'/>
 	<sample sensor='T1788'/>
 	<sample sensor='S1501'/>
-	<sample sensor='S1502' flow='60' speed='72' occ='0.47'/>
-	<sample sensor='S1503' flow='240' speed='71' occ='1.64'/>
-	<sample sensor='S1504' flow='180' speed='69' occ='1.03'/>
-	<sample sensor='S1506' flow='240' speed='75' occ='2'/>
-	<sample sensor='S1507' flow='120' speed='82' occ='0.87'/>
-	<sample sensor='S1508' flow='360' speed='66' occ='2.63'/>
-	<sample sensor='S1500'/>
-	<sample sensor='S1916' flow='420' speed='52' occ='3.81'/>
-	<sample sensor='S1917' flow='120' speed='56' occ='0.89'/>
-	<sample sensor='S1918' flow='120' speed='65' occ='0.81'/>
-	<sample sensor='S1919' flow='0' occ='0'/>
-	<sample sensor='S1920' flow='0' occ='0'/>
+	<sample sensor='S1502' flow='720' speed='89' occ='4.22'/>
+	<sample sensor='S1503' flow='1500' speed='71' occ='8.42'/>
+	<sample sensor='S1504' flow='660' speed='73' occ='4.11'/>
+	<sample sensor='S1506' flow='1240' speed='67' occ='11.33'/>
+	<sample sensor='S1507' flow='1000' speed='76' occ='6.61'/>
+	<sample sensor='S1508' flow='920' speed='73' occ='7.3'/>
+	<sample sensor='S1500' flow='720' speed='113' occ='3.86'/>
+	<sample sensor='S1916' flow='480' speed='39' occ='18.78'/>
+	<sample sensor='S1917' flow='120' speed='64' occ='0.78'/>
+	<sample sensor='S1918' flow='0' occ='0'/>
+	<sample sensor='S1919' flow='1380' speed='70' occ='9.83'/>
+	<sample sensor='S1920' flow='1500' speed='70' occ='10.58'/>
 	<sample sensor='S1921'/>
-	<sample sensor='S1922' flow='360' speed='73' occ='2.06'/>
-	<sample sensor='S1923' flow='60' speed='56' occ='0.44'/>
-	<sample sensor='S1924' flow='420' speed='71' occ='2.64'/>
-	<sample sensor='S1925' flow='0' occ='0'/>
-	<sample sensor='S1926' flow='420' speed='67' occ='2.69'/>
-	<sample sensor='S1905' flow='60' speed='64' occ='0.39'/>
-	<sample sensor='S1906' flow='120' speed='67' occ='0.67'/>
+	<sample sensor='S1922' flow='0' occ='0'/>
+	<sample sensor='S1923' flow='0' occ='0'/>
+	<sample sensor='S1924' flow='720' speed='71' occ='5.31'/>
+	<sample sensor='S1925' flow='540' speed='70' occ='3.97'/>
+	<sample sensor='S1926' flow='360' speed='75' occ='2.06'/>
+	<sample sensor='S1905' flow='540' speed='55' occ='4.11'/>
+	<sample sensor='S1906' flow='420' speed='77' occ='2.44'/>
 	<sample sensor='S1907'/>
-	<sample sensor='S1908' flow='60' speed='71' occ='0.33'/>
-	<sample sensor='S1909' flow='0' occ='0'/>
-	<sample sensor='S1910' flow='180' speed='62' occ='1.39'/>
-	<sample sensor='S1911' flow='240' speed='36' occ='3.06'/>
-	<sample sensor='S1912' flow='60' speed='65' occ='0.42'/>
-	<sample sensor='S1913' flow='180' speed='56' occ='1.33'/>
-	<sample sensor='S1915' flow='300' speed='55' occ='2.14'/>
-	<sample sensor='S1938' flow='300' speed='61' occ='2.19'/>
-	<sample sensor='S1939' flow='240' speed='70' occ='1.64'/>
-	<sample sensor='S1941' flow='300' speed='59' occ='2.22'/>
-	<sample sensor='S1942' flow='60' speed='64' occ='0.42'/>
+	<sample sensor='S1908' flow='600' speed='74' occ='3.64'/>
+	<sample sensor='S1909' flow='1080' speed='72' occ='8.17'/>
+	<sample sensor='S1910' flow='720' speed='63' occ='6.53'/>
+	<sample sensor='S1911' flow='60' speed='20' occ='50.25'/>
+	<sample sensor='S1912' flow='780' speed='64' occ='5.64'/>
+	<sample sensor='S1913' flow='240' speed='58' occ='2.11'/>
+	<sample sensor='S1915' flow='540' speed='64' occ='3.39'/>
+	<sample sensor='S1938' flow='780' speed='64' occ='6.19'/>
+	<sample sensor='S1939' flow='840' speed='68' occ='6.61'/>
+	<sample sensor='S1941' flow='720' speed='58' occ='6.14'/>
+	<sample sensor='S1942' flow='660' speed='65' occ='4.53'/>
 	<sample sensor='S1943'/>
-	<sample sensor='S1944' flow='60' speed='54' occ='0.61'/>
-	<sample sensor='S1945' flow='336' speed='64' occ='2.13'/>
-	<sample sensor='S1946' flow='400' speed='58' occ='2.74'/>
-	<sample sensor='S1947' flow='920' speed='62' occ='6.26'/>
-	<sample sensor='S1948' flow='240' speed='62' occ='1.59'/>
-	<sample sensor='S1940' flow='120' speed='54' occ='0.81'/>
-	<sample sensor='S1927' flow='240' speed='56' occ='1.86'/>
-	<sample sensor='S1928' flow='180' speed='67' occ='2.39'/>
-	<sample sensor='S1929' flow='60' speed='65' occ='0.83'/>
-	<sample sensor='S1930' flow='0' occ='0'/>
-	<sample sensor='S1931' flow='300' speed='65' occ='1.75'/>
-	<sample sensor='S1932' flow='400' speed='69' occ='2.33'/>
-	<sample sensor='S1933' flow='120' speed='63' occ='0.76'/>
-	<sample sensor='S1934' flow='240' speed='70' occ='1.46'/>
-	<sample sensor='S1935' flow='200' speed='70' occ='1.11'/>
-	<sample sensor='S1936' flow='120' speed='58' occ='0.92'/>
-	<sample sensor='S1937' flow='60' speed='54' occ='0.44'/>
-	<sample sensor='S1567' flow='300' speed='65' occ='2.22'/>
-	<sample sensor='S1568' flow='300' speed='65' occ='1.67'/>
-	<sample sensor='35N685' flow='120' speed='64' occ='0.94'/>
-	<sample sensor='S1569' flow='600' speed='76' occ='4.39'/>
-	<sample sensor='35N681' flow='0' occ='0'/>
-	<sample sensor='S1560' flow='120' speed='78' occ='0.56'/>
-	<sample sensor='S1561' flow='180' speed='71' occ='1.25'/>
-	<sample sensor='S1556' flow='120' speed='83' occ='0.83'/>
-	<sample sensor='S1557' flow='120' speed='67' occ='1.17'/>
-	<sample sensor='S1558' flow='120' speed='80' occ='0.86'/>
-	<sample sensor='S1559' flow='120' speed='78' occ='0.97'/>
-	<sample sensor='35N692'/>
-	<sample sensor='S1555' flow='360' speed='70' occ='3.28'/>
+	<sample sensor='S1944' flow='120' speed='50' occ='4.28'/>
+	<sample sensor='S1945' flow='1152' speed='68' occ='8.36'/>
+	<sample sensor='S1946' flow='1280' speed='65' occ='8.37'/>
+	<sample sensor='S1947' flow='1240' speed='66' occ='9.76'/>
+	<sample sensor='S1948' flow='792' speed='65' occ='6.12'/>
+	<sample sensor='S1940' flow='720' speed='53' occ='5.58'/>
+	<sample sensor='S1927' flow='120' speed='68' occ='0.78'/>
+	<sample sensor='S1928' flow='240' speed='69' occ='2'/>
+	<sample sensor='S1929' flow='1080' speed='72' occ='8.78'/>
+	<sample sensor='S1930' flow='1260' speed='72' occ='8.47'/>
+	<sample sensor='S1931' flow='1140' speed='70' occ='7.67'/>
+	<sample sensor='S1932' flow='680' speed='65' occ='5.81'/>
+	<sample sensor='S1933' flow='520' speed='68' occ='3.67'/>
+	<sample sensor='S1934' flow='920' speed='66' occ='8.61'/>
+	<sample sensor='S1935' flow='280' speed='72' occ='1.63'/>
+	<sample sensor='S1936' flow='720' speed='71' occ='5.33'/>
+	<sample sensor='S1937' flow='420' speed='68' occ='2.28'/>
+	<sample sensor='S1567' flow='780' speed='66' occ='6.19'/>
+	<sample sensor='S1568' flow='780' speed='71' occ='5.11'/>
+	<sample sensor='35N685' flow='1200' speed='72' occ='11.06'/>
+	<sample sensor='S1569' flow='780' speed='71' occ='6.17'/>
+	<sample sensor='35N681' flow='480' speed='77' occ='2.89'/>
+	<sample sensor='S1560' flow='720' speed='76' occ='4.33'/>
+	<sample sensor='S1561' flow='1020' speed='71' occ='7.83'/>
+	<sample sensor='S1556' flow='1260' speed='75' occ='8.94'/>
+	<sample sensor='S1557' flow='480' speed='69' occ='4.17'/>
+	<sample sensor='S1558' flow='1440' speed='86' occ='9.42'/>
+	<sample sensor='S1559' flow='600' speed='74' occ='4.83'/>
+	<sample sensor='35N692' flow='1080' speed='77' occ='5.61'/>
+	<sample sensor='S1555' flow='1320' speed='66' occ='11.5'/>
 	<sample sensor='S1580'/>
-	<sample sensor='S1105' flow='720' speed='89' occ='4.63'/>
-	<sample sensor='S1589' flow='420' speed='87' occ='2.64'/>
-	<sample sensor='S1106' flow='240' speed='93' occ='1.46'/>
-	<sample sensor='S1107' flow='400' speed='70' occ='1.91'/>
-	<sample sensor='S1108' flow='440' speed='77' occ='3.28'/>
-	<sample sensor='S1109' flow='360' speed='96' occ='2'/>
-	<sample sensor='S1581' flow='120' speed='124' occ='0.69'/>
-	<sample sensor='S1582' flow='180' speed='99' occ='1.44'/>
+	<sample sensor='S1105' flow='2240' speed='74' occ='17.17'/>
+	<sample sensor='S1589' flow='1440' speed='77' occ='10.5'/>
+	<sample sensor='S1106' flow='1360' speed='94' occ='8.37'/>
+	<sample sensor='S1107' flow='1360' speed='66' occ='9.85'/>
+	<sample sensor='S1108' flow='1880' speed='39' occ='26.15'/>
+	<sample sensor='S1109' flow='1560' speed='83' occ='9.74'/>
+	<sample sensor='S1581' flow='600' speed='80' occ='4.86'/>
+	<sample sensor='S1582' flow='1020' speed='75' occ='9.39'/>
 	<sample sensor='S1583'/>
-	<sample sensor='S1100' flow='420' speed='71' occ='3.44'/>
-	<sample sensor='S1584' flow='180' speed='89' occ='1.28'/>
-	<sample sensor='S1585' flow='180' speed='57' occ='2.36'/>
-	<sample sensor='S1586' flow='540' speed='70' occ='5.19'/>
+	<sample sensor='S1100' flow='1140' speed='84' occ='7.89'/>
+	<sample sensor='S1584' flow='540' speed='82' occ='3.25'/>
+	<sample sensor='S1585' flow='660' speed='77' occ='5.42'/>
+	<sample sensor='S1586' flow='840' speed='92' occ='5.86'/>
 	<sample sensor='S1587'/>
-	<sample sensor='S1103' flow='60' speed='44' occ='0.69'/>
-	<sample sensor='S1588' flow='360' speed='74' occ='2.92'/>
-	<sample sensor='S1104' flow='120' speed='63' occ='1.06'/>
-	<sample sensor='S1578' flow='420' speed='110' occ='2.97'/>
-	<sample sensor='S1579' flow='180' speed='107' occ='1.14'/>
-	<sample sensor='S1570' flow='300' speed='83' occ='2.06'/>
-	<sample sensor='S1571' flow='240' speed='70' occ='1.64'/>
-	<sample sensor='S1572' flow='360' speed='78' occ='2.5'/>
-	<sample sensor='S1573' flow='360' speed='76' occ='2.97'/>
-	<sample sensor='S1523' flow='120' speed='9' occ='2.92'/>
-	<sample sensor='S1524' flow='360' speed='36' occ='4.28'/>
-	<sample sensor='S1525' flow='240' speed='59' occ='4.94'/>
-	<sample sensor='S1526' flow='680' speed='64' occ='5.83'/>
-	<sample sensor='S1527' flow='120' speed='63' occ='0.74'/>
-	<sample sensor='S1528' flow='160' speed='78' occ='1.24'/>
-	<sample sensor='S1529' flow='600' speed='75' occ='3.52'/>
-	<sample sensor='S1520' flow='240' speed='98' occ='1.42'/>
-	<sample sensor='S1521' flow='480' speed='76' occ='3.58'/>
-	<sample sensor='S1522' flow='420' speed='85' occ='2.86'/>
-	<sample sensor='S1509' flow='80' speed='63' occ='0.5'/>
-	<sample sensor='S1512' flow='60' speed='79' occ='0.36'/>
-	<sample sensor='S1513' flow='360' speed='79' occ='3.11'/>
-	<sample sensor='S1514' flow='60' speed='80' occ='0.36'/>
+	<sample sensor='S1103' flow='780' speed='56' occ='6.97'/>
+	<sample sensor='S1588' flow='1200' speed='67' occ='10.47'/>
+	<sample sensor='S1104' flow='420' speed='58' occ='4'/>
+	<sample sensor='S1578' flow='1440' speed='62' occ='13.86'/>
+	<sample sensor='S1579' flow='1140' speed='74' occ='9.94'/>
+	<sample sensor='S1570' flow='240' speed='77' occ='1.89'/>
+	<sample sensor='S1571' flow='840' speed='77' occ='6.28'/>
+	<sample sensor='S1572' flow='840' speed='66' occ='6.53'/>
+	<sample sensor='S1573' flow='780' speed='57' occ='9.67'/>
+	<sample sensor='S1523' flow='420' speed='67' occ='4.47'/>
+	<sample sensor='S1524' flow='720' speed='64' occ='5.09'/>
+	<sample sensor='S1525' flow='680' speed='66' occ='5.81'/>
+	<sample sensor='S1526' flow='440' speed='71' occ='2.78'/>
+	<sample sensor='S1527' flow='880' speed='68' occ='6'/>
+	<sample sensor='S1528' flow='1000' speed='71' occ='8.52'/>
+	<sample sensor='S1529' flow='280' speed='66' occ='1.85'/>
+	<sample sensor='S1520' flow='540' speed='96' occ='3.06'/>
+	<sample sensor='S1521' flow='900' speed='76' occ='6.67'/>
+	<sample sensor='S1522' flow='1140' speed='75' occ='9.42'/>
+	<sample sensor='S1509' flow='720' speed='70' occ='4.72'/>
+	<sample sensor='S1512' flow='1380' speed='75' occ='10.03'/>
+	<sample sensor='S1513' flow='1440' speed='76' occ='13'/>
+	<sample sensor='S1514' flow='660' speed='72' occ='4.44'/>
 	<sample sensor='S1999'/>
-	<sample sensor='S1510' flow='160' speed='67' occ='1.15'/>
-	<sample sensor='S1511' flow='180' speed='72' occ='1.03'/>
-	<sample sensor='S911' flow='300' speed='44' occ='3.47'/>
-	<sample sensor='S910' flow='360' speed='95' occ='2.22'/>
-	<sample sensor='S915' flow='240' speed='107' occ='1.17'/>
-	<sample sensor='S916' flow='360' speed='70' occ='2.93'/>
-	<sample sensor='S1545' flow='240' speed='73' occ='1.53'/>
-	<sample sensor='S1546' flow='180' speed='76' occ='0.92'/>
-	<sample sensor='S1547' flow='840' speed='71' occ='5.28'/>
-	<sample sensor='S1548' flow='840' speed='74' occ='6.19'/>
-	<sample sensor='S1549' flow='180' speed='68' occ='1.36'/>
-	<sample sensor='S1540' flow='300' speed='78' occ='1.92'/>
-	<sample sensor='S1541' flow='240' speed='72' occ='1.33'/>
-	<sample sensor='S1542' flow='180' speed='71' occ='1.03'/>
-	<sample sensor='S1543' flow='300' speed='74' occ='2.08'/>
-	<sample sensor='S1544' flow='600' speed='68' occ='4.33'/>
-	<sample sensor='S900' flow='420' speed='61' occ='3.75'/>
-	<sample sensor='S901' flow='480' speed='64' occ='3.69'/>
-	<sample sensor='S904' flow='60' speed='90' occ='0.42'/>
-	<sample sensor='S905' flow='240' speed='87' occ='1.53'/>
-	<sample sensor='S902' flow='360' speed='74' occ='2.28'/>
-	<sample sensor='S903' flow='120' speed='78' occ='0.56'/>
-	<sample sensor='S1534'/>
-	<sample sensor='S1535' flow='360' speed='80' occ='1.53'/>
-	<sample sensor='S1536' flow='0' occ='0'/>
-	<sample sensor='S1537' flow='360' speed='78' occ='2.39'/>
-	<sample sensor='S1538' flow='360' speed='81' occ='2.5'/>
-	<sample sensor='S1539' flow='180' speed='84' occ='1.14'/>
-	<sample sensor='S1530' flow='180' speed='64' occ='1.17'/>
-	<sample sensor='S1531' flow='360' speed='69' occ='2.75'/>
-	<sample sensor='S1532' flow='180' speed='86' occ='1.08'/>
+	<sample sensor='S1510' flow='1000' speed='67' occ='6.96'/>
+	<sample sensor='S1511' flow='480' speed='70' occ='3.69'/>
+	<sample sensor='S911' flow='960' speed='95' occ='5.17'/>
+	<sample sensor='S910' flow='960' speed='86' occ='6.57'/>
+	<sample sensor='S915' flow='1140' speed='62' occ='9.69'/>
+	<sample sensor='S916' flow='1480' speed='67' occ='12.56'/>
+	<sample sensor='S1545' flow='480' speed='69' occ='3.39'/>
+	<sample sensor='S1546' flow='660' speed='75' occ='5.03'/>
+	<sample sensor='S1547' flow='900' speed='74' occ='6.42'/>
+	<sample sensor='S1548' flow='960' speed='75' occ='6.56'/>
+	<sample sensor='S1549' flow='1560' speed='70' occ='11.58'/>
+	<sample sensor='S1540' flow='540' speed='74' occ='3.83'/>
+	<sample sensor='S1541' flow='600' speed='74' occ='3.33'/>
+	<sample sensor='S1542' flow='960' speed='75' occ='7.47'/>
+	<sample sensor='S1543' flow='1260' speed='75' occ='8.19'/>
+	<sample sensor='S1544' flow='540' speed='75' occ='3.28'/>
+	<sample sensor='S900'/>
+	<sample sensor='S901'/>
+	<sample sensor='S904'/>
+	<sample sensor='S905' flow='1080' speed='87' occ='6.36'/>
+	<sample sensor='S902'/>
+	<sample sensor='S903'/>
+	<sample sensor='S1534' flow='600' speed='64' occ='3.89'/>
+	<sample sensor='S1535' flow='420' speed='86' occ='1.86'/>
+	<sample sensor='S1536' flow='840' speed='59' occ='5.5'/>
+	<sample sensor='S1537' flow='600' speed='78' occ='4.03'/>
+	<sample sensor='S1538' flow='600' speed='82' occ='4.17'/>
+	<sample sensor='S1539' flow='540' speed='72' occ='3.92'/>
+	<sample sensor='S1530' flow='360' speed='66' occ='2.14'/>
+	<sample sensor='S1531' flow='360' speed='72' occ='2.08'/>
+	<sample sensor='S1532' flow='780' speed='62' occ='7.03'/>
 	<sample sensor='S1533'/>
-	<sample sensor='S933' flow='480' speed='66' occ='4.06'/>
-	<sample sensor='S934' flow='540' speed='69' occ='3.92'/>
-	<sample sensor='S931' flow='320' speed='64' occ='2.41'/>
-	<sample sensor='S932' flow='200' speed='64' occ='1.46'/>
-	<sample sensor='S930' flow='360' speed='69' occ='2.41'/>
-	<sample sensor='S1160' flow='180' speed='110' occ='0.92'/>
-	<sample sensor='S1161' flow='360' speed='94' occ='2'/>
-	<sample sensor='S1162' flow='60' speed='88' occ='0.39'/>
-	<sample sensor='S939' flow='280' speed='66' occ='2'/>
-	<sample sensor='S937' flow='780' speed='74' occ='4.53'/>
-	<sample sensor='S938' flow='480' speed='48' occ='5.61'/>
-	<sample sensor='S935' flow='300' speed='65' occ='2.14'/>
-	<sample sensor='S936' flow='600' speed='68' occ='4.25'/>
-	<sample sensor='S1163' flow='180' speed='102' occ='1.14'/>
-	<sample sensor='S1164' flow='180' speed='84' occ='1.19'/>
-	<sample sensor='S1165' flow='60' speed='83' occ='0.44'/>
-	<sample sensor='S1166' flow='120' speed='71' occ='1.17'/>
-	<sample sensor='S1167' flow='300' speed='97' occ='2.08'/>
-	<sample sensor='S1168' flow='60' speed='84' occ='0.5'/>
-	<sample sensor='S1169' flow='240' speed='107' occ='1.61'/>
-	<sample sensor='S922' flow='360' speed='61' occ='1.94'/>
-	<sample sensor='S920' flow='720' speed='71' occ='4.56'/>
-	<sample sensor='S921' flow='360' speed='85' occ='2.03'/>
-	<sample sensor='S1151' flow='600' speed='68' occ='4.08'/>
-	<sample sensor='S928' flow='600' speed='60' occ='4.22'/>
-	<sample sensor='S929' flow='180' speed='62' occ='1.17'/>
-	<sample sensor='S927' flow='240' speed='61' occ='1.7'/>
+	<sample sensor='S933' flow='1440' speed='72' occ='11.44'/>
+	<sample sensor='S934' flow='900' speed='70' occ='6.19'/>
+	<sample sensor='S931' flow='1040' speed='73' occ='7.09'/>
+	<sample sensor='S932' flow='1080' speed='65' occ='8.72'/>
+	<sample sensor='S930' flow='1880' speed='61' occ='12.63'/>
+	<sample sensor='S1160' flow='840' speed='82' occ='5.81'/>
+	<sample sensor='S1161' flow='1020' speed='77' occ='8.08'/>
+	<sample sensor='S1162' flow='720' speed='70' occ='6.03'/>
+	<sample sensor='S939' flow='680' speed='69' occ='4.67'/>
+	<sample sensor='S937' flow='1200' speed='61' occ='9.33'/>
+	<sample sensor='S938' flow='1860' speed='54' occ='17.78'/>
+	<sample sensor='S935' flow='1620' speed='77' occ='10.03'/>
+	<sample sensor='S936' flow='900' speed='51' occ='8.11'/>
+	<sample sensor='S1163' flow='600' speed='73' occ='5.56'/>
+	<sample sensor='S1164' flow='420' speed='85' occ='3.14'/>
+	<sample sensor='S1165' flow='480' speed='88' occ='3.25'/>
+	<sample sensor='S1166' flow='840' speed='73' occ='7.33'/>
+	<sample sensor='S1167' flow='660' speed='94' occ='4.89'/>
+	<sample sensor='S1168' flow='720' speed='73' occ='6.28'/>
+	<sample sensor='S1169' flow='600' speed='81' occ='4.64'/>
+	<sample sensor='S922' flow='540' speed='68' occ='2.67'/>
+	<sample sensor='S920' flow='1560' speed='62' occ='11.17'/>
+	<sample sensor='S921' flow='1380' speed='72' occ='8.42'/>
+	<sample sensor='S1151' flow='1140' speed='59' occ='9.06'/>
+	<sample sensor='S928' flow='1680' speed='64' occ='11'/>
+	<sample sensor='S929' flow='840' speed='59' occ='5.97'/>
+	<sample sensor='S927' flow='720' speed='66' occ='4.83'/>
 	<sample sensor='S2000'/>
-	<sample sensor='S1152' flow='480' speed='67' occ='3.86'/>
-	<sample sensor='S1153' flow='480' speed='70' occ='3.94'/>
+	<sample sensor='S1152' flow='960' speed='64' occ='8.78'/>
+	<sample sensor='S1153' flow='1800' speed='67' occ='15.58'/>
 	<sample sensor='S2002'/>
-	<sample sensor='S1154' flow='180' speed='74' occ='1.28'/>
+	<sample sensor='S1154' flow='2100' speed='64' occ='16.58'/>
 	<sample sensor='S2001'/>
-	<sample sensor='S1155' flow='600' speed='53' occ='5.44'/>
-	<sample sensor='S1156' flow='660' speed='64' occ='5.83'/>
-	<sample sensor='S1157' flow='120' speed='79' occ='0.89'/>
-	<sample sensor='S1158' flow='180' speed='77' occ='1.39'/>
-	<sample sensor='S1159' flow='240' speed='83' occ='2.03'/>
-	<sample sensor='35S503' flow='120' speed='53' occ='0.81'/>
-	<sample sensor='S955' flow='420' speed='56' occ='3.67'/>
-	<sample sensor='S956' flow='320' speed='66' occ='2.44'/>
-	<sample sensor='S953' flow='360' speed='69' occ='2.28'/>
-	<sample sensor='S954' flow='360' speed='59' occ='3.36'/>
-	<sample sensor='S1181' flow='680' speed='78' occ='4.72'/>
-	<sample sensor='S951' flow='280' speed='78' occ='1.94'/>
-	<sample sensor='S1182' flow='80' speed='74' occ='0.59'/>
-	<sample sensor='S952' flow='120' speed='73' occ='0.75'/>
-	<sample sensor='S1183' flow='450' speed='73' occ='3.4'/>
-	<sample sensor='S1184' flow='540' speed='61' occ='4.36'/>
-	<sample sensor='S950' flow='200' speed='66' occ='1.59'/>
-	<sample sensor='S959' flow='320' speed='72' occ='2.33'/>
-	<sample sensor='S957' flow='160' speed='74' occ='1.11'/>
-	<sample sensor='S958' flow='280' speed='77' occ='1.41'/>
-	<sample sensor='S1185' flow='540' speed='67' occ='4.5'/>
-	<sample sensor='S1186' flow='200' speed='51' occ='2.19'/>
-	<sample sensor='S1187' flow='280' speed='84' occ='1.83'/>
-	<sample sensor='S1188' flow='520' speed='79' occ='3.65'/>
-	<sample sensor='S1189' flow='280' speed='74' occ='2.65'/>
-	<sample sensor='S944' flow='240' speed='76' occ='1.64'/>
-	<sample sensor='S945' flow='300' speed='77' occ='2.03'/>
-	<sample sensor='S942' flow='900' speed='80' occ='6.11'/>
-	<sample sensor='S943' flow='480' speed='59' occ='4.31'/>
-	<sample sensor='S940' flow='60' speed='75' occ='0.47'/>
-	<sample sensor='S1170' flow='120' speed='84' occ='1'/>
-	<sample sensor='S941' flow='120' speed='74' occ='0.61'/>
-	<sample sensor='S1171' flow='480' speed='83' occ='3.31'/>
-	<sample sensor='S1172' flow='120' speed='80' occ='0.81'/>
-	<sample sensor='S1173' flow='60' speed='91' occ='0.39'/>
-	<sample sensor='S948' flow='480' speed='71' occ='3.5'/>
-	<sample sensor='S949' flow='400' speed='73' occ='2.81'/>
-	<sample sensor='S946' flow='180' speed='68' occ='1.36'/>
-	<sample sensor='S947' flow='540' speed='73' occ='3.83'/>
-	<sample sensor='S1174' flow='300' speed='78' occ='2.31'/>
-	<sample sensor='S1175' flow='600' speed='71' occ='5.39'/>
-	<sample sensor='S1176' flow='720' speed='68' occ='6.19'/>
-	<sample sensor='35S520' flow='300' speed='76' occ='2.56'/>
-	<sample sensor='S1177' flow='480' speed='69' occ='4.22'/>
-	<sample sensor='S1178' flow='180' speed='73' occ='1.5'/>
-	<sample sensor='S977' flow='300' speed='79' occ='1.83'/>
-	<sample sensor='S978' flow='240' speed='74' occ='1.56'/>
-	<sample sensor='S975' flow='440' speed='66' occ='3.41'/>
-	<sample sensor='S976' flow='480' speed='72' occ='3.33'/>
-	<sample sensor='S973' flow='80' speed='72' occ='0.59'/>
-	<sample sensor='S974' flow='240' speed='60' occ='1.85'/>
-	<sample sensor='S971' flow='720' speed='71' occ='5.28'/>
-	<sample sensor='S972' flow='480' speed='75' occ='3.33'/>
-	<sample sensor='S979' flow='300' speed='82' occ='1.78'/>
+	<sample sensor='S1155' flow='960' speed='52' occ='8.94'/>
+	<sample sensor='S1156' flow='1800' speed='61' occ='16.03'/>
+	<sample sensor='S1157' flow='1020' speed='53' occ='10.39'/>
+	<sample sensor='S1158' flow='1260' speed='84' occ='8.39'/>
+	<sample sensor='S1159' flow='1020' speed='74' occ='8.69'/>
+	<sample sensor='35S503' flow='480' speed='75' occ='2.89'/>
+	<sample sensor='S955' flow='780' speed='72' occ='5.58'/>
+	<sample sensor='S956' flow='760' speed='63' occ='5.69'/>
+	<sample sensor='S953' flow='960' speed='70' occ='6'/>
+	<sample sensor='S954' flow='480' speed='75' occ='3.31'/>
+	<sample sensor='S1181' flow='760' speed='73' occ='5.63'/>
+	<sample sensor='S951' flow='1320' speed='81' occ='8.94'/>
+	<sample sensor='S1182' flow='560' speed='74' occ='4.02'/>
+	<sample sensor='S952' flow='360' speed='74' occ='2.33'/>
+	<sample sensor='S1183' flow='560' speed='87' occ='3.2'/>
+	<sample sensor='S1184' flow='1440' speed='86' occ='9'/>
+	<sample sensor='S950' flow='800' speed='80' occ='5.11'/>
+	<sample sensor='S959' flow='1120' speed='68' occ='8.04'/>
+	<sample sensor='S957' flow='1200' speed='71' occ='8.81'/>
+	<sample sensor='S958' flow='960' speed='78' occ='4.65'/>
+	<sample sensor='S1185' flow='1440' speed='44' occ='18.22'/>
+	<sample sensor='S1186' flow='1120' speed='72' occ='9.48'/>
+	<sample sensor='S1187' flow='1280' speed='72' occ='9.87'/>
+	<sample sensor='S1188' flow='1240' speed='70' occ='9.7'/>
+	<sample sensor='S1189' flow='1200' speed='78' occ='9.13'/>
+	<sample sensor='S944' flow='1020' speed='81' occ='6.69'/>
+	<sample sensor='S945' flow='360' speed='76' occ='2.33'/>
+	<sample sensor='S942' flow='1860' speed='73' occ='13.89'/>
+	<sample sensor='S943' flow='1860' speed='77' occ='12.03'/>
+	<sample sensor='S940' flow='1020' speed='81' occ='7'/>
+	<sample sensor='S1170' flow='600' speed='82' occ='4.94'/>
+	<sample sensor='S941' flow='1500' speed='73' occ='9.75'/>
+	<sample sensor='S1171' flow='780' speed='76' occ='5.86'/>
+	<sample sensor='S1172' flow='1020' speed='68' occ='9.42'/>
+	<sample sensor='S1173' flow='720' speed='72' occ='6.08'/>
+	<sample sensor='S948' flow='1200' speed='74' occ='8.56'/>
+	<sample sensor='S949' flow='1120' speed='62' occ='9.8'/>
+	<sample sensor='S946' flow='1200' speed='73' occ='8.53'/>
+	<sample sensor='S947' flow='1920' speed='74' occ='13.28'/>
+	<sample sensor='S1174' flow='840' speed='69' occ='7.58'/>
+	<sample sensor='S1175' flow='960' speed='57' occ='9.25'/>
+	<sample sensor='S1176' flow='780' speed='75' occ='6.17'/>
+	<sample sensor='35S520'/>
+	<sample sensor='S1177' flow='1140' speed='67' occ='10.25'/>
+	<sample sensor='S1178' flow='1200' speed='35' occ='28.47'/>
+	<sample sensor='S977' flow='1860' speed='58' occ='15.44'/>
+	<sample sensor='S978' flow='1200' speed='77' occ='7.28'/>
+	<sample sensor='S975' flow='1200' speed='65' occ='9.02'/>
+	<sample sensor='S976' flow='1500' speed='73' occ='10.28'/>
+	<sample sensor='S973' flow='1320' speed='63' occ='11.02'/>
+	<sample sensor='S974' flow='1400' speed='64' occ='9.5'/>
+	<sample sensor='S971' flow='2040' speed='68' occ='15.33'/>
+	<sample sensor='S972' flow='1360' speed='75' occ='9.44'/>
+	<sample sensor='S979' flow='1500' speed='76' occ='9.67'/>
 	<sample sensor='S1127'/>
 	<sample sensor='S1128'/>
 	<sample sensor='S1129'/>
-	<sample sensor='S980' flow='600' speed='82' occ='3.69'/>
-	<sample sensor='S1120' flow='480' speed='73' occ='3.78'/>
-	<sample sensor='S981' flow='240' speed='73' occ='1.8'/>
-	<sample sensor='35S530' flow='480' speed='72' occ='4.81'/>
-	<sample sensor='S1121' flow='560' speed='102' occ='4.07'/>
-	<sample sensor='S1122' flow='440' speed='93' occ='2.74'/>
+	<sample sensor='S980' flow='1260' speed='83' occ='7.61'/>
+	<sample sensor='S1120' flow='840' speed='73' occ='7.78'/>
+	<sample sensor='S981' flow='1880' speed='76' occ='13.04'/>
+	<sample sensor='35S530' flow='360' speed='78' occ='3.42'/>
+	<sample sensor='S1121' flow='680' speed='105' occ='5.11'/>
+	<sample sensor='S1122' flow='840' speed='85' occ='5.89'/>
 	<sample sensor='S1125'/>
-	<sample sensor='35S535' flow='300' speed='79' occ='2.44'/>
+	<sample sensor='35S535' flow='420' speed='75' occ='4.06'/>
 	<sample sensor='S1126'/>
-	<sample sensor='S966' flow='240' speed='69' occ='1.69'/>
-	<sample sensor='S967' flow='120' speed='58' occ='0.94'/>
-	<sample sensor='S965' flow='240' speed='69' occ='1.42'/>
-	<sample sensor='S962' flow='300' speed='78' occ='2.03'/>
-	<sample sensor='S963' flow='720' speed='59' occ='5.06'/>
-	<sample sensor='S960' flow='420' speed='70' occ='3.19'/>
-	<sample sensor='S1591' flow='40' speed='67' occ='0.3'/>
-	<sample sensor='S961' flow='360' speed='70' occ='2.56'/>
-	<sample sensor='S1116' flow='480' speed='72' occ='3.3'/>
-	<sample sensor='S1117' flow='400' speed='56' occ='3.91'/>
-	<sample sensor='S1118' flow='520' speed='96' occ='3.13'/>
-	<sample sensor='S1119' flow='440' speed='99' occ='2.67'/>
+	<sample sensor='S966' flow='960' speed='49' occ='8.31'/>
+	<sample sensor='S967' flow='600' speed='68' occ='4'/>
+	<sample sensor='S965' flow='1140' speed='66' occ='6.92'/>
+	<sample sensor='S962' flow='1380' speed='54' occ='13.36'/>
+	<sample sensor='S963' flow='1920' speed='61' occ='13.06'/>
+	<sample sensor='S960' flow='1140' speed='71' occ='8.44'/>
+	<sample sensor='S1591' flow='1360' speed='71' occ='10.2'/>
+	<sample sensor='S961' flow='960' speed='73' occ='7.48'/>
+	<sample sensor='S1116' flow='1040' speed='73' occ='7.89'/>
+	<sample sensor='S1117' flow='1040' speed='83' occ='6.78'/>
+	<sample sensor='S1118' flow='1120' speed='85' occ='7.5'/>
+	<sample sensor='S1119' flow='1560' speed='72' occ='12.57'/>
 	<sample sensor='S1592'/>
-	<sample sensor='35S540' flow='60' speed='73' occ='0.33'/>
-	<sample sensor='S970' flow='540' speed='72' occ='3.89'/>
+	<sample sensor='35S540' flow='660' speed='74' occ='5.42'/>
+	<sample sensor='S970' flow='1860' speed='48' occ='19.97'/>
 	<sample sensor='S1593'/>
-	<sample sensor='S1110' flow='280' speed='88' occ='1.31'/>
+	<sample sensor='S1110' flow='1600' speed='70' occ='10.22'/>
 	<sample sensor='S1594'/>
-	<sample sensor='S1111' flow='540' speed='73' occ='3.92'/>
+	<sample sensor='S1111' flow='1080' speed='75' occ='7.81'/>
 	<sample sensor='S1595'/>
-	<sample sensor='S1112' flow='520' speed='72' occ='4.11'/>
+	<sample sensor='S1112' flow='1000' speed='74' occ='7.59'/>
 	<sample sensor='S1596'/>
 	<sample sensor='S1597'/>
-	<sample sensor='35S545' flow='60' speed='72' occ='0.36'/>
-	<sample sensor='S1598' flow='180' speed='64' occ='1.17'/>
-	<sample sensor='S1115' flow='600' speed='73' occ='5.39'/>
+	<sample sensor='35S545' flow='600' speed='72' occ='3.92'/>
+	<sample sensor='S1598' flow='780' speed='65' occ='5.11'/>
+	<sample sensor='S1115' flow='360' speed='75' occ='1.92'/>
 	<sample sensor='S1599'/>
-	<sample sensor='S515' flow='320' speed='69' occ='2.46'/>
-	<sample sensor='S999' flow='60' speed='81' occ='0.33'/>
-	<sample sensor='S516' flow='480' speed='72' occ='3.67'/>
-	<sample sensor='S513' flow='600' speed='76' occ='4.06'/>
-	<sample sensor='S514' flow='320' speed='76' occ='2.46'/>
-	<sample sensor='S998' flow='120' speed='74' occ='0.75'/>
-	<sample sensor='S511' flow='560' speed='79' occ='3.8'/>
-	<sample sensor='S995' flow='120' speed='74' occ='0.69'/>
-	<sample sensor='S512' flow='360' speed='87' occ='2.02'/>
-	<sample sensor='S996' flow='160' speed='69' occ='0.98'/>
-	<sample sensor='S510' flow='240' speed='52' occ='2.11'/>
-	<sample sensor='S1140' flow='420' speed='78' occ='3.06'/>
-	<sample sensor='S519' flow='420' speed='64' occ='3.92'/>
-	<sample sensor='S517' flow='200' speed='62' occ='1.31'/>
-	<sample sensor='S518' flow='120' speed='67' occ='0.7'/>
-	<sample sensor='S1141' flow='300' speed='78' occ='2.08'/>
-	<sample sensor='S1142' flow='720' speed='84' occ='4.86'/>
+	<sample sensor='S515' flow='2040' speed='72' occ='14.93'/>
+	<sample sensor='S999' flow='660' speed='75' occ='4.19'/>
+	<sample sensor='S516' flow='1280' speed='71' occ='9.19'/>
+	<sample sensor='S513' flow='800' speed='72' occ='5.87'/>
+	<sample sensor='S514' flow='760' speed='74' occ='5.96'/>
+	<sample sensor='S998' flow='60' speed='73' occ='0.39'/>
+	<sample sensor='S511' flow='1520' speed='72' occ='11.24'/>
+	<sample sensor='S995' flow='1380' speed='61' occ='9.69'/>
+	<sample sensor='S512' flow='1080' speed='75' occ='7.22'/>
+	<sample sensor='S996' flow='360' speed='68' occ='2.44'/>
+	<sample sensor='S510' flow='1080' speed='41' occ='12.06'/>
+	<sample sensor='S1140' flow='1020' speed='69' occ='8.31'/>
+	<sample sensor='S519' flow='2640' speed='58' occ='25.67'/>
+	<sample sensor='S517' flow='1160' speed='67' occ='8.72'/>
+	<sample sensor='S518' flow='880' speed='70' occ='6.41'/>
+	<sample sensor='S1141' flow='1680' speed='73' occ='12.81'/>
+	<sample sensor='S1142' flow='1260' speed='65' occ='10.92'/>
 	<sample sensor='35S552'/>
-	<sample sensor='S1143' flow='540' speed='75' occ='4.22'/>
-	<sample sensor='S1144' flow='720' speed='82' occ='5'/>
-	<sample sensor='S1145' flow='600' speed='70' occ='5'/>
-	<sample sensor='S1147' flow='660' speed='72' occ='4.75'/>
+	<sample sensor='S1143' flow='960' speed='59' occ='9.5'/>
+	<sample sensor='S1144' flow='900' speed='45' occ='21.31'/>
+	<sample sensor='S1145' flow='1380' speed='49' occ='17.83'/>
+	<sample sensor='S1147' flow='1980' speed='68' occ='15.28'/>
 	<sample sensor='S1148'/>
-	<sample sensor='35S558' flow='0' occ='0'/>
-	<sample sensor='S988' flow='780' speed='84' occ='5'/>
-	<sample sensor='S504' flow='360' speed='52' occ='2.76'/>
-	<sample sensor='S505' flow='240' speed='82' occ='1.59'/>
-	<sample sensor='S989' flow='300' speed='93' occ='1.67'/>
-	<sample sensor='S986' flow='300' speed='85' occ='1.86'/>
-	<sample sensor='S502' flow='240' speed='59' occ='1.67'/>
-	<sample sensor='S987' flow='420' speed='80' occ='2.86'/>
-	<sample sensor='S503' flow='280' speed='63' occ='1.83'/>
-	<sample sensor='S500' flow='360' speed='68' occ='2.98'/>
-	<sample sensor='S984' flow='360' speed='68' occ='3.39'/>
-	<sample sensor='S985' flow='240' speed='87' occ='1.53'/>
-	<sample sensor='S501' flow='240' speed='69' occ='1.44'/>
-	<sample sensor='S982' flow='160' speed='84' occ='1.02'/>
-	<sample sensor='35S571' flow='60' speed='67' occ='0.42'/>
-	<sample sensor='S983' flow='240' speed='81' occ='1.58'/>
-	<sample sensor='S509' flow='320' speed='62' occ='2.87'/>
-	<sample sensor='S506' flow='360' speed='55' occ='3.3'/>
-	<sample sensor='S507' flow='560' speed='81' occ='3.78'/>
+	<sample sensor='35S558' flow='540' speed='76' occ='5.36'/>
+	<sample sensor='S988' flow='1620' speed='68' occ='12.89'/>
+	<sample sensor='S504' flow='920' speed='65' occ='5.93'/>
+	<sample sensor='S505' flow='680' speed='89' occ='3.93'/>
+	<sample sensor='S989' flow='1200' speed='96' occ='6.75'/>
+	<sample sensor='S986' flow='1980' speed='68' occ='16.19'/>
+	<sample sensor='S502' flow='720' speed='63' occ='4.69'/>
+	<sample sensor='S987' flow='1200' speed='72' occ='8.81'/>
+	<sample sensor='S503' flow='600' speed='68' occ='3.61'/>
+	<sample sensor='S500' flow='1760' speed='55' occ='18.15'/>
+	<sample sensor='S984' flow='1260' speed='71' occ='9.56'/>
+	<sample sensor='S985' flow='1380' speed='79' occ='9.72'/>
+	<sample sensor='S501' flow='1140' speed='64' occ='7.28'/>
+	<sample sensor='S982' flow='2280' speed='67' occ='18.04'/>
+	<sample sensor='35S571' flow='240' speed='65' occ='4.67'/>
+	<sample sensor='S983' flow='1860' speed='73' occ='13.14'/>
+	<sample sensor='S509' flow='1800' speed='57' occ='16.7'/>
+	<sample sensor='S506' flow='1920' speed='68' occ='13.31'/>
+	<sample sensor='S507' flow='1800' speed='41' occ='22.65'/>
 	<sample sensor='S1138'/>
-	<sample sensor='S1139' flow='0' occ='0'/>
-	<sample sensor='S991' flow='540' speed='73' occ='7.92'/>
+	<sample sensor='S1139' flow='480' speed='48' occ='4.17'/>
+	<sample sensor='S991' flow='840' speed='65' occ='14.33'/>
 	<sample sensor='S1130'/>
 	<sample sensor='S1131'/>
-	<sample sensor='S992' flow='240' speed='88' occ='1.64'/>
-	<sample sensor='S1132' flow='180' speed='81' occ='1.75'/>
-	<sample sensor='S990' flow='600' speed='87' occ='4.06'/>
-	<sample sensor='S1133' flow='420' speed='83' occ='7.22'/>
-	<sample sensor='35S565' flow='180' speed='64' occ='0.94'/>
+	<sample sensor='S992' flow='960' speed='63' occ='8.92'/>
+	<sample sensor='S1132' flow='660' speed='84' occ='8.44'/>
+	<sample sensor='S990' flow='1920' speed='71' occ='15.81'/>
+	<sample sensor='S1133' flow='540' speed='86' occ='6.36'/>
+	<sample sensor='35S565' flow='840' speed='71' occ='7.97'/>
 	<sample sensor='S1134'/>
-	<sample sensor='S1135' flow='780' speed='57' occ='6.47'/>
-	<sample sensor='S1136' flow='120' speed='67' occ='0.75'/>
-	<sample sensor='S1137' flow='160' speed='79' occ='1.02'/>
-	<sample sensor='S537' flow='300' speed='65' occ='2.47'/>
-	<sample sensor='S536' flow='120' speed='66' occ='0.69'/>
-	<sample sensor='S533' flow='480' speed='63' occ='3.81'/>
-	<sample sensor='S534' flow='360' speed='65' occ='3.06'/>
-	<sample sensor='S531' flow='300' speed='66' occ='2.33'/>
-	<sample sensor='S539' flow='120' speed='59' occ='0.83'/>
-	<sample sensor='S540' flow='120' speed='60' occ='1'/>
-	<sample sensor='S541' flow='300' speed='65' occ='2.17'/>
-	<sample sensor='S526' flow='240' speed='76' occ='1.03'/>
-	<sample sensor='S524' flow='300' speed='69' occ='2.14'/>
-	<sample sensor='S525' flow='300' speed='66' occ='2.06'/>
-	<sample sensor='S522' flow='240' speed='63' occ='1.61'/>
-	<sample sensor='S523' flow='160' speed='58' occ='1.17'/>
-	<sample sensor='S528' flow='600' speed='59' occ='4.69'/>
-	<sample sensor='S529' flow='120' speed='61' occ='0.83'/>
-	<sample sensor='S559' flow='680' speed='52' occ='6.63'/>
-	<sample sensor='S557' flow='320' speed='54' occ='2.74'/>
-	<sample sensor='S555' flow='210' speed='68' occ='1.31'/>
+	<sample sensor='S1135' flow='1020' speed='55' occ='8.75'/>
+	<sample sensor='S1136' flow='660' speed='64' occ='4.81'/>
+	<sample sensor='S1137' flow='2240' speed='62' occ='17.8'/>
+	<sample sensor='S537' flow='1440' speed='67' occ='11.39'/>
+	<sample sensor='S536' flow='1020' speed='58' occ='6.47'/>
+	<sample sensor='S533' flow='1260' speed='66' occ='9.75'/>
+	<sample sensor='S534' flow='600' speed='72' occ='4.67'/>
+	<sample sensor='S531' flow='900' speed='57' occ='8'/>
+	<sample sensor='S539' flow='360' speed='83' occ='1.75'/>
+	<sample sensor='S540' flow='780' speed='69' occ='5.61'/>
+	<sample sensor='S541' flow='1500' speed='69' occ='10.75'/>
+	<sample sensor='S526' flow='540' speed='63' occ='2.72'/>
+	<sample sensor='S524' flow='600' speed='65' occ='4.69'/>
+	<sample sensor='S525' flow='420' speed='68' occ='3.06'/>
+	<sample sensor='S522' flow='200' speed='60' occ='1.44'/>
+	<sample sensor='S523' flow='480' speed='65' occ='3.09'/>
+	<sample sensor='S528' flow='1260' speed='64' occ='9.42'/>
+	<sample sensor='S529' flow='720' speed='69' occ='4.19'/>
+	<sample sensor='S559' flow='880' speed='20' occ='30.06'/>
+	<sample sensor='S557' flow='1320' speed='59' occ='10.54'/>
+	<sample sensor='S555' flow='1080' speed='52' occ='8.75'/>
 	<sample sensor='S556'/>
-	<sample sensor='S553' flow='840' speed='60' occ='6.67'/>
-	<sample sensor='S554' flow='540' speed='64' occ='4.49'/>
+	<sample sensor='S553' flow='630' speed='11' occ='30.47'/>
+	<sample sensor='S554' flow='1230' speed='61' occ='10.42'/>
 	<sample sensor='S560'/>
-	<sample sensor='S561' flow='800' speed='54' occ='7.48'/>
-	<sample sensor='S548' flow='570' speed='67' occ='5.4'/>
-	<sample sensor='S549' flow='1000' speed='67' occ='13.37'/>
-	<sample sensor='S546' flow='840' speed='62' occ='7.33'/>
-	<sample sensor='S542' flow='520' speed='68' occ='3.61'/>
-	<sample sensor='S543' flow='440' speed='67' occ='2.91'/>
-	<sample sensor='S551' flow='480' speed='56' occ='3.89'/>
-	<sample sensor='S552' flow='180' speed='62' occ='1.42'/>
-	<sample sensor='S550' flow='640' speed='75' occ='4.76'/>
-	<sample sensor='S579' flow='320' speed='66' occ='2.07'/>
-	<sample sensor='S577' flow='520' speed='66' occ='3.48'/>
-	<sample sensor='S578' flow='360' speed='57' occ='3.11'/>
-	<sample sensor='S575' flow='520' speed='60' occ='2.74'/>
-	<sample sensor='S576' flow='420' speed='57' occ='2.33'/>
-	<sample sensor='S584' flow='520' speed='62' occ='3.54'/>
-	<sample sensor='S585' flow='720' speed='56' occ='7.97'/>
-	<sample sensor='S582' flow='920' speed='64' occ='5.85'/>
-	<sample sensor='S583' flow='360' speed='59' occ='2.65'/>
+	<sample sensor='S561' flow='720' speed='10' occ='35.15'/>
+	<sample sensor='S548' flow='1050' speed='72' occ='8.43'/>
+	<sample sensor='S549' flow='1360' speed='59' occ='19.74'/>
+	<sample sensor='S546' flow='1760' speed='64' occ='14.57'/>
+	<sample sensor='S542' flow='960' speed='67' occ='6.41'/>
+	<sample sensor='S543' flow='1440' speed='64' occ='9.54'/>
+	<sample sensor='S551' flow='1230' speed='48' occ='11.53'/>
+	<sample sensor='S552' flow='960' speed='60' occ='8.08'/>
+	<sample sensor='S550' flow='1160' speed='65' occ='8.65'/>
+	<sample sensor='S579' flow='760' speed='63' occ='5.3'/>
+	<sample sensor='S577' flow='1160' speed='71' occ='7.35'/>
+	<sample sensor='S578' flow='920' speed='49' occ='8.69'/>
+	<sample sensor='S575' flow='2040' speed='67' occ='9.93'/>
+	<sample sensor='S576' flow='360' speed='44' occ='3.44'/>
+	<sample sensor='S584' flow='1320' speed='51' occ='13'/>
+	<sample sensor='S585' flow='780' speed='9' occ='53.86'/>
+	<sample sensor='S582' flow='840' speed='76' occ='4.31'/>
+	<sample sensor='S583' flow='1050' speed='64' occ='7.4'/>
 	<sample sensor='S580'/>
-	<sample sensor='S581' flow='240' speed='66' occ='1.54'/>
-	<sample sensor='S568' flow='240' speed='37' occ='2.33'/>
-	<sample sensor='S569' flow='360' speed='89' occ='1.61'/>
-	<sample sensor='S566' flow='840' speed='61' occ='7.81'/>
-	<sample sensor='S567' flow='520' speed='63' occ='3.65'/>
+	<sample sensor='S581' flow='840' speed='69' occ='5.11'/>
+	<sample sensor='S568' flow='960' speed='49' occ='7'/>
+	<sample sensor='S569' flow='1500' speed='78' occ='7.64'/>
+	<sample sensor='S566' flow='1500' speed='61' occ='13.67'/>
+	<sample sensor='S567' flow='1360' speed='62' occ='9.72'/>
 	<sample sensor='S565'/>
-	<sample sensor='S573' flow='360' speed='82' occ='2.08'/>
-	<sample sensor='S574' flow='480' speed='68' occ='3.31'/>
-	<sample sensor='S571' flow='440' speed='56' occ='5.17'/>
-	<sample sensor='S572' flow='440' speed='62' occ='3.59'/>
-	<sample sensor='S570' flow='640' speed='71' occ='3.87'/>
-	<sample sensor='S119' flow='660' speed='55' occ='4.53'/>
-	<sample sensor='S599' flow='540' speed='74' occ='4.19'/>
-	<sample sensor='S115' flow='240' speed='73' occ='1.5'/>
-	<sample sensor='S116' flow='600' speed='66' occ='4.48'/>
-	<sample sensor='S597' flow='600' speed='65' occ='4.83'/>
-	<sample sensor='S598' flow='300' speed='70' occ='2'/>
-	<sample sensor='S122' flow='360' speed='58' occ='2.5'/>
-	<sample sensor='S123' flow='120' speed='61' occ='0.78'/>
-	<sample sensor='S120' flow='400' speed='58' occ='3.93'/>
-	<sample sensor='S108' flow='680' speed='42' occ='6.17'/>
-	<sample sensor='S109' flow='680' speed='62' occ='5.2'/>
-	<sample sensor='S589' flow='360' speed='63' occ='2.61'/>
+	<sample sensor='S573' flow='1320' speed='73' occ='8.31'/>
+	<sample sensor='S574' flow='2160' speed='57' occ='17.19'/>
+	<sample sensor='S571' flow='1440' speed='58' occ='17.19'/>
+	<sample sensor='S572' flow='1320' speed='70' occ='9.63'/>
+	<sample sensor='S570' flow='1840' speed='72' occ='11.17'/>
+	<sample sensor='S119' flow='930' speed='43' occ='10.21'/>
+	<sample sensor='S599' flow='2160' speed='78' occ='13.69'/>
+	<sample sensor='S115' flow='1160' speed='45' occ='11.19'/>
+	<sample sensor='S116' flow='1960' speed='70' occ='13.13'/>
+	<sample sensor='S597' flow='1140' speed='58' occ='10.44'/>
+	<sample sensor='S598' flow='1620' speed='69' occ='11.08'/>
+	<sample sensor='S122' flow='560' speed='67' occ='3.56'/>
+	<sample sensor='S123' flow='420' speed='66' occ='3.14'/>
+	<sample sensor='S120' flow='1600' speed='48' occ='20.52'/>
+	<sample sensor='S108' flow='1440' speed='44' occ='12.59'/>
+	<sample sensor='S109' flow='1440' speed='46' occ='16.33'/>
+	<sample sensor='S589' flow='1620' speed='74' occ='10.14'/>
 	<sample sensor='S586'/>
-	<sample sensor='S103' flow='600' speed='54' occ='4.61'/>
-	<sample sensor='S587' flow='120' speed='56' occ='0.83'/>
-	<sample sensor='S595' flow='480' speed='60' occ='3.94'/>
-	<sample sensor='S596' flow='360' speed='67' occ='2.53'/>
-	<sample sensor='S593' flow='420' speed='72' occ='3.03'/>
-	<sample sensor='S594' flow='240' speed='62' occ='1.58'/>
+	<sample sensor='S103' flow='1680' speed='51' occ='14.65'/>
+	<sample sensor='S587' flow='1320' speed='57' occ='8.92'/>
+	<sample sensor='S595' flow='1860' speed='60' occ='15.36'/>
+	<sample sensor='S596' flow='1920' speed='56' occ='16.22'/>
+	<sample sensor='S593' flow='1980' speed='34' occ='29.47'/>
+	<sample sensor='S594' flow='1440' speed='51' occ='14.19'/>
 	<sample sensor='S110'/>
-	<sample sensor='S591' flow='360' speed='66' occ='2.5'/>
-	<sample sensor='S592' flow='240' speed='57' occ='1.94'/>
-	<sample sensor='S590' flow='300' speed='62' occ='1.56'/>
-	<sample sensor='S139' flow='0' occ='0'/>
-	<sample sensor='S137' flow='90' speed='61' occ='0.68'/>
-	<sample sensor='S138' flow='300' speed='58' occ='2.06'/>
-	<sample sensor='S135' flow='270' speed='63' occ='1.76'/>
-	<sample sensor='S136' flow='300' speed='64' occ='1.96'/>
-	<sample sensor='S1839' flow='520' speed='63' occ='3.46'/>
-	<sample sensor='S1842' flow='180' speed='62' occ='1.14'/>
-	<sample sensor='S1843' flow='360' speed='61' occ='2.8'/>
-	<sample sensor='S1844' flow='540' speed='56' occ='3.58'/>
+	<sample sensor='S591' flow='2220' speed='60' occ='16.78'/>
+	<sample sensor='S592' flow='1740' speed='50' occ='16.19'/>
+	<sample sensor='S590' flow='2040' speed='54' occ='12.08'/>
+	<sample sensor='S139' flow='480' speed='76' occ='2'/>
+	<sample sensor='S137' flow='240' speed='69' occ='1.6'/>
+	<sample sensor='S138' flow='900' speed='70' occ='5.83'/>
+	<sample sensor='S135' flow='1290' speed='68' occ='7.99'/>
+	<sample sensor='S136' flow='750' speed='67' occ='4.92'/>
+	<sample sensor='S1839' flow='680' speed='69' occ='5.35'/>
+	<sample sensor='S1842' flow='210' speed='69' occ='1.47'/>
+	<sample sensor='S1843' flow='1800' speed='60' occ='12.76'/>
+	<sample sensor='S1844' flow='660' speed='58' occ='4.75'/>
 	<sample sensor='S1845'/>
 	<sample sensor='S1846'/>
-	<sample sensor='S1847' flow='300' speed='59' occ='2.11'/>
-	<sample sensor='S1848' flow='360' speed='66' occ='2.39'/>
-	<sample sensor='S1849' flow='120' speed='64' occ='0.53'/>
-	<sample sensor='S144' flow='480' speed='88' occ='2.6'/>
-	<sample sensor='S145' flow='360' speed='70' occ='2.07'/>
-	<sample sensor='S142' flow='300' speed='85' occ='1.58'/>
-	<sample sensor='S143' flow='360' speed='85' occ='2.22'/>
-	<sample sensor='S140' flow='780' speed='62' occ='5.61'/>
-	<sample sensor='S141' flow='840' speed='58' occ='6.33'/>
-	<sample sensor='S1840' flow='400' speed='63' occ='2.72'/>
+	<sample sensor='S1847' flow='780' speed='58' occ='5.69'/>
+	<sample sensor='S1848' flow='720' speed='73' occ='4.61'/>
+	<sample sensor='S1849' flow='600' speed='73' occ='4.28'/>
+	<sample sensor='S144' flow='1470' speed='58' occ='11.99'/>
+	<sample sensor='S145' flow='1440' speed='75' occ='8.12'/>
+	<sample sensor='S142' flow='1530' speed='74' occ='9.29'/>
+	<sample sensor='S143' flow='2040' speed='56' occ='19.25'/>
+	<sample sensor='S140' flow='1260' speed='55' occ='10.28'/>
+	<sample sensor='S141' flow='1440' speed='61' occ='10.75'/>
+	<sample sensor='S1840' flow='1600' speed='68' occ='12.98'/>
 	<sample sensor='S1841'/>
-	<sample sensor='S128' flow='330' speed='88' occ='2.14'/>
-	<sample sensor='S129' flow='200' speed='84' occ='1.41'/>
-	<sample sensor='S126' flow='390' speed='66' occ='2.81'/>
-	<sample sensor='S127' flow='240' speed='56' occ='1.69'/>
-	<sample sensor='S124' flow='240' speed='69' occ='1.62'/>
-	<sample sensor='S125' flow='210' speed='67' occ='1.32'/>
-	<sample sensor='S1828' flow='240' speed='58' occ='1.61'/>
-	<sample sensor='S1829' flow='180' speed='61' occ='2.81'/>
-	<sample sensor='S1831' flow='60' speed='61' occ='0.42'/>
-	<sample sensor='S1832' flow='180' speed='68' occ='1.33'/>
-	<sample sensor='S1833' flow='60' speed='70' occ='0.33'/>
-	<sample sensor='S1834' flow='120' speed='57' occ='0.83'/>
-	<sample sensor='S1835' flow='300' speed='64' occ='1.89'/>
+	<sample sensor='S128' flow='1230' speed='85' occ='8.46'/>
+	<sample sensor='S129' flow='1520' speed='76' occ='12.19'/>
+	<sample sensor='S126' flow='1050' speed='69' occ='6.64'/>
+	<sample sensor='S127' flow='1120' speed='27' occ='16.33'/>
+	<sample sensor='S124' flow='360' speed='73' occ='2.61'/>
+	<sample sensor='S125' flow='330' speed='63' occ='2.22'/>
+	<sample sensor='S1828' flow='1080' speed='65' occ='7.39'/>
+	<sample sensor='S1829' flow='540' speed='69' occ='3.89'/>
+	<sample sensor='S1831' flow='600' speed='61' occ='4.17'/>
+	<sample sensor='S1832' flow='600' speed='66' occ='4.5'/>
+	<sample sensor='S1833' flow='300' speed='69' occ='1.89'/>
+	<sample sensor='S1834' flow='1260' speed='61' occ='9.69'/>
+	<sample sensor='S1835' flow='1260' speed='60' occ='10'/>
 	<sample sensor='S1836'/>
-	<sample sensor='S1837' flow='360' speed='65' occ='2.98'/>
-	<sample sensor='S1838' flow='280' speed='69' occ='1.72'/>
-	<sample sensor='S133' flow='540' speed='63' occ='3.58'/>
-	<sample sensor='S134' flow='360' speed='70' occ='3.31'/>
-	<sample sensor='S131' flow='360' speed='81' occ='2.36'/>
-	<sample sensor='S132' flow='540' speed='55' occ='5.28'/>
-	<sample sensor='S130' flow='400' speed='84' occ='3.02'/>
-	<sample sensor='S1830' flow='120' speed='48' occ='0.97'/>
+	<sample sensor='S1837' flow='1480' speed='70' occ='9.85'/>
+	<sample sensor='S1838' flow='2400' speed='68' occ='15.06'/>
+	<sample sensor='S133' flow='1140' speed='50' occ='9.72'/>
+	<sample sensor='S134' flow='1020' speed='65' occ='13.22'/>
+	<sample sensor='S131' flow='1380' speed='141' occ='6.22'/>
+	<sample sensor='S132' flow='1800' speed='35' occ='25.61'/>
+	<sample sensor='S130' flow='960' speed='72' occ='8.33'/>
+	<sample sensor='S1830' flow='660' speed='31' occ='10.06'/>
 	<sample sensor='S159'/>
-	<sample sensor='S158' flow='600' speed='78' occ='5.15'/>
-	<sample sensor='S1864' flow='180' speed='72' occ='1.08'/>
-	<sample sensor='S1865' flow='360' speed='69' occ='2.17'/>
-	<sample sensor='S1866' flow='600' speed='59' occ='4.5'/>
-	<sample sensor='S1867' flow='180' speed='67' occ='1.11'/>
-	<sample sensor='S1868' flow='180' speed='76' occ='1.06'/>
-	<sample sensor='S1869' flow='660' speed='70' occ='4.28'/>
-	<sample sensor='S166' flow='440' speed='67' occ='3.54'/>
-	<sample sensor='S165' flow='440' speed='75' occ='3.37'/>
-	<sample sensor='S1860' flow='360' speed='62' occ='2.59'/>
-	<sample sensor='S1861' flow='160' speed='66' occ='0.87'/>
-	<sample sensor='S163' flow='630' speed='80' occ='3.89'/>
+	<sample sensor='S158' flow='1880' speed='52' occ='21.46'/>
+	<sample sensor='S1864' flow='2160' speed='70' occ='15'/>
+	<sample sensor='S1865' flow='2040' speed='66' occ='15.61'/>
+	<sample sensor='S1866' flow='1200' speed='71' occ='8.94'/>
+	<sample sensor='S1867' flow='840' speed='73' occ='7.19'/>
+	<sample sensor='S1868' flow='840' speed='73' occ='4.92'/>
+	<sample sensor='S1869' flow='1080' speed='74' occ='7.64'/>
+	<sample sensor='S166' flow='1840' speed='71' occ='14.87'/>
+	<sample sensor='S165' flow='1760' speed='65' occ='15.06'/>
+	<sample sensor='S1860' flow='1200' speed='68' occ='8.57'/>
+	<sample sensor='S1861' flow='1320' speed='68' occ='9.59'/>
+	<sample sensor='S163' flow='2370' speed='62' occ='18.67'/>
 	<sample sensor='S1862'/>
-	<sample sensor='S1863' flow='420' speed='82' occ='2.72'/>
-	<sample sensor='S148' flow='720' speed='66' occ='5.39'/>
-	<sample sensor='S149' flow='480' speed='70' occ='3.91'/>
-	<sample sensor='S147' flow='640' speed='58' occ='5.43'/>
-	<sample sensor='S1853' flow='0' occ='0.42'/>
-	<sample sensor='S1854' flow='360' speed='69' occ='2.31'/>
-	<sample sensor='S1855' flow='180' speed='64' occ='1.08'/>
-	<sample sensor='S1856' flow='360' speed='67' occ='2.19'/>
-	<sample sensor='S1857' flow='60' speed='68' occ='0.36'/>
-	<sample sensor='S1858' flow='180' speed='56' occ='1.67'/>
-	<sample sensor='S156' flow='640' speed='77' occ='5'/>
-	<sample sensor='S153' flow='400' speed='57' occ='4.24'/>
-	<sample sensor='S154' flow='280' speed='65' occ='2.8'/>
-	<sample sensor='S151' flow='280' speed='66' occ='2.72'/>
-	<sample sensor='S1850' flow='540' speed='65' occ='3.69'/>
-	<sample sensor='S1851' flow='300' speed='63' occ='2.25'/>
-	<sample sensor='S1852' flow='120' speed='62' occ='0.89'/>
-	<sample sensor='S179' flow='240' speed='72' occ='1.89'/>
-	<sample sensor='S180' flow='600' speed='58' occ='6.11'/>
-	<sample sensor='S181' flow='600' speed='62' occ='4.15'/>
-	<sample sensor='S1800' flow='420' speed='53' occ='4.47'/>
+	<sample sensor='S1863' flow='1800' speed='65' occ='11.78'/>
+	<sample sensor='S148' flow='1920' speed='48' occ='19.89'/>
+	<sample sensor='S149' flow='1640' speed='64' occ='14.17'/>
+	<sample sensor='S147' flow='2120' speed='64' occ='16.87'/>
+	<sample sensor='S1853' flow='600' speed='61' occ='4.39'/>
+	<sample sensor='S1854' flow='540' speed='62' occ='4.08'/>
+	<sample sensor='S1855' flow='1320' speed='60' occ='13'/>
+	<sample sensor='S1856' flow='1020' speed='65' occ='6.83'/>
+	<sample sensor='S1857' flow='300' speed='68' occ='2.78'/>
+	<sample sensor='S1858' flow='840' speed='53' occ='7.08'/>
+	<sample sensor='S156' flow='2080' speed='62' occ='18.33'/>
+	<sample sensor='S153' flow='1680' speed='49' occ='20.59'/>
+	<sample sensor='S154' flow='1760' speed='58' occ='16.72'/>
+	<sample sensor='S151' flow='2120' speed='62' occ='18.83'/>
+	<sample sensor='S1850' flow='840' speed='65' occ='7.69'/>
+	<sample sensor='S1851' flow='1080' speed='65' occ='8.61'/>
+	<sample sensor='S1852' flow='60' speed='63' occ='0.75'/>
+	<sample sensor='S179' flow='1500' speed='57' occ='15.06'/>
+	<sample sensor='S180' flow='1640' speed='68' occ='13.02'/>
+	<sample sensor='S181' flow='1560' speed='39' occ='20.07'/>
+	<sample sensor='S1800' flow='2040' speed='55' occ='15.86'/>
 	<sample sensor='S1801'/>
-	<sample sensor='S1802' flow='180' speed='73' occ='1.22'/>
-	<sample sensor='S1803' flow='300' speed='67' occ='2.22'/>
-	<sample sensor='S1804' flow='80' speed='60' occ='0.69'/>
-	<sample sensor='S1805' flow='200' speed='63' occ='1.48'/>
-	<sample sensor='S188' flow='840' speed='75' occ='6.31'/>
-	<sample sensor='S186' flow='540' speed='62' occ='3.1'/>
-	<sample sensor='S187' flow='570' speed='63' occ='3.6'/>
-	<sample sensor='S184' flow='200' speed='85' occ='1.3'/>
-	<sample sensor='S185' flow='570' speed='63' occ='4.68'/>
-	<sample sensor='S182' flow='1120' speed='67' occ='8.52'/>
-	<sample sensor='S183' flow='960' speed='79' occ='6.57'/>
-	<sample sensor='S168' flow='480' speed='62' occ='4.36'/>
+	<sample sensor='S1802' flow='1440' speed='68' occ='9.67'/>
+	<sample sensor='S1803' flow='2280' speed='66' occ='17.06'/>
+	<sample sensor='S1804' flow='1040' speed='65' occ='7.44'/>
+	<sample sensor='S1805' flow='800' speed='62' occ='5.56'/>
+	<sample sensor='S188' flow='1320' speed='82' occ='8.46'/>
+	<sample sensor='S186' flow='1650' speed='57' occ='12.71'/>
+	<sample sensor='S187' flow='1410' speed='57' occ='12.93'/>
+	<sample sensor='S184' flow='1800' speed='69' occ='13.87'/>
+	<sample sensor='S185' flow='1760' speed='59' occ='18.24'/>
+	<sample sensor='S182' flow='1400' speed='29' occ='23.8'/>
+	<sample sensor='S183' flow='1400' speed='24' occ='31.11'/>
+	<sample sensor='S168' flow='2280' speed='71' occ='18.31'/>
 	<sample sensor='S170'/>
-	<sample sensor='S177' flow='480' speed='69' occ='4'/>
-	<sample sensor='S178' flow='840' speed='59' occ='7.17'/>
-	<sample sensor='S175' flow='440' speed='57' occ='5.13'/>
-	<sample sensor='S176' flow='780' speed='81' occ='5.31'/>
-	<sample sensor='S173' flow='560' speed='86' occ='3.61'/>
-	<sample sensor='S174' flow='640' speed='75' occ='4.93'/>
-	<sample sensor='S171' flow='360' speed='65' occ='3.09'/>
-	<sample sensor='S172' flow='360' speed='75' occ='2.59'/>
+	<sample sensor='S177' flow='1440' speed='54' occ='13.85'/>
+	<sample sensor='S178' flow='1320' speed='59' occ='11.42'/>
+	<sample sensor='S175' flow='1400' speed='64' occ='13.41'/>
+	<sample sensor='S176' flow='1560' speed='59' occ='14.56'/>
+	<sample sensor='S173' flow='1640' speed='64' occ='15.15'/>
+	<sample sensor='S174' flow='1720' speed='62' occ='16.02'/>
+	<sample sensor='S171' flow='2400' speed='63' occ='18.56'/>
+	<sample sensor='S172' flow='2160' speed='69' occ='16.81'/>
 	<sample sensor='S1817'/>
-	<sample sensor='S1818' flow='440' speed='67' occ='2.19'/>
-	<sample sensor='S1819' flow='200' speed='63' occ='1.87'/>
-	<sample sensor='S1820' flow='540' speed='61' occ='5.75'/>
-	<sample sensor='S1822' flow='300' speed='60' occ='2.56'/>
-	<sample sensor='53S51' flow='0' occ='0'/>
-	<sample sensor='S1823' flow='300' speed='55' occ='2.44'/>
-	<sample sensor='53S50' flow='180' speed='29' occ='1.44'/>
-	<sample sensor='S1824' flow='120' speed='79' occ='0.69'/>
-	<sample sensor='S1825' flow='540' speed='64' occ='4.17'/>
-	<sample sensor='S1826' flow='420' speed='57' occ='3.03'/>
-	<sample sensor='S1827' flow='300' speed='56' occ='2.19'/>
-	<sample sensor='S1807' flow='720' speed='56' occ='6.24'/>
-	<sample sensor='S1808' flow='760' speed='60' occ='5.39'/>
-	<sample sensor='S1809' flow='630' speed='55' occ='4.69'/>
+	<sample sensor='S1818' flow='1480' speed='51' occ='13.22'/>
+	<sample sensor='S1819' flow='1040' speed='65' occ='7.87'/>
+	<sample sensor='S1820' flow='1620' speed='64' occ='11.44'/>
+	<sample sensor='S1822' flow='1380' speed='57' occ='10.72'/>
+	<sample sensor='53S51' flow='720' speed='59' occ='5.67'/>
+	<sample sensor='S1823' flow='840' speed='59' occ='6.86'/>
+	<sample sensor='53S50' flow='540' speed='29' occ='4.69'/>
+	<sample sensor='S1824' flow='1080' speed='66' occ='8.25'/>
+	<sample sensor='S1825' flow='1020' speed='72' occ='6.81'/>
+	<sample sensor='S1826' flow='1260' speed='66' occ='8.47'/>
+	<sample sensor='S1827' flow='1320' speed='66' occ='9.19'/>
+	<sample sensor='S1807' flow='1740' speed='60' occ='14.25'/>
+	<sample sensor='S1808' flow='1560' speed='62' occ='14.72'/>
+	<sample sensor='S1809' flow='930' speed='61' occ='6.29'/>
 	<sample sensor='S191'/>
 	<sample sensor='S1810'/>
 	<sample sensor='S192'/>
-	<sample sensor='S1813' flow='720' speed='51' occ='6.72'/>
-	<sample sensor='S1814' flow='510' speed='56' occ='4.81'/>
-	<sample sensor='S1815' flow='180' speed='54' occ='1.42'/>
-	<sample sensor='S1816' flow='630' speed='63' occ='4.9'/>
-	<sample sensor='S199' flow='520' speed='82' occ='3.54'/>
-	<sample sensor='S197' flow='440' speed='58' occ='3.31'/>
-	<sample sensor='S198' flow='960' speed='63' occ='7.22'/>
-	<sample sensor='S195' flow='480' speed='86' occ='4.11'/>
-	<sample sensor='S196' flow='1000' speed='60' occ='9.35'/>
-	<sample sensor='S194' flow='270' speed='70' occ='1.97'/>
+	<sample sensor='S1813' flow='1710' speed='53' occ='15.99'/>
+	<sample sensor='S1814' flow='1710' speed='55' occ='13.36'/>
+	<sample sensor='S1815' flow='1980' speed='60' occ='19.5'/>
+	<sample sensor='S1816' flow='2160' speed='61' occ='15.78'/>
+	<sample sensor='S199' flow='1400' speed='70' occ='10.8'/>
+	<sample sensor='S197' flow='2320' speed='46' occ='25.93'/>
+	<sample sensor='S198' flow='1560' speed='45' occ='23.65'/>
+	<sample sensor='S195' flow='1680' speed='29' occ='43.03'/>
+	<sample sensor='S196' flow='2000' speed='37' occ='29.56'/>
+	<sample sensor='S194' flow='1290' speed='21' occ='30.47'/>
 	<sample sensor='S1446'/>
-	<sample sensor='S1447' flow='120' speed='51' occ='1.13'/>
-	<sample sensor='S1448' flow='260' speed='59' occ='2.01'/>
-	<sample sensor='S1449' flow='360' speed='70' occ='2.06'/>
+	<sample sensor='S1447' flow='1000' speed='68' occ='6.72'/>
+	<sample sensor='S1448' flow='960' speed='71' occ='5.91'/>
+	<sample sensor='S1449' flow='840' speed='73' occ='6.5'/>
 	<sample sensor='S1440'/>
 	<sample sensor='S1441'/>
-	<sample sensor='S1442' flow='180' speed='79' occ='1.19'/>
+	<sample sensor='S1442' flow='840' speed='62' occ='6.89'/>
 	<sample sensor='S1443'/>
-	<sample sensor='S1444' flow='480' speed='71' occ='3.81'/>
+	<sample sensor='S1444' flow='180' speed='82' occ='1.19'/>
 	<sample sensor='S1445'/>
 	<sample sensor='S1435'/>
 	<sample sensor='S1438'/>
 	<sample sensor='S1439'/>
 	<sample sensor='S1430'/>
-	<sample sensor='S1431' flow='60' speed='89' occ='0.33'/>
+	<sample sensor='S1431' flow='1020' speed='75' occ='7.25'/>
 	<sample sensor='S1432'/>
 	<sample sensor='S1433'/>
 	<sample sensor='S2'/>
@@ -1000,600 +1000,600 @@
 	<sample sensor='S7'/>
 	<sample sensor='S8'/>
 	<sample sensor='S9'/>
-	<sample sensor='S1468' flow='540' speed='56' occ='4.81'/>
-	<sample sensor='S1469' flow='120' speed='55' occ='1.08'/>
-	<sample sensor='S1461' flow='440' speed='61' occ='3'/>
-	<sample sensor='S1462' flow='420' speed='65' occ='3.28'/>
-	<sample sensor='S1463' flow='48' speed='74' occ='0.31'/>
-	<sample sensor='S1464' flow='360' speed='62' occ='2.78'/>
-	<sample sensor='S1466' flow='480' speed='68' occ='3'/>
-	<sample sensor='S1467' flow='180' speed='47' occ='2.36'/>
-	<sample sensor='S1457' flow='480' speed='76' occ='3.42'/>
-	<sample sensor='S1458' flow='528' speed='68' occ='3.54'/>
-	<sample sensor='S1459' flow='540' speed='83' occ='3.64'/>
-	<sample sensor='S1450' flow='360' speed='58' occ='3.29'/>
+	<sample sensor='S1468' flow='960' speed='65' occ='6.31'/>
+	<sample sensor='S1469' flow='900' speed='66' occ='8.08'/>
+	<sample sensor='S1461' flow='1240' speed='68' occ='8.56'/>
+	<sample sensor='S1462' flow='1200' speed='68' occ='8.61'/>
+	<sample sensor='S1463' flow='288' speed='74' occ='1.92'/>
+	<sample sensor='S1464' flow='1200' speed='64' occ='8.92'/>
+	<sample sensor='S1466' flow='960' speed='35' occ='11.61'/>
+	<sample sensor='S1467' flow='1200' speed='64' occ='9.67'/>
+	<sample sensor='S1457' flow='1140' speed='73' occ='8.36'/>
+	<sample sensor='S1458' flow='840' speed='72' occ='5.43'/>
+	<sample sensor='S1459' flow='900' speed='65' occ='7.83'/>
+	<sample sensor='S1450' flow='1104' speed='72' occ='8.12'/>
 	<sample sensor='S1451'/>
-	<sample sensor='S1452' flow='200' speed='79' occ='1.3'/>
-	<sample sensor='S1453' flow='220' speed='61' occ='1.86'/>
-	<sample sensor='S1454' flow='80' speed='89' occ='0.52'/>
-	<sample sensor='S1455' flow='840' speed='80' occ='6.19'/>
-	<sample sensor='S1456' flow='840' speed='63' occ='6.58'/>
-	<sample sensor='S1402' flow='480' speed='82' occ='3.06'/>
-	<sample sensor='S1886' flow='300' speed='61' occ='1.94'/>
-	<sample sensor='S1403' flow='240' speed='84' occ='1.5'/>
-	<sample sensor='S1887' flow='480' speed='64' occ='3.61'/>
+	<sample sensor='S1452' flow='800' speed='64' occ='6.65'/>
+	<sample sensor='S1453' flow='940' speed='62' occ='6.88'/>
+	<sample sensor='S1454' flow='1120' speed='76' occ='8.02'/>
+	<sample sensor='S1455' flow='1440' speed='73' occ='12.17'/>
+	<sample sensor='S1456' flow='1200' speed='64' occ='9.92'/>
+	<sample sensor='S1402' flow='1200' speed='85' occ='7.39'/>
+	<sample sensor='S1886' flow='420' speed='69' occ='2.47'/>
+	<sample sensor='S1403' flow='1200' speed='81' occ='8'/>
+	<sample sensor='S1887' flow='900' speed='61' occ='6.28'/>
 	<sample sensor='S1404'/>
-	<sample sensor='S1888' flow='420' speed='65' occ='3.44'/>
-	<sample sensor='S1889' flow='180' speed='53' occ='1.17'/>
-	<sample sensor='S1405' flow='120' speed='74' occ='0.94'/>
-	<sample sensor='S1406' flow='240' speed='107' occ='1.42'/>
-	<sample sensor='S1407' flow='540' speed='109' occ='2.97'/>
-	<sample sensor='S1880' flow='240' speed='58' occ='2.06'/>
-	<sample sensor='S1881' flow='320' speed='76' occ='1.85'/>
-	<sample sensor='S1882' flow='360' speed='76' occ='2.44'/>
-	<sample sensor='S1883' flow='320' speed='67' occ='2.39'/>
-	<sample sensor='S1400' flow='300' speed='88' occ='1.92'/>
-	<sample sensor='S1884' flow='180' speed='51' occ='1.64'/>
-	<sample sensor='S1885' flow='360' speed='66' occ='2.36'/>
-	<sample sensor='S1401' flow='240' speed='70' occ='2.64'/>
-	<sample sensor='S1876' flow='600' speed='66' occ='3.89'/>
+	<sample sensor='S1888' flow='1080' speed='68' occ='7.86'/>
+	<sample sensor='S1889' flow='840' speed='65' occ='5.69'/>
+	<sample sensor='S1405' flow='1500' speed='65' occ='13.94'/>
+	<sample sensor='S1406' flow='1740' speed='76' occ='12.56'/>
+	<sample sensor='S1407' flow='1440' speed='132' occ='6.08'/>
+	<sample sensor='S1880' flow='1400' speed='66' occ='10.61'/>
+	<sample sensor='S1881' flow='880' speed='76' occ='5.04'/>
+	<sample sensor='S1882' flow='1080' speed='74' occ='7.78'/>
+	<sample sensor='S1883' flow='1560' speed='61' occ='13.22'/>
+	<sample sensor='S1400' flow='1740' speed='64' occ='14.5'/>
+	<sample sensor='S1884' flow='1320' speed='46' occ='18.11'/>
+	<sample sensor='S1885' flow='420' speed='71' occ='2.36'/>
+	<sample sensor='S1401' flow='1140' speed='64' occ='10.83'/>
+	<sample sensor='S1876' flow='1800' speed='62' occ='16.33'/>
 	<sample sensor='S1877'/>
-	<sample sensor='S1878' flow='480' speed='70' occ='2.92'/>
-	<sample sensor='S1879' flow='120' speed='67' occ='0.7'/>
-	<sample sensor='S1424' flow='360' speed='80' occ='2.61'/>
-	<sample sensor='S1425' flow='120' speed='58' occ='1.08'/>
-	<sample sensor='S1426' flow='300' speed='66' occ='2.36'/>
-	<sample sensor='S1429' flow='180' speed='79' occ='1.36'/>
-	<sample sensor='S1420' flow='240' speed='80' occ='1.67'/>
-	<sample sensor='S1421' flow='300' speed='93' occ='5.44'/>
-	<sample sensor='S1422' flow='420' speed='61' occ='3.92'/>
-	<sample sensor='S1423' flow='600' speed='80' occ='5.19'/>
-	<sample sensor='S1413' flow='480' speed='65' occ='4.17'/>
-	<sample sensor='S1898' flow='600' speed='69' occ='3.81'/>
+	<sample sensor='S1878' flow='900' speed='70' occ='5.72'/>
+	<sample sensor='S1879' flow='800' speed='75' occ='4.43'/>
+	<sample sensor='S1424' flow='1320' speed='52' occ='14.56'/>
+	<sample sensor='S1425' flow='960' speed='68' occ='7.25'/>
+	<sample sensor='S1426' flow='300' speed='58' occ='2.94'/>
+	<sample sensor='S1429' flow='1260' speed='79' occ='8.92'/>
+	<sample sensor='S1420' flow='1080' speed='86' occ='6.92'/>
+	<sample sensor='S1421' flow='1140' speed='69' occ='20.42'/>
+	<sample sensor='S1422' flow='1680' speed='73' occ='13.36'/>
+	<sample sensor='S1423' flow='1800' speed='92' occ='12.67'/>
+	<sample sensor='S1413' flow='1740' speed='72' occ='13.53'/>
+	<sample sensor='S1898' flow='960' speed='75' occ='5.94'/>
 	<sample sensor='S1414'/>
-	<sample sensor='S1899' flow='60' speed='67' occ='0.33'/>
-	<sample sensor='S1415' flow='480' speed='78' occ='3.67'/>
+	<sample sensor='S1899' flow='660' speed='76' occ='3.92'/>
+	<sample sensor='S1415' flow='1800' speed='66' occ='16.69'/>
 	<sample sensor='35S605' flow='0' occ='0'/>
-	<sample sensor='S1416' flow='240' speed='79' occ='1.89'/>
-	<sample sensor='S1417' flow='360' speed='85' occ='2.28'/>
-	<sample sensor='S1418' flow='540' speed='69' occ='5.06'/>
-	<sample sensor='S1419' flow='360' speed='81' occ='2.53'/>
-	<sample sensor='S1890' flow='120' speed='60' occ='0.72'/>
-	<sample sensor='S1891' flow='480' speed='67' occ='3.19'/>
-	<sample sensor='S1892' flow='420' speed='64' occ='3.19'/>
-	<sample sensor='S1893' flow='120' speed='62' occ='0.76'/>
+	<sample sensor='S1416' flow='1560' speed='76' occ='12.39'/>
+	<sample sensor='S1417' flow='1560' speed='57' occ='14.94'/>
+	<sample sensor='S1418' flow='1020' speed='81' occ='7.53'/>
+	<sample sensor='S1419' flow='1140' speed='74' occ='9.11'/>
+	<sample sensor='S1890' flow='900' speed='71' occ='7.47'/>
+	<sample sensor='S1891' flow='1020' speed='71' occ='7.14'/>
+	<sample sensor='S1892' flow='480' speed='68' occ='4.64'/>
+	<sample sensor='S1893' flow='480' speed='71' occ='2.56'/>
 	<sample sensor='35S600'/>
-	<sample sensor='S1894' flow='280' speed='63' occ='1.54'/>
-	<sample sensor='S1410' flow='60' speed='96' occ='0.42'/>
-	<sample sensor='S1895' flow='360' speed='66' occ='2.96'/>
-	<sample sensor='S1411' flow='600' speed='83' occ='3.67'/>
-	<sample sensor='S1896' flow='480' speed='66' occ='3.19'/>
-	<sample sensor='S1412' flow='720' speed='78' occ='5.47'/>
-	<sample sensor='S1041' flow='920' speed='66' occ='5.89'/>
-	<sample sensor='53N50' flow='0' occ='0'/>
-	<sample sensor='35S615' flow='0' occ='0'/>
-	<sample sensor='S1042' flow='440' speed='60' occ='2.98'/>
-	<sample sensor='S1043' flow='520' speed='62' occ='3.46'/>
-	<sample sensor='S1044' flow='520' speed='66' occ='3.78'/>
-	<sample sensor='S1045' flow='280' speed='59' occ='2.22'/>
-	<sample sensor='S1046' flow='360' speed='62' occ='3.5'/>
+	<sample sensor='S1894' flow='680' speed='72' occ='3.96'/>
+	<sample sensor='S1410' flow='1080' speed='16' occ='38.67'/>
+	<sample sensor='S1895' flow='760' speed='69' occ='5.24'/>
+	<sample sensor='S1411' flow='1620' speed='45' occ='18.53'/>
+	<sample sensor='S1896' flow='1380' speed='70' occ='9.33'/>
+	<sample sensor='S1412' flow='1500' speed='63' occ='14.25'/>
+	<sample sensor='S1041' flow='2080' speed='66' occ='15.24'/>
+	<sample sensor='53N50' flow='300' speed='30' occ='3.36'/>
+	<sample sensor='35S615' flow='120' speed='24' occ='2.11'/>
+	<sample sensor='S1042' flow='1400' speed='64' occ='10.09'/>
+	<sample sensor='S1043' flow='1560' speed='64' occ='11.54'/>
+	<sample sensor='S1044' flow='1680' speed='66' occ='14.85'/>
+	<sample sensor='S1045' flow='1400' speed='66' occ='8.33'/>
+	<sample sensor='S1046' flow='1800' speed='66' occ='12.57'/>
 	<sample sensor='35S611'/>
-	<sample sensor='S1047' flow='320' speed='63' occ='2.19'/>
-	<sample sensor='S1048' flow='540' speed='59' occ='4.92'/>
+	<sample sensor='S1047' flow='1040' speed='69' occ='8.74'/>
+	<sample sensor='S1048' flow='600' speed='74' occ='4.28'/>
 	<sample sensor='S1049'/>
-	<sample sensor='S1030' flow='320' speed='83' occ='1.78'/>
-	<sample sensor='S1039' flow='320' speed='76' occ='1.78'/>
+	<sample sensor='S1030' flow='1080' speed='79' occ='6.48'/>
+	<sample sensor='S1039' flow='240' speed='77' occ='1.44'/>
 	<sample sensor='35S625'/>
-	<sample sensor='S1031' flow='240' speed='86' occ='1.39'/>
-	<sample sensor='S1032' flow='320' speed='87' occ='1.83'/>
-	<sample sensor='S1033' flow='320' speed='96' occ='1.72'/>
-	<sample sensor='S1034' flow='450' speed='71' occ='3.03'/>
+	<sample sensor='S1031' flow='1480' speed='73' occ='10.35'/>
+	<sample sensor='S1032' flow='1040' speed='71' occ='7.8'/>
+	<sample sensor='S1033' flow='760' speed='62' occ='7'/>
+	<sample sensor='S1034' flow='630' speed='60' occ='5.44'/>
 	<sample sensor='35S620'/>
-	<sample sensor='S1035' flow='120' speed='96' occ='0.56'/>
-	<sample sensor='S1038' flow='480' speed='64' occ='3.14'/>
-	<sample sensor='S1060' flow='400' speed='106' occ='2.5'/>
-	<sample sensor='S1061' flow='240' speed='93' occ='1.52'/>
+	<sample sensor='S1035' flow='760' speed='72' occ='6.54'/>
+	<sample sensor='S1038' flow='720' speed='61' occ='5.14'/>
+	<sample sensor='S1060' flow='880' speed='75' occ='7.67'/>
+	<sample sensor='S1061' flow='760' speed='85' occ='5.33'/>
 	<sample sensor='S1062'/>
-	<sample sensor='S1063' flow='420' speed='72' occ='2.94'/>
+	<sample sensor='S1063' flow='720' speed='78' occ='4.72'/>
 	<sample sensor='35S637'/>
-	<sample sensor='S1064' flow='400' speed='63' occ='3.8'/>
-	<sample sensor='S1065' flow='360' speed='68' occ='2.06'/>
+	<sample sensor='S1064' flow='1000' speed='65' occ='6.91'/>
+	<sample sensor='S1065' flow='400' speed='67' occ='2.98'/>
 	<sample sensor='35S630'/>
-	<sample sensor='S1066' flow='400' speed='67' occ='2.39'/>
-	<sample sensor='S1067' flow='400' speed='65' occ='2.65'/>
-	<sample sensor='S1068' flow='400' speed='61' occ='2.65'/>
-	<sample sensor='S1069' flow='280' speed='64' occ='1.72'/>
-	<sample sensor='S1050' flow='180' speed='97' occ='1.14'/>
-	<sample sensor='S1051' flow='360' speed='87' occ='3.02'/>
-	<sample sensor='S1052' flow='280' speed='101' occ='1.46'/>
-	<sample sensor='S1053' flow='400' speed='76' occ='3.43'/>
+	<sample sensor='S1066' flow='640' speed='70' occ='4.76'/>
+	<sample sensor='S1067' flow='720' speed='70' occ='5.78'/>
+	<sample sensor='S1068' flow='800' speed='67' occ='5.85'/>
+	<sample sensor='S1069' flow='1480' speed='64' occ='9.41'/>
+	<sample sensor='S1050' flow='1020' speed='83' occ='6.92'/>
+	<sample sensor='S1051' flow='920' speed='71' occ='8.78'/>
+	<sample sensor='S1052' flow='680' speed='109' occ='3.17'/>
+	<sample sensor='S1053' flow='1200' speed='79' occ='8.19'/>
 	<sample sensor='35S642'/>
-	<sample sensor='S1058' flow='360' speed='102' occ='2.19'/>
-	<sample sensor='S1059' flow='360' speed='61' occ='3'/>
-	<sample sensor='S614' flow='540' speed='64' occ='3.44'/>
-	<sample sensor='S615' flow='420' speed='71' occ='2.61'/>
-	<sample sensor='S612' flow='600' speed='66' occ='4.39'/>
-	<sample sensor='S613' flow='420' speed='63' occ='3.28'/>
-	<sample sensor='S610' flow='360' speed='66' occ='2.58'/>
-	<sample sensor='S611' flow='360' speed='63' occ='2.97'/>
+	<sample sensor='S1058' flow='960' speed='75' occ='8.46'/>
+	<sample sensor='S1059' flow='960' speed='66' occ='8.26'/>
+	<sample sensor='S614' flow='1800' speed='53' occ='19.17'/>
+	<sample sensor='S615' flow='1260' speed='60' occ='9.08'/>
+	<sample sensor='S612' flow='1440' speed='64' occ='10.94'/>
+	<sample sensor='S613' flow='1560' speed='64' occ='12.08'/>
+	<sample sensor='S610' flow='720' speed='66' occ='5.56'/>
+	<sample sensor='S611' flow='1380' speed='63' occ='11.64'/>
 	<sample sensor='35S660'/>
-	<sample sensor='S618' flow='600' speed='62' occ='3'/>
-	<sample sensor='S619' flow='180' speed='55' occ='1.72'/>
-	<sample sensor='S616' flow='240' speed='65' occ='1.64'/>
-	<sample sensor='S617' flow='540' speed='59' occ='3.19'/>
+	<sample sensor='S618' flow='1140' speed='58' occ='6'/>
+	<sample sensor='S619' flow='1440' speed='54' occ='13.28'/>
+	<sample sensor='S616' flow='1320' speed='64' occ='9.28'/>
+	<sample sensor='S617' flow='1620' speed='59' occ='9.61'/>
 	<sample sensor='S1006'/>
-	<sample sensor='S1009' flow='320' speed='83' occ='2.19'/>
+	<sample sensor='S1009' flow='1680' speed='79' occ='11.57'/>
 	<sample sensor='35S651'/>
 	<sample sensor='S1001'/>
-	<sample sensor='S1485' flow='300' speed='67' occ='2.39'/>
-	<sample sensor='S1486' flow='360' speed='71' occ='2.14'/>
+	<sample sensor='S1485' flow='1200' speed='64' occ='10.36'/>
+	<sample sensor='S1486' flow='1920' speed='73' occ='13.06'/>
 	<sample sensor='S1002'/>
-	<sample sensor='S1487' flow='540' speed='65' occ='3.42'/>
+	<sample sensor='S1487' flow='1200' speed='70' occ='7.61'/>
 	<sample sensor='S1003'/>
 	<sample sensor='35S655'/>
-	<sample sensor='S1488' flow='300' speed='66' occ='1.78'/>
-	<sample sensor='S1489' flow='480' speed='72' occ='2.81'/>
+	<sample sensor='S1488' flow='300' speed='72' occ='1.69'/>
+	<sample sensor='S1489' flow='1020' speed='69' occ='5.94'/>
 	<sample sensor='S1005'/>
-	<sample sensor='S603' flow='420' speed='60' occ='3.42'/>
-	<sample sensor='S604' flow='180' speed='57' occ='1.33'/>
-	<sample sensor='S601' flow='540' speed='69' occ='4.25'/>
-	<sample sensor='S602' flow='600' speed='62' occ='4.33'/>
-	<sample sensor='S600' flow='300' speed='62' occ='2.33'/>
-	<sample sensor='S1470' flow='360' speed='51' occ='3.31'/>
-	<sample sensor='35S671' flow='120' speed='77' occ='0.69'/>
-	<sample sensor='S609' flow='240' speed='74' occ='1.61'/>
+	<sample sensor='S603' flow='1320' speed='60' occ='11.06'/>
+	<sample sensor='S604' flow='2040' speed='61' occ='14.25'/>
+	<sample sensor='S601' flow='1500' speed='69' occ='11.83'/>
+	<sample sensor='S602' flow='1320' speed='50' occ='11.83'/>
+	<sample sensor='S600' flow='840' speed='64' occ='6.19'/>
+	<sample sensor='S1470' flow='1020' speed='61' occ='7.56'/>
+	<sample sensor='35S671' flow='540' speed='75' occ='3.06'/>
+	<sample sensor='S609' flow='1500' speed='68' occ='11.33'/>
 	<sample sensor='S607'/>
-	<sample sensor='S608' flow='120' speed='66' occ='0.83'/>
-	<sample sensor='S605' flow='180' speed='57' occ='1.56'/>
-	<sample sensor='S606' flow='240' speed='65' occ='1.78'/>
-	<sample sensor='S1479' flow='180' speed='83' occ='1.19'/>
+	<sample sensor='S608' flow='900' speed='62' occ='6.22'/>
+	<sample sensor='S605' flow='1140' speed='53' occ='9.94'/>
+	<sample sensor='S606' flow='1020' speed='64' occ='7.5'/>
+	<sample sensor='S1479' flow='1260' speed='69' occ='10.22'/>
 	<sample sensor='S1471'/>
-	<sample sensor='S1474' flow='300' speed='63' occ='2.67'/>
-	<sample sensor='S1475' flow='240' speed='73' occ='1.89'/>
+	<sample sensor='S1474' flow='660' speed='56' occ='7.19'/>
+	<sample sensor='S1475' flow='960' speed='55' occ='9.64'/>
 	<sample sensor='35S665'/>
-	<sample sensor='S1476' flow='60' occ='0.36'/>
-	<sample sensor='S1477' flow='60' speed='76' occ='0.36'/>
-	<sample sensor='S1478' flow='780' speed='57' occ='8.11'/>
-	<sample sensor='S636' flow='720' speed='63' occ='5.74'/>
-	<sample sensor='S637' flow='760' speed='69' occ='4.87'/>
-	<sample sensor='S634' flow='440' speed='66' occ='3.83'/>
-	<sample sensor='S635' flow='680' speed='70' occ='5.22'/>
-	<sample sensor='S633' flow='120' speed='66' occ='1.31'/>
-	<sample sensor='S630' flow='570' speed='68' occ='3.43'/>
-	<sample sensor='S638' flow='1080' speed='63' occ='7.87'/>
-	<sample sensor='S639' flow='560' speed='69' occ='3.96'/>
-	<sample sensor='S1028' flow='360' speed='49' occ='5.31'/>
-	<sample sensor='S1029' flow='540' speed='116' occ='3.75'/>
-	<sample sensor='S1020' flow='330' speed='85' occ='2.07'/>
-	<sample sensor='S1021' flow='80' speed='80' occ='0.63'/>
-	<sample sensor='S640' flow='408' speed='63' occ='2.89'/>
-	<sample sensor='S1022' flow='120' speed='88' occ='0.74'/>
-	<sample sensor='S1023' flow='80' speed='85' occ='0.52'/>
-	<sample sensor='35S675' flow='180' speed='75' occ='1.17'/>
-	<sample sensor='S1024' flow='240' speed='73' occ='1.78'/>
-	<sample sensor='S1025' flow='520' speed='76' occ='4.76'/>
-	<sample sensor='S1026' flow='360' speed='73' occ='1.89'/>
-	<sample sensor='S1027' flow='60' speed='72' occ='0.36'/>
-	<sample sensor='S625' flow='400' speed='64' occ='2.59'/>
-	<sample sensor='S626' flow='520' speed='60' occ='3.44'/>
-	<sample sensor='S623' flow='210' speed='63' occ='1.29'/>
-	<sample sensor='S624' flow='840' speed='58' occ='5.94'/>
-	<sample sensor='S621' flow='210' speed='62' occ='1.49'/>
-	<sample sensor='S1490' flow='180' speed='71' occ='1.06'/>
-	<sample sensor='S1491' flow='420' speed='69' occ='2.42'/>
-	<sample sensor='35S692'/>
-	<sample sensor='S1492' flow='360' speed='67' occ='2'/>
-	<sample sensor='S620' flow='540' speed='62' occ='4.5'/>
-	<sample sensor='S629' flow='600' speed='63' occ='4.78'/>
-	<sample sensor='S627' flow='640' speed='61' occ='6.35'/>
-	<sample sensor='S628' flow='680' speed='59' occ='6.31'/>
-	<sample sensor='S1493' flow='120' speed='69' occ='0.78'/>
-	<sample sensor='S1494' flow='60' speed='82' occ='0.36'/>
-	<sample sensor='S1010' flow='390' speed='59' occ='3.99'/>
-	<sample sensor='S1011' flow='760' speed='85' occ='5.2'/>
-	<sample sensor='35S685' flow='120' speed='78' occ='0.72'/>
-	<sample sensor='S1495' flow='120' speed='68' occ='0.97'/>
-	<sample sensor='S1496' flow='120' speed='60' occ='0.83'/>
-	<sample sensor='S1497' flow='300' speed='86' occ='2'/>
-	<sample sensor='S1498' flow='180' speed='77' occ='1.22'/>
-	<sample sensor='S1014' flow='280' speed='68' occ='1.44'/>
-	<sample sensor='S1499' flow='60' occ='0.22'/>
-	<sample sensor='S1015' flow='360' speed='61' occ='2.69'/>
-	<sample sensor='S1016' flow='680' speed='65' occ='5.17'/>
-	<sample sensor='S658' flow='160' speed='67' occ='0.96'/>
-	<sample sensor='S659' flow='400' speed='63' occ='2.41'/>
-	<sample sensor='S656' flow='360' speed='64' occ='2.26'/>
-	<sample sensor='S657' flow='320' speed='66' occ='1.87'/>
-	<sample sensor='S654' flow='520' speed='63' occ='4.07'/>
-	<sample sensor='S655' flow='360' speed='62' occ='2.24'/>
-	<sample sensor='S652' flow='680' speed='59' occ='4.7'/>
-	<sample sensor='S653' flow='360' speed='63' occ='2.11'/>
-	<sample sensor='S643' flow='480' speed='52' occ='4.64'/>
-	<sample sensor='S644' flow='240' speed='51' occ='2.28'/>
-	<sample sensor='S642' flow='690' speed='58' occ='5.94'/>
-	<sample sensor='S678' flow='660' speed='75' occ='4.08'/>
-	<sample sensor='S679' flow='360' speed='38' occ='3.56'/>
-	<sample sensor='63N37' flow='80' speed='42' occ='1.33'/>
+	<sample sensor='S1476' flow='1080' speed='81' occ='7.33'/>
+	<sample sensor='S1477' flow='300' speed='90' occ='1.64'/>
+	<sample sensor='S1478' flow='1080' speed='58' occ='10.94'/>
+	<sample sensor='S636' flow='1880' speed='64' occ='15.44'/>
+	<sample sensor='S637' flow='1560' speed='66' occ='12.31'/>
+	<sample sensor='S634' flow='1320' speed='65' occ='12.7'/>
+	<sample sensor='S635' flow='1760' speed='63' occ='20.63'/>
+	<sample sensor='S633' flow='1480' speed='67' occ='10.67'/>
+	<sample sensor='S630' flow='1230' speed='70' occ='7.65'/>
+	<sample sensor='S638' flow='2080' speed='60' occ='20.17'/>
+	<sample sensor='S639' flow='1000' speed='65' occ='8.2'/>
+	<sample sensor='S1028' flow='480' speed='16' occ='21.44'/>
+	<sample sensor='S1029' flow='1080' speed='152' occ='4.11'/>
+	<sample sensor='S1020' flow='960' speed='71' occ='7.74'/>
+	<sample sensor='S1021' flow='1480' speed='69' occ='12.17'/>
+	<sample sensor='S640' flow='1080' speed='66' occ='9.06'/>
+	<sample sensor='S1022' flow='1880' speed='75' occ='11.11'/>
+	<sample sensor='S1023' flow='2040' speed='69' occ='14.24'/>
+	<sample sensor='35S675' flow='540' speed='75' occ='4.53'/>
+	<sample sensor='S1024' flow='1380' speed='78' occ='8.86'/>
+	<sample sensor='S1025' flow='1280' speed='79' occ='10.11'/>
+	<sample sensor='S1026' flow='900' speed='61' occ='5.64'/>
+	<sample sensor='S1027' flow='600' speed='80' occ='2.78'/>
+	<sample sensor='S625' flow='2080' speed='57' occ='19.94'/>
+	<sample sensor='S626' flow='2040' speed='53' occ='19.28'/>
+	<sample sensor='S623' flow='990' speed='65' occ='6.75'/>
+	<sample sensor='S624' flow='1720' speed='61' occ='14.69'/>
+	<sample sensor='S621' flow='1800' speed='56' occ='15.6'/>
+	<sample sensor='S1490' flow='900' speed='70' occ='6.33'/>
+	<sample sensor='S1491' flow='720' speed='74' occ='3.86'/>
+	<sample sensor='35S692' flow='420' speed='71' occ='2.78'/>
+	<sample sensor='S1492' flow='1380' speed='72' occ='8.36'/>
+	<sample sensor='S620' flow='2700' speed='51' occ='25.92'/>
+	<sample sensor='S629' flow='1200' speed='64' occ='9.17'/>
+	<sample sensor='S627' flow='1640' speed='47' occ='21.85'/>
+	<sample sensor='S628' flow='1800' speed='57' occ='16.39'/>
+	<sample sensor='S1493' flow='1080' speed='73' occ='6.81'/>
+	<sample sensor='S1494' flow='960' speed='83' occ='5.53'/>
+	<sample sensor='S1010' flow='1710' speed='64' occ='13.76'/>
+	<sample sensor='S1011' flow='1640' speed='64' occ='13.35'/>
+	<sample sensor='35S685' flow='540' speed='71' occ='6.39'/>
+	<sample sensor='S1495' flow='1260' speed='87' occ='8.42'/>
+	<sample sensor='S1496' flow='1080' speed='80' occ='7.22'/>
+	<sample sensor='S1497' flow='1920' speed='94' occ='11.78'/>
+	<sample sensor='S1498' flow='2220' speed='85' occ='13.33'/>
+	<sample sensor='S1014' flow='800' speed='73' occ='4.06'/>
+	<sample sensor='S1499' flow='480' speed='88' occ='2.25'/>
+	<sample sensor='S1015' flow='1000' speed='70' occ='6.43'/>
+	<sample sensor='S1016' flow='1680' speed='67' occ='11.91'/>
+	<sample sensor='S658' flow='1400' speed='27' occ='33.81'/>
+	<sample sensor='S659' flow='1560' speed='44' occ='16.89'/>
+	<sample sensor='S656' flow='2000' speed='63' occ='13.83'/>
+	<sample sensor='S657' flow='1480' speed='64' occ='10.31'/>
+	<sample sensor='S654' flow='1960' speed='63' occ='13.41'/>
+	<sample sensor='S655' flow='2040' speed='63' occ='14.37'/>
+	<sample sensor='S652' flow='1400' speed='63' occ='10.5'/>
+	<sample sensor='S653' flow='1840' speed='64' occ='13.74'/>
+	<sample sensor='S643' flow='1320' speed='58' occ='11.69'/>
+	<sample sensor='S644' flow='780' speed='51' occ='7.69'/>
+	<sample sensor='S642' flow='1260' speed='61' occ='11.25'/>
+	<sample sensor='S678' flow='480' speed='99' occ='2.28'/>
+	<sample sensor='S679' flow='1440' speed='67' occ='8.11'/>
+	<sample sensor='63N37' flow='880' speed='57' occ='6.93'/>
 	<sample sensor='S677'/>
-	<sample sensor='S683' flow='560' speed='63' occ='4.69'/>
+	<sample sensor='S683' flow='840' speed='73' occ='4.81'/>
 	<sample sensor='S684'/>
-	<sample sensor='S200' flow='560' speed='63' occ='4.07'/>
-	<sample sensor='S681' flow='810' speed='59' occ='5.83'/>
-	<sample sensor='S682' flow='160' speed='71' occ='0.78'/>
-	<sample sensor='S680' flow='720' speed='70' occ='5.08'/>
-	<sample sensor='S669' flow='240' speed='61' occ='1.78'/>
-	<sample sensor='S667' flow='240' speed='64' occ='1.06'/>
-	<sample sensor='S668' flow='390' speed='61' occ='2.58'/>
+	<sample sensor='S200' flow='1320' speed='80' occ='7.04'/>
+	<sample sensor='S681' flow='1620' speed='68' occ='11.64'/>
+	<sample sensor='S682' flow='1120' speed='72' occ='6.22'/>
+	<sample sensor='S680' flow='960' speed='74' occ='6.36'/>
+	<sample sensor='S669' flow='1560' speed='66' occ='10.72'/>
+	<sample sensor='S667' flow='1400' speed='65' occ='9.43'/>
+	<sample sensor='S668' flow='1710' speed='63' occ='14.15'/>
 	<sample sensor='S665'/>
-	<sample sensor='S666' flow='200' speed='68' occ='1.07'/>
-	<sample sensor='S664' flow='400' speed='70' occ='1.85'/>
+	<sample sensor='S666' flow='1320' speed='71' occ='7.94'/>
+	<sample sensor='S664' flow='1680' speed='53' occ='10.5'/>
 	<sample sensor='S672'/>
-	<sample sensor='S670' flow='360' speed='100' occ='1.78'/>
-	<sample sensor='S671' flow='600' speed='73' occ='5'/>
-	<sample sensor='S218' flow='360' speed='60' occ='10.63'/>
-	<sample sensor='S219' flow='360' speed='98' occ='2.41'/>
-	<sample sensor='S216' flow='120' speed='94' occ='0.92'/>
-	<sample sensor='S217' flow='400' speed='80' occ='3.19'/>
-	<sample sensor='S214' flow='240' speed='70' occ='1.39'/>
-	<sample sensor='S215' flow='520' speed='82' occ='3.76'/>
-	<sample sensor='S696' flow='520' speed='64' occ='3.81'/>
-	<sample sensor='S212' flow='120' speed='53' occ='0.72'/>
-	<sample sensor='S697' flow='420' speed='67' occ='2.81'/>
-	<sample sensor='S213' flow='420' speed='102' occ='2.19'/>
-	<sample sensor='S221' flow='480' speed='58' occ='5.33'/>
-	<sample sensor='S222' flow='300' speed='66' occ='2.11'/>
-	<sample sensor='S220' flow='280' speed='84' occ='1.96'/>
+	<sample sensor='S670' flow='2160' speed='57' occ='18.61'/>
+	<sample sensor='S671' flow='1560' speed='66' occ='14.39'/>
+	<sample sensor='S218' flow='1560' speed='76' occ='9.83'/>
+	<sample sensor='S219' flow='1200' speed='110' occ='8.57'/>
+	<sample sensor='S216' flow='1320' speed='75' occ='13.19'/>
+	<sample sensor='S217' flow='960' speed='89' occ='5.65'/>
+	<sample sensor='S214' flow='1320' speed='79' occ='6.81'/>
+	<sample sensor='S215' flow='960' speed='86' occ='6.43'/>
+	<sample sensor='S696' flow='1280' speed='63' occ='10.67'/>
+	<sample sensor='S212' flow='960' speed='61' occ='5.97'/>
+	<sample sensor='S697' flow='600' speed='67' occ='5'/>
+	<sample sensor='S213' flow='1440' speed='99' occ='7.75'/>
+	<sample sensor='S221' flow='1320' speed='64' occ='10.22'/>
+	<sample sensor='S222' flow='1200' speed='63' occ='10.31'/>
+	<sample sensor='S220' flow='1400' speed='95' occ='8.93'/>
 	<sample sensor='S207'/>
-	<sample sensor='S208' flow='280' speed='55' occ='2.91'/>
-	<sample sensor='S205' flow='600' speed='84' occ='4.19'/>
-	<sample sensor='S206' flow='280' speed='51' occ='2.69'/>
-	<sample sensor='S203' flow='420' speed='78' occ='3.11'/>
-	<sample sensor='S204' flow='840' speed='97' occ='5.19'/>
-	<sample sensor='S685' flow='240' speed='69' occ='1.8'/>
-	<sample sensor='S201' flow='440' speed='71' occ='2.8'/>
-	<sample sensor='S202' flow='480' speed='62' occ='3.15'/>
-	<sample sensor='S686' flow='240' speed='62' occ='1.41'/>
-	<sample sensor='S209' flow='300' speed='97' occ='1.42'/>
-	<sample sensor='S210' flow='60' occ='0.22'/>
-	<sample sensor='S694' flow='240' speed='68' occ='1.48'/>
-	<sample sensor='S695' flow='280' speed='67' occ='1.61'/>
-	<sample sensor='S211' flow='960' speed='95' occ='5.25'/>
-	<sample sensor='S692' flow='600' speed='63' occ='4.39'/>
-	<sample sensor='S693' flow='280' speed='66' occ='1.72'/>
-	<sample sensor='S691' flow='440' speed='65' occ='2.69'/>
-	<sample sensor='S238' flow='60' speed='50' occ='0.36'/>
-	<sample sensor='S239' flow='360' speed='59' occ='2.22'/>
-	<sample sensor='S236' flow='420' speed='64' occ='3'/>
-	<sample sensor='S237' flow='720' speed='79' occ='5.22'/>
-	<sample sensor='S234' flow='440' speed='89' occ='2.39'/>
-	<sample sensor='S235' flow='240' speed='60' occ='2.67'/>
-	<sample sensor='S243' flow='480' speed='63' occ='3.46'/>
-	<sample sensor='S244' flow='180' speed='70' occ='1.28'/>
-	<sample sensor='S241' flow='180' speed='51' occ='1.25'/>
-	<sample sensor='S242' flow='360' speed='62' occ='2.03'/>
-	<sample sensor='S240' flow='270' speed='55' occ='2.69'/>
-	<sample sensor='S229' flow='640' speed='93' occ='3.89'/>
-	<sample sensor='S225' flow='240' speed='84' occ='1.63'/>
-	<sample sensor='S226' flow='400' speed='70' occ='3.41'/>
-	<sample sensor='S223' flow='480' speed='75' occ='4.67'/>
-	<sample sensor='S224' flow='680' speed='78' occ='6.24'/>
-	<sample sensor='S232' flow='200' speed='92' occ='1.31'/>
-	<sample sensor='S233' flow='280' speed='67' occ='2.44'/>
-	<sample sensor='S230' flow='440' speed='68' occ='3.65'/>
-	<sample sensor='S231' flow='600' speed='78' occ='4.37'/>
-	<sample sensor='S259' flow='390' speed='53' occ='2.71'/>
-	<sample sensor='S256' flow='510' speed='68' occ='3.57'/>
-	<sample sensor='S1718'/>
-	<sample sensor='S1721' flow='120' speed='81' occ='0.94'/>
+	<sample sensor='S208' flow='1520' speed='80' occ='11.28'/>
+	<sample sensor='S205' flow='920' speed='89' occ='8.04'/>
+	<sample sensor='S206' flow='1760' speed='87' occ='10.98'/>
+	<sample sensor='S203' flow='2280' speed='47' occ='29.44'/>
+	<sample sensor='S204' flow='2160' speed='73' occ='17.58'/>
+	<sample sensor='S685' flow='1440' speed='72' occ='10.39'/>
+	<sample sensor='S201' flow='1880' speed='56' occ='14.59'/>
+	<sample sensor='S202' flow='1880' speed='62' occ='11.8'/>
+	<sample sensor='S686' flow='560' speed='64' occ='4.31'/>
+	<sample sensor='S209' flow='660' speed='102' occ='2.94'/>
+	<sample sensor='S210' flow='1080' speed='69' occ='6.89'/>
+	<sample sensor='S694' flow='560' speed='68' occ='4.85'/>
+	<sample sensor='S695' flow='1280' speed='69' occ='7.65'/>
+	<sample sensor='S211' flow='660' speed='94' occ='3.69'/>
+	<sample sensor='S692' flow='960' speed='70' occ='6.22'/>
+	<sample sensor='S693' flow='520' speed='72' occ='4.57'/>
+	<sample sensor='S691' flow='760' speed='66' occ='5.81'/>
+	<sample sensor='S238' flow='540' speed='68' occ='2.92'/>
+	<sample sensor='S239' flow='1200' speed='61' occ='7.06'/>
+	<sample sensor='S236' flow='900' speed='66' occ='6.19'/>
+	<sample sensor='S237' flow='1680' speed='74' occ='12.78'/>
+	<sample sensor='S234' flow='1360' speed='77' occ='8.5'/>
+	<sample sensor='S235' flow='480' speed='66' occ='3.31'/>
+	<sample sensor='S243' flow='960' speed='68' occ='6.17'/>
+	<sample sensor='S244' flow='750' speed='67' occ='6.43'/>
+	<sample sensor='S241' flow='960' speed='64' occ='7.42'/>
+	<sample sensor='S242' flow='930' speed='68' occ='6.26'/>
+	<sample sensor='S240' flow='630' speed='64' occ='4.47'/>
+	<sample sensor='S229' flow='1960' speed='76' occ='14.35'/>
+	<sample sensor='S225' flow='1440' speed='76' occ='10.78'/>
+	<sample sensor='S226' flow='1320' speed='77' occ='9.65'/>
+	<sample sensor='S223' flow='960' speed='90' occ='6.46'/>
+	<sample sensor='S224' flow='1640' speed='89' occ='12.04'/>
+	<sample sensor='S232' flow='1480' speed='84' occ='10.89'/>
+	<sample sensor='S233' flow='1680' speed='74' occ='11.2'/>
+	<sample sensor='S230' flow='2320' speed='74' occ='17.2'/>
+	<sample sensor='S231' flow='2000' speed='83' occ='13.61'/>
+	<sample sensor='S259' flow='330' speed='54' occ='2.99'/>
+	<sample sensor='S256' flow='600' speed='69' occ='4.19'/>
+	<sample sensor='S1718' flow='720' speed='55' occ='5.52'/>
+	<sample sensor='S1721' flow='660' speed='75' occ='4.78'/>
 	<sample sensor='S1722'/>
 	<sample sensor='S1723'/>
-	<sample sensor='S1724' flow='660' speed='77' occ='4.36'/>
+	<sample sensor='S1724' flow='960' speed='75' occ='7.92'/>
 	<sample sensor='S1725'/>
 	<sample sensor='S1726'/>
-	<sample sensor='S1727' flow='480' speed='72' occ='3.36'/>
-	<sample sensor='S1728' flow='720' speed='72' occ='6.36'/>
-	<sample sensor='S265' flow='120' speed='45' occ='1.89'/>
-	<sample sensor='S266' flow='60' speed='64' occ='0.42'/>
-	<sample sensor='S264' flow='180' speed='66' occ='1.28'/>
-	<sample sensor='S262' flow='60' speed='55' occ='0.5'/>
-	<sample sensor='S260' flow='60' speed='60' occ='0.38'/>
-	<sample sensor='S1720' flow='0' occ='0'/>
-	<sample sensor='S249' flow='390' speed='65' occ='2.56'/>
-	<sample sensor='S248' flow='120' speed='60' occ='0.97'/>
-	<sample sensor='S245' flow='480' speed='61' occ='3.69'/>
-	<sample sensor='S1707' flow='720' speed='57' occ='5.69'/>
-	<sample sensor='S1708' flow='840' speed='50' occ='7.47'/>
-	<sample sensor='S1709'/>
-	<sample sensor='S1710' flow='240' speed='65' occ='1.69'/>
-	<sample sensor='S1711' flow='750' speed='62' occ='6.83'/>
-	<sample sensor='S1712' flow='360' speed='59' occ='2.61'/>
-	<sample sensor='S1713' flow='300' speed='58' occ='2.28'/>
-	<sample sensor='S1714' flow='720' speed='65' occ='6.22'/>
-	<sample sensor='S1715' flow='840' speed='63' occ='5.53'/>
+	<sample sensor='S1727' flow='1260' speed='76' occ='8.14'/>
+	<sample sensor='S1728' flow='720' speed='78' occ='4'/>
+	<sample sensor='S265' flow='1140' speed='63' occ='10.92'/>
+	<sample sensor='S266' flow='300' speed='69' occ='2.06'/>
+	<sample sensor='S264' flow='600' speed='68' occ='4.03'/>
+	<sample sensor='S262' flow='900' speed='51' occ='7.86'/>
+	<sample sensor='S260' flow='720' speed='62' occ='5.07'/>
+	<sample sensor='S1720' flow='240' speed='66' occ='1.06'/>
+	<sample sensor='S249' flow='600' speed='65' occ='4.22'/>
+	<sample sensor='S248' flow='750' speed='63' occ='5.32'/>
+	<sample sensor='S245' flow='1230' speed='65' occ='9.68'/>
+	<sample sensor='S1707' flow='1020' speed='53' occ='11.25'/>
+	<sample sensor='S1708' flow='1320' speed='57' occ='9.89'/>
+	<sample sensor='S1709' flow='0' occ='0'/>
+	<sample sensor='S1710' flow='480' speed='62' occ='3.39'/>
+	<sample sensor='S1711' flow='690' speed='62' occ='5.9'/>
+	<sample sensor='S1712' flow='360' speed='62' occ='3.25'/>
+	<sample sensor='S1713' flow='1620' speed='61' occ='12.22'/>
+	<sample sensor='S1714' flow='1140' speed='64' occ='10.67'/>
+	<sample sensor='S1715' flow='1200' speed='62' occ='8.67'/>
 	<sample sensor='S1716'/>
-	<sample sensor='S1717' flow='360' speed='57' occ='2.61'/>
-	<sample sensor='S254' flow='390' speed='63' occ='2.67'/>
-	<sample sensor='S255' flow='330' speed='63' occ='2.08'/>
-	<sample sensor='S252' flow='390' speed='64' occ='2.69'/>
-	<sample sensor='S253' flow='240' speed='68' occ='1.25'/>
-	<sample sensor='S250' flow='270' speed='65' occ='1.87'/>
-	<sample sensor='S251' flow='450' speed='68' occ='3.35'/>
-	<sample sensor='S278' flow='120' speed='54' occ='1.11'/>
-	<sample sensor='S279' flow='300' speed='60' occ='1.83'/>
-	<sample sensor='S1743' flow='160' speed='76' occ='0.93'/>
-	<sample sensor='S280' flow='240' speed='85' occ='1.78'/>
-	<sample sensor='S1744' flow='420' speed='74' occ='3.22'/>
-	<sample sensor='S1745' flow='120' speed='69' occ='1.06'/>
-	<sample sensor='S1746' flow='300' speed='74' occ='1.92'/>
-	<sample sensor='S1747' flow='420' speed='73' occ='4.56'/>
+	<sample sensor='S1717' flow='1800' speed='39' occ='19'/>
+	<sample sensor='S254' flow='1380' speed='68' occ='9.06'/>
+	<sample sensor='S255' flow='270' speed='74' occ='1.65'/>
+	<sample sensor='S252' flow='1050' speed='71' occ='5.97'/>
+	<sample sensor='S253' flow='420' speed='71' occ='2.68'/>
+	<sample sensor='S250' flow='810' speed='72' occ='5.53'/>
+	<sample sensor='S251' flow='1230' speed='73' occ='10.49'/>
+	<sample sensor='S278' flow='720' speed='63' occ='5.14'/>
+	<sample sensor='S279' flow='600' speed='67' occ='3.5'/>
+	<sample sensor='S1743' flow='560' speed='71' occ='4.52'/>
+	<sample sensor='S280' flow='780' speed='78' occ='5.81'/>
+	<sample sensor='S1744' flow='840' speed='71' occ='5.61'/>
+	<sample sensor='S1745' flow='1500' speed='68' occ='12.03'/>
+	<sample sensor='S1746' flow='1260' speed='74' occ='10.42'/>
+	<sample sensor='S1747' flow='660' speed='75' occ='6.17'/>
 	<sample sensor='S1748'/>
-	<sample sensor='S1749' flow='600' speed='70' occ='5.17'/>
+	<sample sensor='S1749' flow='1680' speed='70' occ='15.11'/>
 	<sample sensor='S287'/>
 	<sample sensor='S288'/>
-	<sample sensor='S285' flow='630' speed='58' occ='4.6'/>
-	<sample sensor='35N503' flow='60' speed='72' occ='1.33'/>
-	<sample sensor='S286' flow='600' speed='63' occ='4.43'/>
-	<sample sensor='S283' flow='463' speed='73' occ='2.62'/>
-	<sample sensor='S284' flow='480' speed='64' occ='3.52'/>
-	<sample sensor='S1740' flow='120' speed='76' occ='0.97'/>
-	<sample sensor='S281' flow='300' speed='80' occ='2.31'/>
-	<sample sensor='S1741' flow='560' speed='68' occ='3.65'/>
-	<sample sensor='S282' flow='540' speed='64' occ='3.78'/>
-	<sample sensor='S269' flow='120' speed='65' occ='0.75'/>
-	<sample sensor='S267' flow='180' speed='60' occ='1.33'/>
-	<sample sensor='S268' flow='300' speed='63' occ='2.36'/>
-	<sample sensor='S1729' flow='300' speed='78' occ='1.83'/>
+	<sample sensor='S285' flow='1620' speed='61' occ='11.86'/>
+	<sample sensor='35N503' flow='540' speed='74' occ='4.75'/>
+	<sample sensor='S286' flow='1560' speed='61' occ='13.91'/>
+	<sample sensor='S283' flow='1920' speed='71' occ='11.73'/>
+	<sample sensor='S284' flow='1900' speed='57' occ='15.43'/>
+	<sample sensor='S1740' flow='720' speed='75' occ='6.58'/>
+	<sample sensor='S281' flow='1380' speed='69' occ='10.92'/>
+	<sample sensor='S1741' flow='640' speed='76' occ='5.78'/>
+	<sample sensor='S282' flow='1840' speed='59' occ='14.76'/>
+	<sample sensor='S269' flow='720' speed='66' occ='5.06'/>
+	<sample sensor='S267' flow='300' speed='67' occ='1.89'/>
+	<sample sensor='S268' flow='900' speed='74' occ='6.11'/>
+	<sample sensor='S1729' flow='480' speed='79' occ='3.42'/>
 	<sample sensor='S1732'/>
-	<sample sensor='S1733' flow='420' speed='65' occ='3.44'/>
-	<sample sensor='S1734' flow='600' speed='66' occ='3.72'/>
-	<sample sensor='S1735' flow='300' speed='64' occ='2.11'/>
+	<sample sensor='S1733' flow='600' speed='72' occ='6.19'/>
+	<sample sensor='S1734' flow='960' speed='65' occ='10.89'/>
+	<sample sensor='S1735' flow='1380' speed='70' occ='10.58'/>
 	<sample sensor='S1736'/>
-	<sample sensor='S1737' flow='780' speed='74' occ='8.25'/>
-	<sample sensor='S1738' flow='360' speed='77' occ='2.17'/>
-	<sample sensor='S1739' flow='180' speed='68' occ='2.03'/>
-	<sample sensor='S276' flow='480' speed='64' occ='3.03'/>
-	<sample sensor='S277' flow='120' speed='64' occ='0.83'/>
-	<sample sensor='S274' flow='600' speed='60' occ='4'/>
-	<sample sensor='S275' flow='240' speed='63' occ='1.33'/>
-	<sample sensor='S272' flow='240' speed='57' occ='1.44'/>
-	<sample sensor='S273' flow='180' speed='68' occ='0.92'/>
-	<sample sensor='S270' flow='360' speed='69' occ='2.39'/>
-	<sample sensor='S1730' flow='420' speed='67' occ='4.42'/>
-	<sample sensor='S271' flow='300' speed='62' occ='2.5'/>
-	<sample sensor='S1731' flow='600' speed='76' occ='5.81'/>
-	<sample sensor='35N520' flow='480' speed='73' occ='5.47'/>
-	<sample sensor='S289' flow='300' speed='50' occ='2.31'/>
-	<sample sensor='S290' flow='120' speed='49' occ='1.03'/>
-	<sample sensor='35N530' flow='180' speed='47' occ='2'/>
-	<sample sensor='S291' flow='160' speed='52' occ='1.52'/>
-	<sample sensor='S11' flow='720' speed='63' occ='3.08'/>
-	<sample sensor='S10' flow='930' speed='67' occ='6.56'/>
-	<sample sensor='S13' flow='300' speed='74' occ='2.39'/>
-	<sample sensor='S12' flow='330' speed='82' occ='1.85'/>
-	<sample sensor='S15'/>
-	<sample sensor='S14' flow='480' speed='68' occ='3.06'/>
-	<sample sensor='S17' flow='660' speed='54' occ='5.89'/>
-	<sample sensor='S298' flow='600' speed='67' occ='4.5'/>
-	<sample sensor='S16' flow='660' speed='60' occ='5.28'/>
-	<sample sensor='S299' flow='280' speed='76' occ='1.94'/>
-	<sample sensor='S19' flow='240' speed='61' occ='1.78'/>
-	<sample sensor='S296' flow='200' speed='61' occ='1.72'/>
-	<sample sensor='S18' flow='180' speed='65' occ='1.33'/>
-	<sample sensor='S297' flow='280' speed='74' occ='1.96'/>
-	<sample sensor='S294' flow='280' speed='86' occ='1.69'/>
-	<sample sensor='S295' flow='200' speed='88' occ='1.28'/>
-	<sample sensor='35N535' flow='420' speed='74' occ='4.42'/>
-	<sample sensor='S292' flow='280' speed='66' occ='2'/>
-	<sample sensor='S293' flow='320' speed='66' occ='1.83'/>
-	<sample sensor='S20' flow='360' speed='62' occ='2.81'/>
-	<sample sensor='S22' flow='360' speed='62' occ='3.11'/>
+	<sample sensor='S1737' flow='1140' speed='74' occ='9.89'/>
+	<sample sensor='S1738' flow='1620' speed='73' occ='13.97'/>
+	<sample sensor='S1739' flow='660' speed='69' occ='7'/>
+	<sample sensor='S276' flow='1560' speed='61' occ='11.11'/>
+	<sample sensor='S277' flow='1920' speed='52' occ='16.19'/>
+	<sample sensor='S274' flow='1080' speed='63' occ='7.42'/>
+	<sample sensor='S275' flow='1260' speed='64' occ='7.83'/>
+	<sample sensor='S272' flow='1380' speed='60' occ='8.94'/>
+	<sample sensor='S273' flow='1140' speed='68' occ='7.89'/>
+	<sample sensor='S270' flow='1260' speed='64' occ='10.17'/>
+	<sample sensor='S1730' flow='900' speed='74' occ='7.61'/>
+	<sample sensor='S271' flow='960' speed='58' occ='6.89'/>
+	<sample sensor='S1731' flow='840' speed='74' occ='7.08'/>
+	<sample sensor='35N520'/>
+	<sample sensor='S289' flow='480' speed='50' occ='3.75'/>
+	<sample sensor='S290' flow='780' speed='54' occ='5.92'/>
+	<sample sensor='35N530' flow='480' speed='77' occ='4'/>
+	<sample sensor='S291' flow='160' speed='51' occ='1.52'/>
+	<sample sensor='S11' flow='600' speed='76' occ='1.86'/>
+	<sample sensor='S10' flow='450' speed='70' occ='3.24'/>
+	<sample sensor='S13' flow='840' speed='64' occ='7.58'/>
+	<sample sensor='S12' flow='840' speed='70' occ='5.67'/>
+	<sample sensor='S15' flow='600' speed='65' occ='4.47'/>
+	<sample sensor='S14' flow='1320' speed='73' occ='8.03'/>
+	<sample sensor='S17' flow='1140' speed='68' occ='8.06'/>
+	<sample sensor='S298' flow='1000' speed='73' occ='7.24'/>
+	<sample sensor='S16' flow='900' speed='61' occ='6.92'/>
+	<sample sensor='S299' flow='1440' speed='79' occ='9.56'/>
+	<sample sensor='S19' flow='2100' speed='62' occ='15.42'/>
+	<sample sensor='S296' flow='1360' speed='72' occ='10.3'/>
+	<sample sensor='S18' flow='1080' speed='68' occ='7.67'/>
+	<sample sensor='S297' flow='1440' speed='79' occ='9.39'/>
+	<sample sensor='S294' flow='1080' speed='79' occ='7.19'/>
+	<sample sensor='S295' flow='1480' speed='73' occ='11.39'/>
+	<sample sensor='35N535' flow='420' speed='77' occ='4.61'/>
+	<sample sensor='S292' flow='1280' speed='65' occ='9.19'/>
+	<sample sensor='S293' flow='920' speed='65' occ='5.85'/>
+	<sample sensor='S20' flow='1740' speed='70' occ='12.83'/>
+	<sample sensor='S22' flow='1320' speed='81' occ='8.78'/>
 	<sample sensor='S1701'/>
-	<sample sensor='S21' flow='540' speed='68' occ='4.14'/>
-	<sample sensor='S1702' flow='420' speed='63' occ='4.11'/>
-	<sample sensor='35N540' flow='300' speed='78' occ='3.92'/>
-	<sample sensor='S1703' flow='300' speed='69' occ='1.94'/>
-	<sample sensor='S24' flow='1020' speed='85' occ='7.17'/>
-	<sample sensor='S1704' flow='660' speed='62' occ='5.28'/>
-	<sample sensor='S23' flow='240' speed='77' occ='1.61'/>
-	<sample sensor='S1705' flow='300' speed='60' occ='2.15'/>
-	<sample sensor='S26' flow='480' speed='84' occ='3.22'/>
-	<sample sensor='S1706' flow='540' speed='51' occ='4.78'/>
-	<sample sensor='S25' flow='840' speed='68' occ='6.78'/>
-	<sample sensor='S28' flow='780' speed='87' occ='4.94'/>
-	<sample sensor='S27' flow='1020' speed='73' occ='7.81'/>
-	<sample sensor='S29' flow='720' speed='91' occ='4.31'/>
-	<sample sensor='35N545' flow='420' speed='74' occ='3.47'/>
+	<sample sensor='S21' flow='1800' speed='63' occ='14.83'/>
+	<sample sensor='S1702' flow='720' speed='69' occ='5.75'/>
+	<sample sensor='35N540' flow='240' speed='77' occ='1.92'/>
+	<sample sensor='S1703' flow='1260' speed='66' occ='10.5'/>
+	<sample sensor='S24' flow='960' speed='66' occ='8.53'/>
+	<sample sensor='S1704' flow='1080' speed='64' occ='7.64'/>
+	<sample sensor='S23' flow='1080' speed='79' occ='7.06'/>
+	<sample sensor='S1705' flow='1200' speed='63' occ='11.15'/>
+	<sample sensor='S26' flow='1380' speed='76' occ='10.39'/>
+	<sample sensor='S1706' flow='480' speed='31' occ='14.5'/>
+	<sample sensor='S25' flow='1020' speed='61' occ='9.28'/>
+	<sample sensor='S28' flow='1020' speed='63' occ='9.17'/>
+	<sample sensor='S27' flow='1680' speed='64' occ='14.69'/>
+	<sample sensor='S29' flow='1620' speed='66' occ='13.75'/>
+	<sample sensor='35N545' flow='720' speed='77' occ='4.36'/>
 	<sample sensor='S31'/>
 	<sample sensor='35N552'/>
-	<sample sensor='S30' flow='280' speed='76' occ='1.94'/>
-	<sample sensor='S33' flow='420' speed='63' occ='2.94'/>
-	<sample sensor='S32' flow='420' speed='89' occ='2.86'/>
-	<sample sensor='S35' flow='780' speed='90' occ='5.44'/>
-	<sample sensor='S34' flow='300' speed='76' occ='2.33'/>
+	<sample sensor='S30' flow='1160' speed='67' occ='9.35'/>
+	<sample sensor='S33' flow='1200' speed='78' occ='8.19'/>
+	<sample sensor='S32' flow='600' speed='78' occ='4.67'/>
+	<sample sensor='S35' flow='1140' speed='70' occ='10.19'/>
+	<sample sensor='S34' flow='1800' speed='71' occ='13.39'/>
 	<sample sensor='S37'/>
 	<sample sensor='S36'/>
-	<sample sensor='S39' flow='480' speed='87' occ='3.11'/>
-	<sample sensor='S38' flow='360' speed='57' occ='3.69'/>
-	<sample sensor='35N558' flow='420' speed='74' occ='2.58'/>
-	<sample sensor='S40' flow='420' speed='80' occ='2.64'/>
-	<sample sensor='S42' flow='360' speed='84' occ='1.78'/>
-	<sample sensor='S41' flow='280' speed='72' occ='2.04'/>
-	<sample sensor='S43' flow='240' speed='82' occ='1.58'/>
-	<sample sensor='S46' flow='660' speed='73' occ='4.67'/>
-	<sample sensor='S45' flow='420' speed='69' occ='3.22'/>
-	<sample sensor='S48' flow='480' speed='75' occ='3.56'/>
-	<sample sensor='S47' flow='600' speed='68' occ='4.25'/>
-	<sample sensor='S49' flow='300' speed='68' occ='2.17'/>
-	<sample sensor='S51' flow='360' speed='54' occ='2.76'/>
-	<sample sensor='S50' flow='480' speed='52' occ='4.33'/>
-	<sample sensor='S53' flow='630' speed='59' occ='4.83'/>
-	<sample sensor='S52'/>
-	<sample sensor='S1799' flow='240' speed='47' occ='2.03'/>
-	<sample sensor='S55' flow='600' speed='73' occ='4.15'/>
-	<sample sensor='S54' flow='420' speed='68' occ='2.78'/>
-	<sample sensor='S57' flow='1260' speed='67' occ='10.61'/>
-	<sample sensor='S56' flow='720' speed='68' occ='5.06'/>
+	<sample sensor='S39' flow='960' speed='69' occ='7.89'/>
+	<sample sensor='S38' flow='720' speed='62' occ='6.56'/>
+	<sample sensor='35N558' flow='540' speed='73' occ='5.92'/>
+	<sample sensor='S40' flow='2040' speed='57' occ='19.06'/>
+	<sample sensor='S42' flow='1200' speed='64' occ='7.11'/>
+	<sample sensor='S41' flow='1320' speed='66' occ='10.83'/>
+	<sample sensor='S43' flow='960' speed='67' occ='8.06'/>
+	<sample sensor='S46' flow='1560' speed='61' occ='13.33'/>
+	<sample sensor='S45' flow='1620' speed='67' occ='12.81'/>
+	<sample sensor='S48' flow='1080' speed='77' occ='7.86'/>
+	<sample sensor='S47' flow='1260' speed='55' occ='10.94'/>
+	<sample sensor='S49' flow='960' speed='47' occ='9.22'/>
+	<sample sensor='S51' flow='600' speed='56' occ='4.17'/>
+	<sample sensor='S50' flow='600' speed='62' occ='4.56'/>
+	<sample sensor='S53' flow='780' speed='62' occ='5.93'/>
+	<sample sensor='S52' flow='1260' speed='57' occ='10.42'/>
+	<sample sensor='S1799' flow='960' speed='55' occ='7.22'/>
+	<sample sensor='S55' flow='960' speed='19' occ='25.59'/>
+	<sample sensor='S54' flow='1080' speed='65' occ='7.46'/>
+	<sample sensor='S57' flow='1740' speed='52' occ='19.06'/>
+	<sample sensor='S56' flow='1080' speed='31' occ='16.97'/>
 	<sample sensor='S59'/>
-	<sample sensor='S58' flow='840' speed='71' occ='6.44'/>
-	<sample sensor='S1795' flow='300' speed='50' occ='2.61'/>
-	<sample sensor='S1796' flow='300' speed='64' occ='1.97'/>
+	<sample sensor='S58' flow='1020' speed='52' occ='10.81'/>
+	<sample sensor='S1795' flow='840' speed='65' occ='5.58'/>
+	<sample sensor='S1796' flow='360' speed='60' occ='2.5'/>
 	<sample sensor='S1797'/>
-	<sample sensor='S60' flow='520' speed='53' occ='6.46'/>
-	<sample sensor='S62' flow='1800' speed='51' occ='0'/>
+	<sample sensor='S60' flow='1440' speed='60' occ='14.02'/>
+	<sample sensor='S62' flow='1800' speed='54' occ='0'/>
 	<sample sensor='S61'/>
-	<sample sensor='35N464' flow='240' speed='71' occ='3.61'/>
+	<sample sensor='35N464' flow='1260' speed='72' occ='12.03'/>
 	<sample sensor='S64'/>
 	<sample sensor='S63'/>
-	<sample sensor='S66' flow='420' speed='60' occ='1.83'/>
+	<sample sensor='S66' flow='1680' speed='84' occ='7'/>
 	<sample sensor='S65'/>
-	<sample sensor='S68' flow='420' speed='52' occ='3.56'/>
-	<sample sensor='S67' flow='480' speed='64' occ='3.11'/>
-	<sample sensor='S69' flow='720' speed='56' occ='5.39'/>
-	<sample sensor='S71' flow='240' speed='93' occ='1.5'/>
-	<sample sensor='S72' flow='360' speed='96' occ='2.03'/>
+	<sample sensor='S68' flow='1620' speed='54' occ='13.64'/>
+	<sample sensor='S67' flow='1500' speed='61' occ='10.31'/>
+	<sample sensor='S69' flow='1620' speed='54' occ='11.58'/>
+	<sample sensor='S71' flow='660' speed='91' occ='4.22'/>
+	<sample sensor='S72' flow='1080' speed='87' occ='6.36'/>
 	<sample sensor='S77'/>
 	<sample sensor='S76'/>
-	<sample sensor='S79' flow='320' speed='70' occ='2.93'/>
+	<sample sensor='S79' flow='840' speed='70' occ='6.56'/>
 	<sample sensor='S78'/>
-	<sample sensor='35N470'/>
-	<sample sensor='35N490' flow='420' speed='75' occ='3.64'/>
-	<sample sensor='S80' flow='360' speed='88' occ='1.93'/>
-	<sample sensor='S82' flow='240' speed='60' occ='1.89'/>
-	<sample sensor='S81' flow='240' speed='77' occ='1.87'/>
-	<sample sensor='S86' flow='0' occ='0'/>
-	<sample sensor='S1765' flow='120' speed='75' occ='0.75'/>
-	<sample sensor='S1766' flow='600' speed='63' occ='4.94'/>
-	<sample sensor='S1767' flow='360' speed='77' occ='2.48'/>
-	<sample sensor='S1768' flow='240' speed='70' occ='1.56'/>
-	<sample sensor='S1769' flow='40' speed='90' occ='0.24'/>
-	<sample sensor='35N482' flow='180' speed='65' occ='1.33'/>
-	<sample sensor='S89' flow='640' speed='39' occ='8.41'/>
+	<sample sensor='35N470' flow='1200' speed='71' occ='10.86'/>
+	<sample sensor='35N490' flow='540' speed='71' occ='3.92'/>
+	<sample sensor='S80' flow='1520' speed='67' occ='10.28'/>
+	<sample sensor='S82' flow='1260' speed='81' occ='8.56'/>
+	<sample sensor='S81' flow='1080' speed='66' occ='10.57'/>
+	<sample sensor='S86'/>
+	<sample sensor='S1765' flow='120' speed='77' occ='1.33'/>
+	<sample sensor='S1766' flow='1200' speed='49' occ='13.83'/>
+	<sample sensor='S1767' flow='640' speed='58' occ='5.81'/>
+	<sample sensor='S1768' flow='540' speed='59' occ='4.11'/>
+	<sample sensor='S1769' flow='560' speed='62' occ='4.56'/>
+	<sample sensor='35N482' flow='540' speed='69' occ='6.11'/>
+	<sample sensor='S89' flow='1040' speed='51' occ='8.69'/>
 	<sample sensor='S1760'/>
-	<sample sensor='S1761' flow='240' speed='80' occ='1.36'/>
+	<sample sensor='S1761' flow='840' speed='73' occ='7.92'/>
 	<sample sensor='S1762'/>
 	<sample sensor='S1763'/>
-	<sample sensor='S1764' flow='360' speed='78' occ='2.22'/>
-	<sample sensor='S93' flow='520' speed='57' occ='3.83'/>
-	<sample sensor='S1754' flow='180' speed='73' occ='3.19'/>
-	<sample sensor='S97' flow='200' speed='58' occ='1.5'/>
-	<sample sensor='S1755' flow='120' speed='66' occ='0.94'/>
-	<sample sensor='S1756' flow='480' speed='73' occ='3.61'/>
-	<sample sensor='S1757' flow='540' speed='77' occ='4.22'/>
-	<sample sensor='35S705' flow='180' speed='71' occ='1.17'/>
-	<sample sensor='S1758' flow='480' speed='75' occ='2.81'/>
+	<sample sensor='S1764' flow='1380' speed='73' occ='12.56'/>
+	<sample sensor='S93' flow='1000' speed='49' occ='7.67'/>
+	<sample sensor='S1754' flow='720' speed='77' occ='5.5'/>
+	<sample sensor='S97' flow='1240' speed='59' occ='10.28'/>
+	<sample sensor='S1755' flow='1440' speed='66' occ='13.92'/>
+	<sample sensor='S1756' flow='360' speed='71' occ='5.67'/>
+	<sample sensor='S1757' flow='360' speed='77' occ='5.03'/>
+	<sample sensor='35S705' flow='600' speed='74' occ='5.22'/>
+	<sample sensor='S1758' flow='720' speed='75' occ='5.67'/>
 	<sample sensor='S1759'/>
-	<sample sensor='S1750' flow='180' speed='72' occ='2.03'/>
-	<sample sensor='S1751' flow='120' speed='72' occ='0.72'/>
+	<sample sensor='S1750' flow='1020' speed='74' occ='7'/>
+	<sample sensor='S1751' flow='540' speed='71' occ='3.08'/>
 	<sample sensor='S1752'/>
-	<sample sensor='S1753' flow='120' speed='73' occ='0.64'/>
-	<sample sensor='35S718' flow='360' speed='75' occ='2.83'/>
-	<sample sensor='S1780' flow='120' speed='60' occ='0.83'/>
-	<sample sensor='S1781' flow='180' speed='72' occ='0.92'/>
-	<sample sensor='S1782' flow='180' speed='57' occ='1.31'/>
-	<sample sensor='S1783' flow='60' speed='69' occ='0.36'/>
-	<sample sensor='S1784' flow='120' speed='61' occ='0.83'/>
-	<sample sensor='S1776' flow='60' speed='75' occ='0.33'/>
-	<sample sensor='S1777' flow='120' speed='63' occ='0.97'/>
-	<sample sensor='S1778' flow='360' speed='68' occ='2.22'/>
-	<sample sensor='S1779' flow='420' speed='55' occ='3.17'/>
-	<sample sensor='35S728' flow='240' speed='79' occ='1.31'/>
-	<sample sensor='S1770' flow='240' speed='83' occ='1.46'/>
-	<sample sensor='S1771' flow='120' speed='80' occ='0.72'/>
-	<sample sensor='S1772' flow='180' speed='77' occ='1.14'/>
-	<sample sensor='S1773' flow='420' speed='70' occ='3.03'/>
-	<sample sensor='S1774' flow='640' speed='75' occ='5.43'/>
-	<sample sensor='S1775' flow='300' speed='67' occ='2.14'/>
-	<sample sensor='35S737' flow='180' speed='76' occ='0.86'/>
-	<sample sensor='S1390' flow='0' occ='0'/>
-	<sample sensor='S1393' flow='180' speed='80' occ='1.44'/>
-	<sample sensor='S1394' flow='300' speed='63' occ='3.33'/>
-	<sample sensor='S1395' flow='180' speed='84' occ='1.31'/>
-	<sample sensor='S1396' flow='480' speed='56' occ='5.36'/>
-	<sample sensor='S1397' flow='720' speed='89' occ='4.36'/>
-	<sample sensor='S1398' flow='300' speed='88' occ='2'/>
-	<sample sensor='S1399' flow='360' speed='64' occ='3.69'/>
-	<sample sensor='S714' flow='240' speed='68' occ='2.22'/>
-	<sample sensor='S711' flow='320' speed='68' occ='1.98'/>
-	<sample sensor='S710' flow='360' speed='69' occ='2.43'/>
-	<sample sensor='S718' flow='400' speed='69' occ='2.28'/>
-	<sample sensor='S702' flow='240' speed='66' occ='1.3'/>
-	<sample sensor='S700' flow='360' speed='62' occ='2.39'/>
-	<sample sensor='S701' flow='200' speed='65' occ='1.26'/>
-	<sample sensor='S708' flow='440' speed='66' occ='3.09'/>
-	<sample sensor='S709' flow='320' speed='63' occ='1.91'/>
+	<sample sensor='S1753' flow='480' speed='72' occ='4.86'/>
+	<sample sensor='35S718' flow='960' speed='80' occ='4.89'/>
+	<sample sensor='S1780' flow='480' speed='74' occ='2.72'/>
+	<sample sensor='S1781' flow='540' speed='78' occ='2.94'/>
+	<sample sensor='S1782' flow='1020' speed='51' occ='8.42'/>
+	<sample sensor='S1783' flow='780' speed='56' occ='5.97'/>
+	<sample sensor='S1784' flow='1080' speed='63' occ='7.81'/>
+	<sample sensor='S1776' flow='300' speed='61' occ='2.17'/>
+	<sample sensor='S1777' flow='600' speed='55' occ='6.03'/>
+	<sample sensor='S1778' flow='840' speed='64' occ='5.58'/>
+	<sample sensor='S1779' flow='360' speed='62' occ='2.53'/>
+	<sample sensor='35S728' flow='360' speed='71' occ='3.14'/>
+	<sample sensor='S1770' flow='600' speed='69' occ='4.33'/>
+	<sample sensor='S1771' flow='660' speed='73' occ='4.17'/>
+	<sample sensor='S1772' flow='720' speed='77' occ='4.61'/>
+	<sample sensor='S1773' flow='1560' speed='73' occ='10.81'/>
+	<sample sensor='S1774' flow='1600' speed='66' occ='13.44'/>
+	<sample sensor='S1775' flow='1140' speed='69' occ='9'/>
+	<sample sensor='35S737' flow='1380' speed='73' occ='11.75'/>
+	<sample sensor='S1390' flow='760' speed='68' occ='5.31'/>
+	<sample sensor='S1393' flow='2040' speed='67' occ='19.36'/>
+	<sample sensor='S1394' flow='600' speed='69' occ='4.53'/>
+	<sample sensor='S1395' flow='2640' speed='70' occ='21.81'/>
+	<sample sensor='S1396' flow='1230' speed='50' occ='14.21'/>
+	<sample sensor='S1397' flow='1740' speed='72' occ='13.03'/>
+	<sample sensor='S1398' flow='600' speed='58' occ='5.92'/>
+	<sample sensor='S1399' flow='1140' speed='66' occ='10.08'/>
+	<sample sensor='S714' flow='1560' speed='66' occ='10.89'/>
+	<sample sensor='S711' flow='880' speed='69' occ='6.35'/>
+	<sample sensor='S710' flow='1000' speed='67' occ='7.76'/>
+	<sample sensor='S718' flow='2000' speed='64' occ='15.57'/>
+	<sample sensor='S702' flow='680' speed='70' occ='3.96'/>
+	<sample sensor='S700' flow='920' speed='75' occ='5.98'/>
+	<sample sensor='S701' flow='720' speed='70' occ='5.04'/>
+	<sample sensor='S708' flow='1000' speed='59' occ='9.33'/>
+	<sample sensor='S709' flow='1000' speed='64' occ='7.89'/>
 	<sample sensor='S706'/>
-	<sample sensor='S707' flow='400' speed='63' occ='2.35'/>
-	<sample sensor='S704' flow='400' speed='66' occ='3.65'/>
-	<sample sensor='S705' flow='400' speed='68' occ='2.67'/>
-	<sample sensor='S736' flow='240' speed='64' occ='1.5'/>
-	<sample sensor='S733' flow='540' speed='81' occ='4.04'/>
-	<sample sensor='S731' flow='160' speed='67' occ='1.02'/>
-	<sample sensor='S1360' flow='240' speed='80' occ='1.63'/>
-	<sample sensor='S730' flow='160' speed='64' occ='0.98'/>
-	<sample sensor='S739' flow='780' speed='63' occ='5.39'/>
-	<sample sensor='S737' flow='180' speed='65' occ='2.17'/>
-	<sample sensor='S738' flow='360' speed='66' occ='2.31'/>
-	<sample sensor='S1369' flow='160' speed='79' occ='1.07'/>
-	<sample sensor='S1361' flow='440' speed='74' occ='3.07'/>
-	<sample sensor='S1362' flow='360' speed='68' occ='2.46'/>
-	<sample sensor='S1363' flow='360' speed='67' occ='1.89'/>
-	<sample sensor='S1364' flow='240' speed='49' occ='2.22'/>
-	<sample sensor='S1365' flow='80' speed='74' occ='0.48'/>
-	<sample sensor='S1366' flow='300' speed='61' occ='2.56'/>
-	<sample sensor='S1367' flow='300' speed='69' occ='2.06'/>
-	<sample sensor='S1368' flow='0' occ='0'/>
-	<sample sensor='S724' flow='400' speed='70' occ='3.31'/>
-	<sample sensor='S725' flow='120' speed='66' occ='0.8'/>
-	<sample sensor='S722' flow='240' speed='68' occ='1.39'/>
-	<sample sensor='S723' flow='320' speed='64' occ='2.54'/>
+	<sample sensor='S707' flow='1240' speed='67' occ='8.85'/>
+	<sample sensor='S704' flow='920' speed='72' occ='5.83'/>
+	<sample sensor='S705' flow='1200' speed='71' occ='9.35'/>
+	<sample sensor='S736' flow='720' speed='67' occ='4.86'/>
+	<sample sensor='S733' flow='900' speed='71' occ='7.88'/>
+	<sample sensor='S731' flow='1480' speed='69' occ='13'/>
+	<sample sensor='S1360' flow='920' speed='76' occ='7.43'/>
+	<sample sensor='S730' flow='1960' speed='67' occ='15.24'/>
+	<sample sensor='S739' flow='1980' speed='64' occ='16.36'/>
+	<sample sensor='S737' flow='1440' speed='64' occ='12.25'/>
+	<sample sensor='S738' flow='1320' speed='65' occ='10.44'/>
+	<sample sensor='S1369' flow='1280' speed='81' occ='8.19'/>
+	<sample sensor='S1361' flow='560' speed='79' occ='4.54'/>
+	<sample sensor='S1362' flow='880' speed='69' occ='6.3'/>
+	<sample sensor='S1363' flow='1320' speed='65' occ='10.22'/>
+	<sample sensor='S1364' flow='1800' speed='56' occ='14.61'/>
+	<sample sensor='S1365' flow='640' speed='70' occ='4.35'/>
+	<sample sensor='S1366' flow='1920' speed='68' occ='14.03'/>
+	<sample sensor='S1367' flow='900' speed='75' occ='5.89'/>
+	<sample sensor='S1368' flow='1680' speed='78' occ='10.89'/>
+	<sample sensor='S724' flow='1360' speed='69' occ='10.04'/>
+	<sample sensor='S725' flow='1800' speed='64' occ='13.67'/>
+	<sample sensor='S722' flow='1080' speed='69' occ='8.33'/>
+	<sample sensor='S723' flow='1160' speed='66' occ='7.43'/>
 	<sample sensor='ST518'/>
 	<sample sensor='ST519'/>
-	<sample sensor='S721' flow='320' speed='70' occ='2'/>
-	<sample sensor='S728' flow='120' speed='74' occ='0.59'/>
-	<sample sensor='S729' flow='320' speed='63' occ='2.65'/>
+	<sample sensor='S721' flow='1400' speed='68' occ='9.06'/>
+	<sample sensor='S728' flow='1800' speed='71' occ='11.54'/>
+	<sample sensor='S729' flow='1200' speed='66' occ='8.56'/>
 	<sample sensor='S726'/>
-	<sample sensor='S727' flow='40' speed='66' occ='0.35'/>
-	<sample sensor='S1358' flow='120' speed='53' occ='1.11'/>
-	<sample sensor='S1359' flow='400' speed='68' occ='3.65'/>
+	<sample sensor='S727' flow='1920' speed='67' occ='13.78'/>
+	<sample sensor='S1358' flow='760' speed='69' occ='7.54'/>
+	<sample sensor='S1359' flow='600' speed='70' occ='5.24'/>
 	<sample sensor='S2200'/>
-	<sample sensor='S1356' flow='240' speed='80' occ='1.89'/>
-	<sample sensor='S1357' flow='80' speed='77' occ='1.13'/>
-	<sample sensor='S757' flow='240' speed='71' occ='1.58'/>
-	<sample sensor='S758' flow='660' speed='62' occ='4.31'/>
-	<sample sensor='S756' flow='300' speed='66' occ='1.92'/>
-	<sample sensor='S1380' flow='0' occ='0'/>
-	<sample sensor='S1381' flow='120' speed='72' occ='0.89'/>
-	<sample sensor='S751' flow='360' speed='69' occ='2'/>
-	<sample sensor='S1382' flow='120' speed='86' occ='0.83'/>
-	<sample sensor='S759' flow='240' speed='62' occ='1.31'/>
-	<sample sensor='52N543' flow='0' occ='0'/>
-	<sample sensor='S1383' flow='180' speed='74' occ='1.33'/>
-	<sample sensor='S760' flow='240' speed='60' occ='1.47'/>
-	<sample sensor='S1384' flow='60' speed='75' occ='0.42'/>
-	<sample sensor='S761' flow='540' speed='64' occ='3.69'/>
-	<sample sensor='S1385' flow='180' speed='61' occ='2.22'/>
-	<sample sensor='S1386' flow='40' speed='67' occ='0.31'/>
+	<sample sensor='S1356' flow='1080' speed='80' occ='10.72'/>
+	<sample sensor='S1357' flow='1640' speed='73' occ='10.11'/>
+	<sample sensor='S757' flow='1440' speed='66' occ='9.69'/>
+	<sample sensor='S758' flow='1380' speed='69' occ='8.67'/>
+	<sample sensor='S756' flow='1560' speed='68' occ='9.86'/>
+	<sample sensor='S1380' flow='540' speed='74' occ='3.86'/>
+	<sample sensor='S1381' flow='480' speed='75' occ='3.14'/>
+	<sample sensor='S751' flow='1080' speed='71' occ='5.31'/>
+	<sample sensor='S1382' flow='180' speed='90' occ='1.19'/>
+	<sample sensor='S759' flow='1500' speed='65' occ='10.33'/>
+	<sample sensor='52N543' flow='120' speed='69' occ='0.72'/>
+	<sample sensor='S1383' flow='420' speed='75' occ='3.36'/>
+	<sample sensor='S760' flow='2100' speed='51' occ='19.47'/>
+	<sample sensor='S1384' flow='840' speed='75' occ='5.47'/>
+	<sample sensor='S761' flow='2220' speed='57' occ='19.11'/>
+	<sample sensor='S1385' flow='840' speed='80' occ='5.92'/>
+	<sample sensor='S1386' flow='520' speed='75' occ='3.59'/>
 	<sample sensor='52N549'/>
-	<sample sensor='S1387' flow='0' occ='0'/>
-	<sample sensor='S1388' flow='240' speed='81' occ='1.47'/>
-	<sample sensor='S1389' flow='60' speed='79' occ='0.42'/>
-	<sample sensor='S746' flow='420' speed='65' occ='3.06'/>
-	<sample sensor='S747' flow='600' speed='66' occ='3.81'/>
-	<sample sensor='S744' flow='420' speed='66' occ='2.56'/>
-	<sample sensor='S745' flow='420' speed='64' occ='3.81'/>
-	<sample sensor='S743'/>
-	<sample sensor='S1370' flow='180' speed='95' occ='1'/>
-	<sample sensor='S740' flow='420' speed='60' occ='2.81'/>
-	<sample sensor='S1371' flow='360' speed='66' occ='3.11'/>
-	<sample sensor='S741' flow='360' speed='64' occ='2.36'/>
-	<sample sensor='S748' flow='360' speed='65' occ='2.5'/>
-	<sample sensor='S749' flow='420' speed='49' occ='3'/>
+	<sample sensor='S1387' flow='420' speed='84' occ='2.5'/>
+	<sample sensor='S1388' flow='660' speed='82' occ='4.19'/>
+	<sample sensor='S1389' flow='840' speed='73' occ='6.22'/>
+	<sample sensor='S746' flow='840' speed='69' occ='5.42'/>
+	<sample sensor='S747' flow='900' speed='66' occ='7.39'/>
+	<sample sensor='S744' flow='1800' speed='63' occ='13.44'/>
+	<sample sensor='S745' flow='1260' speed='63' occ='9.53'/>
+	<sample sensor='S743' flow='1380' speed='65' occ='9.67'/>
+	<sample sensor='S1370' flow='840' speed='85' occ='5.14'/>
+	<sample sensor='S740' flow='1560' speed='63' occ='13.11'/>
+	<sample sensor='S1371' flow='840' speed='71' occ='6.67'/>
+	<sample sensor='S741' flow='1500' speed='64' occ='11.08'/>
+	<sample sensor='S748' flow='720' speed='70' occ='6.42'/>
+	<sample sensor='S749' flow='1740' speed='75' occ='10.61'/>
 	<sample sensor='52N558'/>
-	<sample sensor='S1372' flow='240' speed='73' occ='1.86'/>
-	<sample sensor='S1373' flow='120' speed='72' occ='0.97'/>
-	<sample sensor='S750' flow='600' speed='69' occ='3.58'/>
-	<sample sensor='S1374' flow='120' speed='97' occ='0.67'/>
-	<sample sensor='S1375' flow='360' speed='85' occ='2.39'/>
-	<sample sensor='S1376' flow='60' occ='0.33'/>
-	<sample sensor='S1379' flow='60' speed='82' occ='0.42'/>
+	<sample sensor='S1372' flow='660' speed='80' occ='4.78'/>
+	<sample sensor='S1373' flow='1440' speed='58' occ='13.58'/>
+	<sample sensor='S750' flow='720' speed='75' occ='3.97'/>
+	<sample sensor='S1374' flow='1320' speed='77' occ='9.11'/>
+	<sample sensor='S1375' flow='840' speed='87' occ='5.17'/>
+	<sample sensor='S1376' flow='780' speed='82' occ='5.39'/>
+	<sample sensor='S1379' flow='300' speed='85' occ='1.86'/>
 </traffic_sample>
