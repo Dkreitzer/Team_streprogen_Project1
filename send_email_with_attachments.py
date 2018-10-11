@@ -20,8 +20,8 @@ def send_an_email(file_name,subject="sending email with attachments",\
     #global subject,body
     ##add xander and jeff's emails here:
 
-    #toaddr_s = ['yjjiangphysics@gmail.com','Kreitzer.gr@gmail.com','xanendorf@gmail.com']
-    toaddr_s = ['yjjiangphysics@gmail.com']
+    toaddr_s = ['yjjiangphysics@gmail.com','Kreitzer.gr@gmail.com','xanendorf@gmail.com']
+    #toaddr_s = ['yjjiangphysics@gmail.com']
     #,'Kreitzer.gr@gmail.com'] 
     me =  EMAIL_ADDRESS
     msg = MIMEMultipart()
