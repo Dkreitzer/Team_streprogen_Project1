@@ -6,9 +6,14 @@ Group Members:
 * Yongjin Jiang
 * Jeff Olson
 
+To view the full presentation in Slides click [here](https://dkreitzer.github.io/Streprogen_Presentation/)
+
 ## Objective:
 * Use Python and a Jupyter Notebook to gather, clean, and visualize any dataset that our team identifies.
-* To view the full presentation in Slides click [here](https://dkreitzer.github.io/Streprogen_Presentation/)
+* Collect data from MNDOT using a bot & Java App
+* Send email notifications with traffic updates
+* Analyze traffic speed, flow, volume, incidents, and accidents
+* Visualize data in gifs, maps, and charts
 
 ## What data did we use?
 * We wanted to understand the flow of Freeway Traffic to and from downtown Minneapolis, MN.
