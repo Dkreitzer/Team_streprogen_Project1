@@ -43,7 +43,7 @@ Almost all of our work was complete using a Jupyter Notebook, and a little bit o
 
 Using data collected from the bot, we created a gif along Highway 35W that changed colors and width based on the speed and volume of traffic.
 <p align="center">
-<img src="gif/NBMap Paul Open This One.gif" width="400" height="400" title="MNDOT 35W Gif">
+<img src="gif/NBMapFinalGif.gif" width="400" height="400" title="MNDOT 35W Gif">
 </p>
 
 
