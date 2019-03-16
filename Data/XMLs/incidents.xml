@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE active_incidents [
+<!ELEMENT active_incidents (incident)*>
+<!ATTLIST active_incidents time_stamp CDATA #REQUIRED>
+<!ELEMENT incident EMPTY>
+<!ATTLIST incident name CDATA #REQUIRED>
+<!ATTLIST incident replaces CDATA #IMPLIED>
+<!ATTLIST incident event_type CDATA #REQUIRED>
+<!ATTLIST incident event_date CDATA #REQUIRED>
+<!ATTLIST incident detail CDATA #IMPLIED>
+<!ATTLIST incident lane_type CDATA #REQUIRED>
+<!ATTLIST incident road CDATA #REQUIRED>
+<!ATTLIST incident dir CDATA #REQUIRED>
+<!ATTLIST incident location CDATA #IMPLIED>
+<!ATTLIST incident lon CDATA #REQUIRED>
+<!ATTLIST incident lat CDATA #REQUIRED>
+<!ATTLIST incident camera CDATA #REQUIRED>
+<!ATTLIST incident impact CDATA #REQUIRED>
+<!ATTLIST incident cleared CDATA #REQUIRED>
+]>
+<active_incidents time_stamp='Thu Oct 11 17:46:07 CDT 2018'>
+<incident name='2018101117174484' event_type='INCIDENT_CRASH' event_date='Thu Oct 11 17:17:44 CDT 2018' lane_type='Exit' road='T.H.36' dir='WB' lon='-93.00256' lat='45.01232' camera='C3610' impact='..!' cleared='false' confirmed='true'/>
+<incident name='2018101117233551' event_type='INCIDENT_ROADWORK' event_date='Thu Oct 11 17:23:35 CDT 2018' lane_type='Mainline' road='I-35W' dir='SB' lon='-93.13245' lat='45.17073' camera='C646' impact='!!..' cleared='false' confirmed='true'/>
+<incident name='L004_9962890' event_type='INCIDENT_CRASH' event_date='Thu Oct 11 17:45:02 CDT 2018' lane_type='Mainline' road='I-494' dir='EB' lon='-93.0607' lat='44.87465' camera='C554' impact='.....' cleared='false' confirmed='false'/>
+<incident name='L004_9962884' event_type='INCIDENT_CRASH' event_date='Thu Oct 11 17:44:12 CDT 2018' lane_type='Mainline' road='I-694' dir='EB' location='@ Long Lake Rd' lon='-93.20217' lat='45.0653' camera='C705' impact='....!' cleared='false' confirmed='true'/>
+<incident name='L004_9962888' event_type='INCIDENT_STALL' event_date='Thu Oct 11 17:44:52 CDT 2018' lane_type='Mainline' road='U.S.169' dir='SB' location='S of Highwood Ave' lon='-93.39864' lat='44.84701' camera='C321' impact='.....' cleared='true' confirmed='false'/>
+<incident name='L004_9962887' event_type='INCIDENT_HAZARD' event_date='Thu Oct 11 17:44:32 CDT 2018' detail='Pedestrian on Highway' lane_type='Mainline' road='T.H.55' dir='WB' lon='-93.17174' lat='44.88411' camera='C104' impact='....' cleared='false' confirmed='false'/>
+<incident name='2018101117285521' replaces='L004_9962839' event_type='INCIDENT_STALL' event_date='Thu Oct 11 17:28:55 CDT 2018' lane_type='Mainline' road='I-94' dir='EB' location='@ Snelling Ave' lon='-93.17271' lat='44.95166' camera='C8431' impact='....?!' cleared='true' confirmed='true'/>
+<incident name='2018100813043181' event_type='INCIDENT_ROADWORK' event_date='Mon Oct 08 13:04:31 CDT 2018' lane_type='Exit' road='T.H.36' dir='WB' location='@ Cleveland Ave' lon='-93.18502' lat='45.01033' camera='C001' impact='!!!' cleared='false' confirmed='true'/>
+<incident name='2018101018500189' event_type='INCIDENT_ROADWORK' event_date='Wed Oct 10 18:50:01 CDT 2018' lane_type='Mainline' road='T.H.62' dir='WB' location='@ Shady Oak Rd' lon='-93.4191' lat='44.8929' camera='C121' impact='!!..' cleared='false' confirmed='true'/>
+<incident name='2018101117070078' replaces='L004_9962793' event_type='INCIDENT_CRASH' event_date='Thu Oct 11 17:07:00 CDT 2018' lane_type='Mainline' road='U.S.169' dir='SB' lon='-93.39434' lat='44.85829' camera='C3211' impact='...!' cleared='true' confirmed='true'/>
+<incident name='2018101111350907' replaces='2018101108103254' event_type='INCIDENT_ROADWORK' event_date='Thu Oct 11 11:35:09 CDT 2018' lane_type='Mainline' road='I-35E' dir='SB' location='@ I-35W' lon='-93.02937' lat='45.21519' camera='C056' impact='!!..' cleared='false' confirmed='true'/>
+<incident name='2018101020181967' event_type='INCIDENT_ROADWORK' event_date='Wed Oct 10 20:18:19 CDT 2018' lane_type='Mainline' road='I-35W' dir='NB' location='@ T.H.36 EB' lon='-93.19073' lat='45.01027' camera='C634' impact='!!...' cleared='false' confirmed='true'/>
+<incident name='2018101111333772' event_type='INCIDENT_ROADWORK' event_date='Thu Oct 11 11:33:37 CDT 2018' lane_type='Mainline' road='U.S.169' dir='NB' location='S of I-494' lon='-93.39357' lat='44.85542' camera='C3211' impact='...!!' cleared='false' confirmed='true'/>
+<incident name='2018100804584095' event_type='INCIDENT_ROADWORK' event_date='Mon Oct 08 04:58:40 CDT 2018' lane_type='Mainline' road='T.H.36' dir='EB' location='@ Cleveland Ave' lon='-93.18432' lat='45.01001' camera='C001' impact='!!...' cleared='false' confirmed='true'/>
+<incident name='L004_9962803' event_type='INCIDENT_CRASH' event_date='Thu Oct 11 17:09:12 CDT 2018' lane_type='Mainline' road='I-35W' dir='NB' location='@ Washington Ave' lon='-93.24942' lat='44.97381' camera='C1628' impact='!.....' cleared='true' confirmed='true'/>
+<incident name='L004_9962876' event_type='INCIDENT_CRASH' event_date='Thu Oct 11 17:41:12 CDT 2018' lane_type='Mainline' road='I-35E' dir='SB' location='@ Maryland Ave' lon='-93.08877' lat='44.97712' camera='C037' impact='!.!...' cleared='false' confirmed='true'/>
+</active_incidents>

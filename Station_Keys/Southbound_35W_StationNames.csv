@@ -1,0 +1,76 @@
+,1,Label,Type,Order,Lat,Lng
+0,S685,SB 35W Before 694,Flow,1,45.07251,-93.18555
+1,486,EXIT to WB 694,Exit,2,,
+2,S686,SB 35W After 694 EXITS and WB 694 Ent,Flow,4,45.06598,-93.18629
+3,738,EXIT to EB 694,Exit,5,,
+4,799,ENT from EB 694,On,6,,
+5,2821,EXIT to 5th st. NW,Exit,7,,
+6,S691,SB 35W betwee 5th st. NW ENT and EXIT,Flow,8,45.05605,-93.18789
+7,2825,ENT from 5th St. NW,On,9,,
+8,S692,SB 35W Before HWY 88 Exit,Flow,10,45.04851,-93.18906
+9,2829,EXIT to HWY 88,Exit,11,,
+10,S693,SB 35W after HWY 88 Exit,Flow,12,45.0417,-93.18961
+11,2833,EXIT to Cty Rd D,Exit,13,,
+12,2837,ENT from Cty Rd D,On,14,,
+13,S695,SB 35W,Flow,15,45.02788,-93.19115
+14,2841,EXIT to Cty Rd C,Exit,16,,
+15,2845,ENT from Cty Rd C,On,17,,
+16,S697,SB 35W after Cty Rd C,Flow,18,45.01578,-93.18804
+17,2192,Exit to HWY 36 WB,Exit,19,,
+18,2193,Exit to Cleveland,Exit,20,,
+19,S618,ENT from WB HWY36,On,21,45.01032,-93.18502
+20,S576,SB 35W pre HWY 36 merge,Flow,22,45.01181,-93.18838
+21,2197,Exit to HWY 280 SB,Exit,23,,
+22,2196,Exit to HWY 280 SB,Exit,24,,
+23,S577,SB 35W / 280,Flow,25,45.01014,-93.2004
+24,S578,SB 35W / Industrial Blvd,Flow,26,45.00302,-93.21487
+25,S579,SB 35W / Honeywell,Flow,27,45.00091,-93.22346
+26,S580,SB 35W / Quarry,Flow,28,45.00273,-93.23333
+27,S570,SB 35W / Broadway,Flow,29,44.99644,-93.23823
+28,S582,SB 35W / Hennepin,Flow,30,44.99115,-93.23659
+29,S583,SB 35W / 4th St.,Flow,31,44.98175,-93.24397
+30,2228,EXIT to 4th St.,Exit,32,,
+31,S584,Station - 35W south of exit for Wash,Flow,33,44.97472,-93.24883
+32,2233,ENT from Washington,On,34,,
+33,2234,ENT from S 3rd St (U of MN West Bank),On,35,,
+34,2245,ENT from S 3rd St (U of MN West Bank),On,36,,
+35,2235,ENT from South 4th St. (near vikings stadium),On,37,,
+36,S585,35W down town mpls (southbount),Flow,38,44.9676,-93.25392
+37,S559,ENT 94 WestBound merging with 35W,On,39,44.96608,-93.25418
+38,S560,Exit for either 94 or downtown mpls,Exit,40,44.96605,-93.26399
+39,S1943,Exit 35 for 94WB,Exit,41,44.96603,-93.26861
+40,S3,35W after turning south past mpls,Flow,42,44.96214,-93.26949
+41,S2,ENT 35 SB from downtown mpls,Exit,43,44.96259,-93.26997
+42,S4,SB 35W 26th St.,Flow,44,44.95512,-93.27083
+43,S5,SB 35W 28th St.,Flow,45,44.95169,-93.27377
+44,S6,SB 35W pre-Lake Street,Flow,46,44.94636,-93.27494
+45,96,ENT from Lake Street,On,47,,
+46,135,EXIT to 35th street,Exit,48,,
+47,S7,SB 35W  post 35th st. exit,Flow,49,44.93984,-93.27498
+48,97,ENT from 35th st,On,50,,
+49,S8,35W south of 35th st enterance,Flow,51,44.93465,-93.27482
+50,S9,35W south 42nd street,Flow,52,44.92727,-93.27492
+51,136,Exit to 46th st,Exit,53,,
+52,S10,SB 35W after 46th st exit,Flow,54,44.92003,-93.27488
+53,98,ENT from 46th st,On,55,,
+54,137,EXIT to Diamond Lake Rr,Exit,56,,
+55,S14,SW 35W post diamond lake road exit,Flow,57,44.90227,-93.27509
+56,99,ENT from Diamond Lake Rd,On,58,,
+57,138,EXIT to East 60th St.,Exit,59,,
+58,S1718,EXIT to HWY 62,Exit,60,44.89542,-93.27571
+59,S15,SB 35W NOT exiting on 62,Flow,61,44.89549,-93.27512
+60,S17,SB 35W AND WB 62 Merged,Flow,62,44.89038,-93.28818
+61,S18,SB 35W after 62 exit,Flow,63,44.8899,-93.29425
+62,143,EXIT to W 66th st,Exit,64,,
+63,S19,SB 35W after W 66th st exit,Flow,65,44.88238,-93.29604
+64,S20,SB 35W west 70th St.,Flow,66,44.87647,-93.29829
+65,S21,SB 35W and 73rd st.,Flow,67,44.87106,-93.29904
+66,S1148,positioned at the same spot as S21,Flow,68,44.87088,-93.29904
+67,144,EXIT to 76th St.,Exit,69,,
+68,867,EXIT to 494 West,Exit,70,,
+69,S23,SB 35W after 494 WB Exit,Flow,71,44.86282,-93.29875
+70,104,ENT from WB 494,On,72,,
+71,862,EXIT to 494 East,Exit,73,,
+72,105,ENT from EB 494,On,74,,
+73,S13,SB 35W after 494 EB Exit,Flow,75,44.85991,-93.29856
+74,SS24,SB 35W After 494 Interchange,Flow,76,,
